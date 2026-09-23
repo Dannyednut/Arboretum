@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.tv-hub.org/guide/market-neutral-strategy-crypto",
+    "name": "Market Neutral Strategy in Crypto: Does It Actually Work?",
+    "snippet": "Mar 28, 2026 — Delta neutral strategies were positive. Funding rate arbitrage can yield up to 115.9% over six months with max losses capped at 1.92% ( ...",
+    "host_name": "www.tv-hub.org",
+    "rank": 0,
+    "date": "Mar 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s42521-026-00213-3",
+    "name": "Centralized–decentralized exchange funding rate arbitrage as",
+    "snippet": "by E Pindza · 2026 — The basis trade between perpetual swaps and spot markets has received attention as a delta - neutral strategy for capturing funding payments ( ... Read more",
+    "host_name": "link.springer.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/the-investors-handbook/delta-neutral-yield-explained-how-basis-trade-synthetic-dollars-really-work-and-where-they-2db6bd446e22",
+    "name": "Delta-Neutral Yield, Explained: How Basis-Trade Synthetic",
+    "snippet": "Delta - neutral yield comes from a basis trade : hold a crypto asset long, short an equal amount of perpetual futures, and collect the funding rate ... Read more",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperdash.com/learn/basis-trading-and-funding-rate-arbitrage-on-perps",
+    "name": "Basis Trading and Funding Rate Arbitrage on Perps",
+    "snippet": "Jan 14, 2026 — If you want exposure to crypto markets without directional risk, basis trading provides a way to earn yield while remaining market- neutral . Read more",
+    "host_name": "hyperdash.com",
+    "rank": 3,
+    "date": "Jan 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arbitragescanner.io/blog/crypto-funding-rate-arbitrage-guide",
+    "name": "Crypto Funding Rate Arbitrage: A Delta-Neutral Guide to 8-",
+    "snippet": "Apr 24, 2026 — The current (elevated speculation) 0.05% funding rate per 8-hour window will yield a gross APY of about 71%, but these periods have a shorter ... Read more",
+    "host_name": "arbitragescanner.io",
+    "rank": 4,
+    "date": "Apr 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://bjftradinggroup.com/en/funding-rate-arbitrage",
+    "name": "Funding Rate Arbitrage: Live Scanner and Strategy Guide",
+    "snippet": "Jul 15, 2026 — Funding rate arbitrage is a delta-neutral strategy . Basis trading captures the price gap between spot and a dated futures contract y. Both are  ...",
+    "host_name": "bjftradinggroup.com",
+    "rank": 5,
+    "date": "Jul 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://tradesanta.com/blog/how-delta-neutral-trading-works-mastering-futures-funding-rate-approach",
+    "name": "How Delta-Neutral Trading Works: Funding Rate Approach",
+    "snippet": "This strategy allows traders to hedge against directional price movements, enabling them to focus on other profit avenues such as arbitrage and funding rates. Read more",
+    "host_name": "tradesanta.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bitcointalk.org/index.php?topic=5584224.0",
+    "name": "Funding rate arbitrage in 2026: which platforms are",
+    "snippet": "May 28, 2026 — You collect funding when rates are positive while staying delta - neutral . Collect 0.0017% avg per 8h (x3 daily) = earning ~0.0141% per day. 5-8% ...",
+    "host_name": "bitcointalk.org",
+    "rank": 7,
+    "date": "May 28, 2026",
+    "favicon": ""
+  }
+]

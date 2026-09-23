@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.bitmex.com",
+    "name": "REST API",
+    "snippet": "To access private endpoints, a permanent API key is required. Details about authentication via API Key are available via a separate document. Limits. Request ... Read more",
+    "host_name": "www.bitmex.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://algotrading101.com",
+    "name": "BitMex API Introduction Guide",
+    "snippet": "Table of contents: What is the BitMex API ? What is BitMex ? What Crypto Derivatives are available on BitMex ? What are the trading fees on BitMex ?",
+    "host_name": "algotrading101.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://testnet.bitmex.com",
+    "name": "BitMEX Testnet API Explorer",
+    "snippet": "Get the API key used to make this request . Funding : Swap Funding History. This endpoint is used for placing orders.",
+    "host_name": "testnet.bitmex.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gunbot.com",
+    "name": "How to Create a BitMEX API Key for Your Trading Bot",
+    "snippet": "This guide details the process of creating and configuring a BitMEX API key for secure automated cryptocurrency derivatives trading.",
+    "host_name": "www.gunbot.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

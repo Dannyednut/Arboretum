@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.kraken.com",
+    "name": "What are perpetual futures contracts? A complete guide",
+    "snippet": "Jun 18, 2026 — On Kraken Pro, the funding interval is every 8 hours for US clients and every hour for clients in the EEA and other regions.",
+    "host_name": "www.kraken.com",
+    "rank": 0,
+    "date": "Jun 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.kraken.com",
+    "name": "Historical funding rates - Kraken Developers",
+    "snippet": "Returns list of historical funding rates for given market. A list containing structures with historical funding rate information.",
+    "host_name": "docs.kraken.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cfbenchmarks.com",
+    "name": "CF Bitcoin Kraken Perpetual Funding Rate Index",
+    "snippet": "The CF Bitcoin Kraken Perpetual Funding Rate Index (KFRI) is designed to measure the annualized funding rate for Bitcoin perpetual futures contracts on Kraken. Read more",
+    "host_name": "www.cfbenchmarks.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "krakenfutures, odd return data from fetch_funding_rate()",
+    "snippet": "Feb 23, 2025 — For kraken , info. fundingRate is not a percentage rate, it's the actual value you receive / pay, i.e., more like a funding payment. From kraken ... Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "Feb 23, 2025",
+    "favicon": ""
+  }
+]

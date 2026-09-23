@@ -1,0 +1,11 @@
+services:
+  trader:
+    build: .
+    environment:
+      NETWORK: testnet
+      DRY_RUN: "true"
+      LOG_LEVEL: INFO
+      DB_PATH: /app/state/bot_data.db
+    volumes:
+      - ./state:/app/state
+    restart: unless-stopped

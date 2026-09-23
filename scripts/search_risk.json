@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.linkedin.com/posts/byroncoetsee_built-a-funding-rate-arbitrage-setupcurious-activity-7282108933345792000-6tLQ",
+    "name": "Built a funding rate arbitrage setup—curious to see if it",
+    "snippet": "This price drop triggers arbitrage bots to sell on other exchanges, initiating further liquidations in the futures long positions of that asset. Read more",
+    "host_name": "www.linkedin.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bjftradinggroup.com/en/funding-rate-arbitrage",
+    "name": "Funding Rate Arbitrage: Live Scanner and Strategy Guide",
+    "snippet": "Jul 15, 2026 — Funding rate arbitrage is a delta-neutral strategy that collects the periodic funding payment exchanged between long and short holders of a ... Read more",
+    "host_name": "bjftradinggroup.com",
+    "rank": 1,
+    "date": "Jul 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://arbitragescanner.io/blog/crypto-funding-rate-arbitrage-strategy-guide",
+    "name": "Crypto Funding Rate Arbitrage: A Complete Strategy Guide",
+    "snippet": "Apr 27, 2026 — Learn how to profit from crypto funding rate arbitrage . This guide covers delta-neutral strategies, risk management, and step-by-step ...",
+    "host_name": "arbitragescanner.io",
+    "rank": 2,
+    "date": "Apr 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://wundertrading.com/journal/en/funding-arbitrage",
+    "name": "Crypto Funding Rate Arbitrage: Strategies, Formula & Risks",
+    "snippet": "Jul 16, 2026 — Funding rate arbitrage is the strategy of positioning yourself on the receiving end of those payments while hedging away price risk.",
+    "host_name": "wundertrading.com",
+    "rank": 3,
+    "date": "Jul 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.crypto.com/en/articles/9755982-arbitrage-trading-bot",
+    "name": "Arbitrage Trading Bot",
+    "snippet": "Dec 9, 2024 — It potentially allows traders to collect the funding fee from the funding rate mechanism built into the perpetual contracts while hedging the ... Read more",
+    "host_name": "help.crypto.com",
+    "rank": 4,
+    "date": "Dec 9, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.binance.com/en/support/faq/detail/f330e17d6fc04679b9b21d6f9350e787",
+    "name": "What is the Binance Funding Rate Arbitrage Bot and How",
+    "snippet": "Apr 29, 2024 — The funding rate arbitrage strategy is delta neutral, meaning it aims to hedge out price movement risks by holding opposite positions in the ... Read more",
+    "host_name": "www.binance.com",
+    "rank": 5,
+    "date": "Apr 29, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/defi/comments/1m0c7ls/is_anyone_here_taking_advantage_of_funding_rate",
+    "name": "Is anyone here taking advantage of funding rate arbitrage",
+    "snippet": "Lately, I’ve been diving into a pretty underrated strategy: arbitraging funding fees between different exchanges (DEXs).\n\nThe idea is simple: if the ...",
+    "host_name": "www.reddit.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kraken.com/learn/futures-trading-funding-rate-arbitrage",
+    "name": "Funding rate arbitrage in crypto: how the strategy works",
+    "snippet": "Jun 18, 2026 — Funding rate arbitrage is a way to collect funding payments from the crypto futures market without taking on directional price risk. Read more",
+    "host_name": "www.kraken.com",
+    "rank": 7,
+    "date": "Jun 18, 2026",
+    "favicon": ""
+  }
+]

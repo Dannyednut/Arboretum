@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.deribit.com",
+    "name": "public/get_funding_rate_history",
+    "snippet": "Retrieves hourly historical funding rate (interest rate) data for a PERPETUAL instrument over a specified time period. Funding rates are periodic payments ...",
+    "host_name": "docs.deribit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coinapi.io",
+    "name": "How to Access Historical Funding Rates Across Top Crypto",
+    "snippet": "Nov 6, 2025 — Quick Answer. You can access historical funding rate data through CoinAPI's Market Data REST API (via the metrics endpoint). Read more",
+    "host_name": "www.coinapi.io",
+    "rank": 1,
+    "date": "Nov 6, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://insights.deribit.com",
+    "name": "Perpetual Swap Funding",
+    "snippet": "If the premium rate is higher than 0.025%, then the actual funding rate will be the Premium rate – 0.025%. Additionally, the funding rate is capped at +/- 0.5%, ... Read more",
+    "host_name": "insights.deribit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://support.deribit.com",
+    "name": "Funding Specifications",
+    "snippet": "Jul 27, 2026 — This can be checked by using the premium rate and funding rate formulas: Premium Rate = ((100,020 - 100,000) / 100,000) * 100% = 0.02%. Read more",
+    "host_name": "support.deribit.com",
+    "rank": 3,
+    "date": "Jul 27, 2026",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://hyperliquid.gitbook.io",
+    "name": "HIP-3: Builder-deployed perpetuals - Hyperliquid Docs - GitBook",
+    "snippet": "Aug 5, 2026 — The Hyperliquid protocol supports permissionless builder-deploy ed perps (HIP-3), a key milestone toward fully decentralizing the perp listing ... Read more",
+    "host_name": "hyperliquid.gitbook.io",
+    "rank": 0,
+    "date": "Aug 5, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperpc.app",
+    "name": "What Is HIP 3 on Hyperliquid? Builder Deployed Perpetuals",
+    "snippet": "Jan 20, 2026 — HIP 3 markets typically rely on the Hyperliquid API for data and operations. Builders and traders use it to query market data, monitor funding ... Read more",
+    "host_name": "hyperpc.app",
+    "rank": 1,
+    "date": "Jan 20, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://oakresearch.io",
+    "name": "What is Hyperliquid's HIP-3? How it works and use cases",
+    "snippet": "Jun 25, 2026 — HIP-3 is one of Hyperliquid's major upgrades , enabling builders to deploy new perpetual markets through a more open and permissionless ...",
+    "host_name": "oakresearch.io",
+    "rank": 2,
+    "date": "Jun 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperliquidguide.com",
+    "name": "HIP-3: Builder-Deployed Perpetuals Explained",
+    "snippet": "Mar 2, 2026 — HIP-3 enables permissionless deployment of perpetual futures markets on Hyperliquid . Any entity can stake 500,000 HYPE to launch their own perp ... Read more",
+    "host_name": "hyperliquidguide.com",
+    "rank": 3,
+    "date": "Mar 2, 2026",
+    "favicon": ""
+  }
+]

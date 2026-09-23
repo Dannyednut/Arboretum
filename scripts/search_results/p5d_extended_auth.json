@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.cdp.coinbase.com",
+    "name": "Welcome to Exchange APIs",
+    "snippet": "Trading APIs require authentication and let you place orders and access account information. Market Data APIs provide market data and are public.",
+    "host_name": "docs.cdp.coinbase.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://exchange-docs.crypto.com",
+    "name": "Introduction – Exchange Institutional API v1 - REST API",
+    "snippet": "The authentication is based on the pairing of the API Key, along with the HMAC-SHA256 hash of the request parameters using the API Secret as the cryptographic ... Read more",
+    "host_name": "exchange-docs.crypto.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.okx.com",
+    "name": "OKX API guide | OKX technical support",
+    "snippet": "Welcome to the OKX API guide, OKX technical support. OKX is a leading BTC exchange with highly secure SSL encryption and cold storage etc for crypto trading.",
+    "host_name": "www.okx.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.paradex.trade",
+    "name": "API Authentication | Paradex | Documentation",
+    "snippet": "This guide covers how to generate and manage different types of credentials for trading, monitoring, and API access.",
+    "host_name": "docs.paradex.trade",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

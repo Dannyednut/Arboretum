@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.paradex.trade",
+    "name": "API Authentication | Paradex | Documentation",
+    "snippet": "This guide covers how to generate and manage different types of credentials for trading, monitoring, and API access. There are 2 general types of credentials ... Read more",
+    "host_name": "docs.paradex.trade",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.nado.xyz",
+    "name": "Core Concepts",
+    "snippet": "Jan 13, 2026 — Why no API keys ? Because Nado is decentralized - there's no central server to issue API keys . Your wallet's private key IS your authentication . Read more",
+    "host_name": "docs.nado.xyz",
+    "rank": 1,
+    "date": "Jan 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "api-authentication.mdx - tradeparadex/paradex-docs",
+    "snippet": "This guide covers how to generate and manage different types of credentials for trading, monitoring, and API access. There are 2 general types of credentials ... Read more",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dexidp.io",
+    "name": "Tokens - Dex",
+    "snippet": "Dex provides flexible token signing options through the signer configuration section. You can choose between a local signer or integrate with Vault-compatible ... Read more",
+    "host_name": "dexidp.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

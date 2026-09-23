@@ -1,0 +1,886 @@
+{
+ "timestamp": "2026-09-01T07:02:37.293312+00:00",
+ "families": {
+  "A_cross_ex_funding": {
+   "count_pairs": 936,
+   "top30": [
+    {
+     "pair": "gate->binance",
+     "coin": "QNTX",
+     "gross_apr": 3.32436525,
+     "cost_rt": 0.002,
+     "net_apr_7d": 3.220079535714286,
+     "net_apr_30d": 3.3000319166666667,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "MEITUAN",
+     "gross_apr": 2.27406315,
+     "cost_rt": 0.002,
+     "net_apr_7d": 2.169777435714286,
+     "net_apr_30d": 2.2497298166666666,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "MEITUAN",
+     "gross_apr": 2.27406315,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 2.1645631499999998,
+     "net_apr_30d": 2.24851315,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "binance->gate",
+     "coin": "UNITREE",
+     "gross_apr": 2.2027458,
+     "cost_rt": 0.002,
+     "net_apr_7d": 2.098460085714286,
+     "net_apr_30d": 2.178412466666667,
+     "iv_short": 8,
+     "iv_long": 4
+    },
+    {
+     "pair": "gate->bybit",
+     "coin": "QNTX",
+     "gross_apr": 2.0361525,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.9266525,
+     "net_apr_30d": 2.0106025,
+     "iv_short": 8.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->gate",
+     "coin": "UNITREE",
+     "gross_apr": 1.9865708999999998,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.8770708999999999,
+     "net_apr_30d": 1.9610208999999998,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "TMF",
+     "gross_apr": 1.7979243,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.6936385857142857,
+     "net_apr_30d": 1.7735909666666667,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "TMF",
+     "gross_apr": 1.7979243,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.6884243,
+     "net_apr_30d": 1.7723743,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "SHAZ",
+     "gross_apr": 1.7910914999999998,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.6868057857142855,
+     "net_apr_30d": 1.7667581666666665,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "ZM",
+     "gross_apr": 1.6370907000000001,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.5328049857142858,
+     "net_apr_30d": 1.6127573666666668,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "SHAZ",
+     "gross_apr": 1.4637850499999998,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.3542850499999999,
+     "net_apr_30d": 1.4382350499999998,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "PDD",
+     "gross_apr": 1.3674907499999998,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.2632050357142854,
+     "net_apr_30d": 1.3431574166666664,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "gate->bybit",
+     "coin": "PDD",
+     "gross_apr": 1.3205590500000002,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.2110590500000002,
+     "net_apr_30d": 1.2950090500000002,
+     "iv_short": 8.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "hl->gate",
+     "coin": "TRX",
+     "gross_apr": 1.2969118679999998,
+     "cost_rt": 0.0019,
+     "net_apr_7d": 1.1978404394285713,
+     "net_apr_30d": 1.2737952013333331,
+     "iv_short": 8,
+     "iv_long": 1.0
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "QNTX",
+     "gross_apr": 1.28821275,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.17871275,
+     "net_apr_30d": 1.26266275,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "GDX",
+     "gross_apr": 1.2743391,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.1700533857142856,
+     "net_apr_30d": 1.2500057666666666,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "GDX",
+     "gross_apr": 1.2743391,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.1648391,
+     "net_apr_30d": 1.2487891,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->hl",
+     "coin": "XMR",
+     "gross_apr": 1.2338696519999999,
+     "cost_rt": 0.0019,
+     "net_apr_7d": 1.1347982234285714,
+     "net_apr_30d": 1.2107529853333332,
+     "iv_short": 1.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "binance->gate",
+     "coin": "KODEX200",
+     "gross_apr": 1.22910465,
+     "cost_rt": 0.002,
+     "net_apr_7d": 1.1248189357142857,
+     "net_apr_30d": 1.2047713166666667,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "binance->bybit",
+     "coin": "KODEX200",
+     "gross_apr": 1.22910465,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.11960465,
+     "net_apr_30d": 1.20355465,
+     "iv_short": 8.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "binance->bybit",
+     "coin": "M",
+     "gross_apr": 1.1612475000000002,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.0517475000000003,
+     "net_apr_30d": 1.1356975000000002,
+     "iv_short": 4.0,
+     "iv_long": 4
+    },
+    {
+     "pair": "gate->bybit",
+     "coin": "M",
+     "gross_apr": 1.1612475000000002,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 1.0517475000000003,
+     "net_apr_30d": 1.1356975000000002,
+     "iv_short": 4.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "binance->hl",
+     "coin": "XMR",
+     "gross_apr": 1.1401048019999998,
+     "cost_rt": 0.0019,
+     "net_apr_7d": 1.0410333734285713,
+     "net_apr_30d": 1.116988135333333,
+     "iv_short": 1.0,
+     "iv_long": 8
+    },
+    {
+     "pair": "binance->gate",
+     "coin": "CSOPSKHYNIX2L",
+     "gross_apr": 1.08169575,
+     "cost_rt": 0.002,
+     "net_apr_7d": 0.9774100357142856,
+     "net_apr_30d": 1.0573624166666666,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "POPMART",
+     "gross_apr": 1.0507729499999998,
+     "cost_rt": 0.002,
+     "net_apr_7d": 0.9464872357142855,
+     "net_apr_30d": 1.0264396166666665,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "POPMART",
+     "gross_apr": 1.0507729499999998,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 0.9412729499999998,
+     "net_apr_30d": 1.0252229499999999,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->binance",
+     "coin": "BITO",
+     "gross_apr": 1.0456374,
+     "cost_rt": 0.002,
+     "net_apr_7d": 0.9413516857142856,
+     "net_apr_30d": 1.0213040666666666,
+     "iv_short": 8,
+     "iv_long": 8
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "BITO",
+     "gross_apr": 1.0456374,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 0.9361373999999999,
+     "net_apr_30d": 1.0200874,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "bybit->binance",
+     "coin": "ZM",
+     "gross_apr": 1.0285992000000002,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 0.9190992000000001,
+     "net_apr_30d": 1.0030492000000002,
+     "iv_short": 8,
+     "iv_long": 8.0
+    },
+    {
+     "pair": "gate->bybit",
+     "coin": "RDW",
+     "gross_apr": 1.0285335,
+     "cost_rt": 0.0021000000000000003,
+     "net_apr_7d": 0.9190335,
+     "net_apr_30d": 1.0029835,
+     "iv_short": 8.0,
+     "iv_long": 8
+    }
+   ]
+  },
+  "B_spot_perp_basis": {
+   "count": 134,
+   "top20": [
+    {
+     "venue": "binance",
+     "coin": "UNI",
+     "basis_pct": 0.0007710141652905733,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.009771014165290574,
+     "net_30d": 0.006771014165290574,
+     "spot": 5.7535,
+     "perp_mark": 5.75793603
+    },
+    {
+     "venue": "bybit",
+     "coin": "PIEVERSE",
+     "basis_pct": 0.000788673508171911,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.009788673508171912,
+     "net_30d": 0.006688673508171912,
+     "spot": 1.0524,
+     "perp_mark": 1.05323
+    },
+    {
+     "venue": "binance",
+     "coin": "GRAM",
+     "basis_pct": 0.00035307719928190373,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.009353077199281905,
+     "net_30d": 0.006353077199281905,
+     "spot": 1.3925,
+     "perp_mark": 1.39299166
+    },
+    {
+     "venue": "bybit",
+     "coin": "RPL",
+     "basis_pct": 0.0003107520198881719,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.009310752019888173,
+     "net_30d": 0.006210752019888173,
+     "spot": 1.609,
+     "perp_mark": 1.6095
+    },
+    {
+     "venue": "bybit",
+     "coin": "GRAM",
+     "basis_pct": 0.00014362657091560038,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.009143626570915601,
+     "net_30d": 0.006043626570915601,
+     "spot": 1.3925,
+     "perp_mark": 1.3927
+    },
+    {
+     "venue": "okx",
+     "coin": "XRP",
+     "basis_pct": -0.0004689247195471813,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.00853107528045282,
+     "net_30d": 0.00593107528045282,
+     "spot": 1.3861500000000002,
+     "perp_mark": 1.3855
+    },
+    {
+     "venue": "binance",
+     "coin": "WIF",
+     "basis_pct": -0.00010673052684639917,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008893269473153602,
+     "net_30d": 0.005893269473153602,
+     "spot": 0.19835,
+     "perp_mark": 0.19832883
+    },
+    {
+     "venue": "bybit",
+     "coin": "FLUID",
+     "basis_pct": -7.57116898849608e-05,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.00892428831011504,
+     "net_30d": 0.00582428831011504,
+     "spot": 1.3208,
+     "perp_mark": 1.3207
+    },
+    {
+     "venue": "binance",
+     "coin": "NEAR",
+     "basis_pct": -0.00026747135217730644,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008732528647822695,
+     "net_30d": 0.0057325286478226945,
+     "spot": 1.9635,
+     "perp_mark": 1.96297482
+    },
+    {
+     "venue": "binance",
+     "coin": "LTC",
+     "basis_pct": -0.00030665440049071346,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008693345599509288,
+     "net_30d": 0.0056933455995092875,
+     "spot": 48.915,
+     "perp_mark": 48.9
+    },
+    {
+     "venue": "bybit",
+     "coin": "BTC",
+     "basis_pct": -0.00021518849941248863,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008784811500587512,
+     "net_30d": 0.005684811500587512,
+     "spot": 78768.15,
+     "perp_mark": 78751.2
+    },
+    {
+     "venue": "binance",
+     "coin": "BCH",
+     "basis_pct": -0.00031576892892892783,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008684231071071073,
+     "net_30d": 0.005684231071071073,
+     "spot": 249.75,
+     "perp_mark": 249.67113671
+    },
+    {
+     "venue": "okx",
+     "coin": "ADA",
+     "basis_pct": -0.0007457121551079915,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.00825428784489201,
+     "net_30d": 0.00565428784489201,
+     "spot": 0.20115,
+     "perp_mark": 0.201
+    },
+    {
+     "venue": "binance",
+     "coin": "CAKE",
+     "basis_pct": -0.0003478982597054925,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008652101740294509,
+     "net_30d": 0.0056521017402945085,
+     "spot": 1.8675000000000002,
+     "perp_mark": 1.8668503
+    },
+    {
+     "venue": "binance",
+     "coin": "BTC",
+     "basis_pct": -0.00037062664212061947,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008629373357879382,
+     "net_30d": 0.0056293733578793815,
+     "spot": 78771.995,
+     "perp_mark": 78742.8
+    },
+    {
+     "venue": "binance",
+     "coin": "XRP",
+     "basis_pct": -0.00027368041274311583,
+     "funding_apr": 0.10819694999999999,
+     "carry_30d_gross": 0.008619219587256883,
+     "net_30d": 0.005619219587256883,
+     "spot": 1.38585,
+     "perp_mark": 1.38547072
+    },
+    {
+     "venue": "bybit",
+     "coin": "NEAR",
+     "basis_pct": -0.0003055767761649397,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008694423223835061,
+     "net_30d": 0.005594423223835061,
+     "spot": 1.9635,
+     "perp_mark": 1.9629
+    },
+    {
+     "venue": "binance",
+     "coin": "OP",
+     "basis_pct": -0.0004214396685654487,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008578560331434552,
+     "net_30d": 0.005578560331434552,
+     "spot": 0.09655,
+     "perp_mark": 0.09650931
+    },
+    {
+     "venue": "bybit",
+     "coin": "XRP",
+     "basis_pct": -0.00032471046650073276,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008675289533499268,
+     "net_30d": 0.005575289533499268,
+     "spot": 1.38585,
+     "perp_mark": 1.3854
+    },
+    {
+     "venue": "binance",
+     "coin": "ARB",
+     "basis_pct": -0.0004376968061178266,
+     "funding_apr": 0.10950000000000001,
+     "carry_30d_gross": 0.008562303193882174,
+     "net_30d": 0.005562303193882174,
+     "spot": 0.11115,
+     "perp_mark": 0.11110135
+    }
+   ],
+   "suspect_new_listing": []
+  },
+  "C_cross_ex_spot": {
+   "binance|bybit": {
+    "n_majors": 28,
+    "median_dev": 8.698299482423621e-05,
+    "p95_dev": 0.0009293680297397522,
+    "max_dev": 0.0031635558367605343,
+    "taker_viable_threshold": 0.004,
+    "frac_taker_viable": 0.0
+   },
+   "binance|okx": {
+    "n_majors": 28,
+    "median_dev": 0.00019324605053394617,
+    "p95_dev": 0.001115448968209476,
+    "max_dev": 0.0031635558367605343,
+    "taker_viable_threshold": 0.0036,
+    "frac_taker_viable": 0.0
+   },
+   "bybit|okx": {
+    "n_majors": 29,
+    "median_dev": 0.00013045747086448678,
+    "p95_dev": 0.00045392646391284597,
+    "max_dev": 0.0004787265872776558,
+    "taker_viable_threshold": 0.0036,
+    "frac_taker_viable": 0.0
+   }
+  },
+  "D_quarterly_basis": [
+   {
+    "symbol": "BTCUSDT_261225",
+    "coin": "BTC",
+    "basis_pct": 0.015125407747766273,
+    "days_to_expiry": 115.02921616002315,
+    "annualized_basis": 0.047994535755633186,
+    "quarterly_mark": 79963.45354348,
+    "spot": 78771.995
+   },
+   {
+    "symbol": "BTCUSDT_260925",
+    "coin": "BTC",
+    "basis_pct": 0.0029697340636098968,
+    "days_to_expiry": 24.029216160023147,
+    "annualized_basis": 0.045109791596987664,
+    "quarterly_mark": 79005.92687681,
+    "spot": 78771.995
+   },
+   {
+    "symbol": "ETHUSDT_261225",
+    "coin": "ETH",
+    "basis_pct": 0.009508360789892034,
+    "days_to_expiry": 115.02921616002315,
+    "annualized_basis": 0.03017104527151195,
+    "quarterly_mark": 2498.0435814,
+    "spot": 2474.5150000000003
+   },
+   {
+    "symbol": "ETHUSDT_260925",
+    "coin": "ETH",
+    "basis_pct": 0.0027126183231864776,
+    "days_to_expiry": 24.029216160023147,
+    "annualized_basis": 0.041204244090586706,
+    "quarterly_mark": 2481.22741473,
+    "spot": 2474.5150000000003
+   }
+  ],
+  "E_xstock_vs_stock_perp": {
+   "top20": [
+    {
+     "token": "HOODX",
+     "stock": "HOOD",
+     "perp_venue": "binance",
+     "xstock_mid": 109.32499999999999,
+     "perp_mark": 109.36,
+     "basis_pct": 0.00032014635261834457,
+     "funding_apr": 0.40167885,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "HOODX",
+     "stock": "HOOD",
+     "perp_venue": "bybit",
+     "xstock_mid": 109.32499999999999,
+     "perp_mark": 109.3,
+     "basis_pct": -0.00022867596615583352,
+     "funding_apr": 0.30569115,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "GOOGLX",
+     "stock": "GOOGL",
+     "perp_venue": "binance",
+     "xstock_mid": 340.4,
+     "perp_mark": 339.98555646,
+     "basis_pct": -0.0012175192126908652,
+     "funding_apr": 0.15889545,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "METAX",
+     "stock": "META",
+     "perp_venue": "binance",
+     "xstock_mid": 573.885,
+     "perp_mark": 573.06,
+     "basis_pct": -0.0014375702449097583,
+     "funding_apr": 0.13640415,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "GOOGLX",
+     "stock": "GOOGL",
+     "perp_venue": "bybit",
+     "xstock_mid": 340.4,
+     "perp_mark": 340.02,
+     "basis_pct": -0.0011163337250293948,
+     "funding_apr": 0.13227599999999998,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "METAX",
+     "stock": "META",
+     "perp_venue": "bybit",
+     "xstock_mid": 573.885,
+     "perp_mark": 572.88,
+     "basis_pct": -0.0017512219347081137,
+     "funding_apr": 0.0441942,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "AAPLX",
+     "stock": "AAPL",
+     "perp_venue": "binance",
+     "xstock_mid": 317.73,
+     "perp_mark": 316.94591847,
+     "basis_pct": -0.00246776045699193,
+     "funding_apr": 0.02217375,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "AMZNX",
+     "stock": "AMZN",
+     "perp_venue": "binance",
+     "xstock_mid": 260.355,
+     "perp_mark": 260.63,
+     "basis_pct": 0.0010562501200284125,
+     "funding_apr": 0.005945849999999999,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "TSLAX",
+     "stock": "TSLA",
+     "perp_venue": "binance",
+     "xstock_mid": 367.37,
+     "perp_mark": 367.57490726,
+     "basis_pct": 0.0005577680812258734,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "TSLAX",
+     "stock": "TSLA",
+     "perp_venue": "bybit",
+     "xstock_mid": 367.37,
+     "perp_mark": 367.61,
+     "basis_pct": 0.0006532923210931241,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "NVDAX",
+     "stock": "NVDA",
+     "perp_venue": "binance",
+     "xstock_mid": 220.765,
+     "perp_mark": 220.74,
+     "basis_pct": -0.00011324258827249967,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "NVDAX",
+     "stock": "NVDA",
+     "perp_venue": "bybit",
+     "xstock_mid": 220.765,
+     "perp_mark": 220.76,
+     "basis_pct": -2.2648517654544342e-05,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "AMZNX",
+     "stock": "AMZN",
+     "perp_venue": "bybit",
+     "xstock_mid": 260.355,
+     "perp_mark": 260.47,
+     "basis_pct": 0.00044170459564818465,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "AMZNX",
+     "stock": "AMZN",
+     "perp_venue": "gate",
+     "xstock_mid": 260.355,
+     "perp_mark": 260.58,
+     "basis_pct": 0.0008642046436595496,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "MCDX",
+     "stock": "MCD",
+     "perp_venue": "bybit",
+     "xstock_mid": 266.755,
+     "perp_mark": 263.91,
+     "basis_pct": -0.010665217146820005,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "MCDX",
+     "stock": "MCD",
+     "perp_venue": "gate",
+     "xstock_mid": 266.755,
+     "perp_mark": 265.37,
+     "basis_pct": -0.005192030140016124,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "CRCLX",
+     "stock": "CRCL",
+     "perp_venue": "binance",
+     "xstock_mid": 94.975,
+     "perp_mark": 95.064871,
+     "basis_pct": 0.0009462595419846842,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "CRCLX",
+     "stock": "CRCL",
+     "perp_venue": "bybit",
+     "xstock_mid": 94.975,
+     "perp_mark": 95.06,
+     "basis_pct": 0.0008949723611477722,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "AAPLX",
+     "stock": "AAPL",
+     "perp_venue": "bybit",
+     "xstock_mid": 317.73,
+     "perp_mark": 316.91,
+     "basis_pct": -0.002580807603940416,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "COINX",
+     "stock": "COIN",
+     "perp_venue": "binance",
+     "xstock_mid": 186.84,
+     "perp_mark": 186.90561469,
+     "basis_pct": 0.0003511811710554813,
+     "funding_apr": 0.0,
+     "cost_rt": 0.0015
+    }
+   ],
+   "suspect": [
+    {
+     "token": "AVAX",
+     "stock": "AVA",
+     "perp_venue": "binance",
+     "xstock_mid": 7.3075,
+     "perp_mark": 0.196,
+     "basis_pct": -0.973178241532672,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "AVAX",
+     "stock": "AVA",
+     "perp_venue": "bybit",
+     "xstock_mid": 7.3075,
+     "perp_mark": 0.1959,
+     "basis_pct": -0.9731919261033185,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "AVAX",
+     "stock": "AVA",
+     "perp_venue": "gate",
+     "xstock_mid": 7.3075,
+     "perp_mark": 0.1963,
+     "basis_pct": -0.9731371878207321,
+     "funding_apr": 0.05475000000000001,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "APEX",
+     "stock": "APE",
+     "perp_venue": "binance",
+     "xstock_mid": 0.25585,
+     "perp_mark": 0.138,
+     "basis_pct": -0.4606214578854798,
+     "funding_apr": -0.0270246,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "APEX",
+     "stock": "APE",
+     "perp_venue": "bybit",
+     "xstock_mid": 0.25585,
+     "perp_mark": 0.13781,
+     "basis_pct": -0.46136408051592737,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "APEX",
+     "stock": "APE",
+     "perp_venue": "gate",
+     "xstock_mid": 0.25585,
+     "perp_mark": 0.13792,
+     "basis_pct": -0.4609341410982999,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "ARX",
+     "stock": "AR",
+     "perp_venue": "binance",
+     "xstock_mid": 0.1236,
+     "perp_mark": 2.171,
+     "basis_pct": 16.564724919093848,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015
+    },
+    {
+     "token": "ARX",
+     "stock": "AR",
+     "perp_venue": "bybit",
+     "xstock_mid": 0.1236,
+     "perp_mark": 2.1695,
+     "basis_pct": 16.552588996763756,
+     "funding_apr": -0.021363450000000003,
+     "cost_rt": 0.0015500000000000002
+    },
+    {
+     "token": "ARX",
+     "stock": "AR",
+     "perp_venue": "gate",
+     "xstock_mid": 0.1236,
+     "perp_mark": 2.169,
+     "basis_pct": 16.54854368932039,
+     "funding_apr": 0.10950000000000001,
+     "cost_rt": 0.0015
+    }
+   ]
+  }
+ },
+ "binance_interval_dist": {
+  "4": 425,
+  "8": 410,
+  "1": 3
+ },
+ "bybit_interval_dist": {
+  "4.0": 369,
+  "8.0": 371,
+  "1.0": 4
+ }
+}

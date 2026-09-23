@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gate.com",
+    "name": "What Is Funding Rate in Crypto? Changes and Market Impact",
+    "snippet": "Apr 6, 2026 — The funding rate is exchanged between long and short position holders, typically settling every 8 hours . If the funding rate is positive at the ...",
+    "host_name": "www.gate.com",
+    "rank": 0,
+    "date": "Apr 6, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hummingbot.org",
+    "name": "Gate.io",
+    "snippet": "Enter Fund Password, choose 2FA Authentication method and enter its code fund password Copy your API keys and store them somewhere safe. Integration to  ...",
+    "host_name": "hummingbot.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://apify.com",
+    "name": "Crypto Funding Rates & Open Interest Tracker",
+    "snippet": "Funding intervals are not the same everywhere. Most contracts settle every 8 hours, but 4 hour and 1 hour contracts exist, and a 1 hour rate of 0.01% is eight ...",
+    "host_name": "apify.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "gateio/rest-v4: Gate rest api v4",
+    "snippet": "Gate . io API APIv4 provides spot, margin and futures trading operations. needs authentication to trade on user's behalf. Perp Swaps Public endpoints 300r/s , ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

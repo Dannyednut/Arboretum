@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://apidocs.lighter.xyz",
+    "name": "API keys",
+    "snippet": "You can use API keys to trade and manage your lighter account programmatically. Each API key will be assigned an index, ranging from 0 to 254 - note that ... Read more",
+    "host_name": "apidocs.lighter.xyz",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.lighter.xyz",
+    "name": "API",
+    "snippet": "Mar 24, 2026 — These API keys are owned by the account and are used to sign requests when interacting with the exchange. Signed requests are verified by the ... Read more",
+    "host_name": "docs.lighter.xyz",
+    "rank": 1,
+    "date": "Mar 24, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.insilicoterminal.com",
+    "name": "Creating a Lighter API Key | Documentation",
+    "snippet": "May 18, 2026 — Visit the Lighter API Page to create a new API Key. · Choose an unused API Key Index and authorize it . · Private Key: The API Private Key. Read more",
+    "host_name": "docs.insilicoterminal.com",
+    "rank": 2,
+    "date": "May 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://l2beat.com",
+    "name": "Lighter",
+    "snippet": "ZK Lighter verifier implements the perp DEX and spot trading logic and could be found in this prover repo. Desert verifier consists of circuits proving valid L2 ... Read more",
+    "host_name": "l2beat.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

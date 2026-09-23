@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.mexc.com",
+    "name": "Introducing API Futures Trading on Mar 31, 2026",
+    "snippet": "Mar 30, 2026 — All users who have completed KYC verification can apply for an API Key with Futures trading permissions . 0.01%, Taker 0.05%",
+    "host_name": "www.mexc.com",
+    "rank": 0,
+    "date": "Mar 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gunbot.com",
+    "name": "How to Create a MEXC API Key for Your Trading Bot",
+    "snippet": "A step-by-step guide on creating and configuring MEXC API keys for secure and efficient automated cryptocurrency trading with bots.",
+    "host_name": "www.gunbot.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://context7.com",
+    "name": "MEXC Futures API (websites/mexc_api-docs_futures)",
+    "snippet": "MEXC Futures API is a comprehensive REST and WebSocket API documentation for trading futures contracts on the MEXC digital asset exchange platform.",
+    "host_name": "context7.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "oboshto/mexc-futures-sdk",
+    "snippet": "MEXC does not officially support futures trading through API . Create API Key and Secret Enable futures trading permissions WebSocket. Trade details, fees, ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

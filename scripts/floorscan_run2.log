@@ -1,0 +1,22 @@
+=== 0. current book (5 asset_class slices)
+  current[crypto]: 5000 new rows (cum 5000)
+  current[equity]: 3160 new rows (cum 8160)
+  current[commodity]: 225 new rows (cum 8385)
+  current[fx]: 82 new rows (cum 8467)
+  current[index]: 78 new rows (cum 8545)
+  venues: 33 total, 25 new-to-us
+=== 1. candidate selection
+  short-cand venues: 19 | long-collect venues: 25 | unique coins: 200
+  capped to 170 coins
+=== 2. history pulls (2-slice strategy, checkpointed)
+  resume: 179 coins already in checkpoint
+=== 3. leg metrics
+  new-venue legs with metrics: 1881
+=== 4. pair construction (counter = direct venues)
+Traceback (most recent call last):
+  File "/home/z/my-project/scripts/sharpe_floorscan.py", line 610, in <module>
+    main()
+  File "/home/z/my-project/scripts/sharpe_floorscan.py", line 490, in main
+    "rt_stress_pct": round(rt * 100, 2),
+                           ^^
+NameError: name 'rt' is not defined. Did you mean: 'r'?

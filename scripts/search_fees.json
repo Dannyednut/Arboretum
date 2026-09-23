@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.okx.com/en-us/fees",
+    "name": "Trading Fee | Fee Rate | Crypto Exchange Fees | Fee Tiers",
+    "snippet": "How trading fees are calculated: Trading fee for USDT - M expiry, USDC-M perpetual , and USDC-M expiry futures = Fee rate × (Number of contracts × Multiplier ... Read more",
+    "host_name": "www.okx.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.binance.com/en/square/post/28081367616113",
+    "name": "Top 7 crypto exchanges with the lowest fees (2025 Guide)",
+    "snippet": "Aug 9, 2025 — Bybit's entry spot rate is 0.10% maker / 0.10% taker , with fees stepping down via VIP and Pro tiers-useful if you scale volume over time. It ... Read more",
+    "host_name": "www.binance.com",
+    "rank": 1,
+    "date": "Aug 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://traderssecondbrain.com/tools/exchange-fees",
+    "name": "Crypto Exchange Fees: Binance vs Bybit vs OKX (2026)",
+    "snippet": "For futures trading, OKX and Binance typically have the lowest fees for regular users (0.02% maker , 0.05% taker ). For spot trading, OKX has the lowest maker fee ... Read more",
+    "host_name": "traderssecondbrain.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.okx.com/en-us/learn/crypto-futures-fees-compared",
+    "name": "Crypto futures fees compared: a guide to cost-effective",
+    "snippet": "Apr 2, 2024 — Depending on your tier, your fee can go as low as -0.005% for the maker and 0.015% for the taker . You can learn more about the different tiers ... Read more",
+    "host_name": "www.okx.com",
+    "rank": 3,
+    "date": "Apr 2, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bybit.com/en/learn/bybit-guide/bybit-trading-fees",
+    "name": "Bybit Fees: Everything You Need to Know Before Trading",
+    "snippet": "Mar 29, 2025 — Master everything you need to know about Bybit fees, from maker taker fees , funding fees, deposit and withdrawal fees, and more.",
+    "host_name": "www.bybit.com",
+    "rank": 4,
+    "date": "Mar 29, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.okx.com/en-us/learn/what-is-okx-perpetual-futures",
+    "name": "What is OKX Perpetual Futures: Fees, Trading, Features",
+    "snippet": "Dec 4, 2025 — You pay a maker or taker fee whenever you trade a perpetual contract (lowest tier: 0.02%/0.05%). Funding payments are exchanged every 8 hours ... Read more",
+    "host_name": "www.okx.com",
+    "rank": 5,
+    "date": "Dec 4, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bitdegree.org/crypto/tutorials/bybit-fees",
+    "name": "Bybit Fees 2026: Spot, Futures & How to Pay Less",
+    "snippet": "Perpetual and futures trades begin at 0.055% ( takers ) and 0.02% ( makers ), On futures and perpetual contracts, makers pay 0.02% and takers 0.055%. If you're ...",
+    "host_name": "www.bitdegree.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.binance.com/en/square/post/24640040632442",
+    "name": "What Are Binance Trading Fees? (2025)",
+    "snippet": "May 23, 2025 — USDS- M Futures : Settled in stablecoins like USDT , with fees of 0.02% ( maker ) and 0.05% ( taker ) for VIP 0 users. A 10% discount applies when ... Read more",
+    "host_name": "www.binance.com",
+    "rank": 7,
+    "date": "May 23, 2025",
+    "favicon": ""
+  }
+]

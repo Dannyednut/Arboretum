@@ -1,0 +1,4 @@
+book,pair,coin,funding_usd,fee_amort_usd,slip_amort_usd,net_usd,rows
+engine,UAI aster->binance,UAI,0.004044,0.000981,0.000981,0.002081,1
+p0,INJ bingx->okx,INJ,-0.000625,0.001436,0.001436,-0.003498,1
+p0,UAI aster->binance,UAI,0.004044,0.000981,0.000981,0.002081,1

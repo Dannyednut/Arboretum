@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.coinbase.com",
+    "name": "Understanding Funding Rates in Perpetual Futures and",
+    "snippet": "One unique aspect of perpetual futures is the funding rate mechanism, a periodic payment. This rate is applied periodically, every hour with Coinbase , and ...",
+    "host_name": "www.coinbase.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.cdp.coinbase.com",
+    "name": "Instruments - Coinbase Developer Documentation",
+    "snippet": "Perpetual ( PERP ): Perpetual futures contracts that never expire . These instruments track the underlying asset price and use a funding rate mechanism to keep ... Read more",
+    "host_name": "docs.cdp.coinbase.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.coinbase.com",
+    "name": "Coinbase International Exchange Help Center",
+    "snippet": "Perpetual Futures . How to create an API key … key Perpetual Futures . Funding How is the funding rate determined? What is the funding interval? What is the  ...",
+    "host_name": "help.coinbase.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coingecko.com",
+    "name": "Coinbase International Exchange (Derivatives) Statistics",
+    "snippet": "Get an overview of Coinbase International Exchange (Derivatives) including its fees, listed cryptocurrencies, and statistics. View charts of Coinbase ...",
+    "host_name": "www.coingecko.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

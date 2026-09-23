@@ -1,0 +1,11 @@
+=== 0. current book (5 asset_class slices)
+  current[crypto]: 5000 new rows (cum 5000)
+  current[equity]: 3160 new rows (cum 8160)
+  current[commodity]: 225 new rows (cum 8385)
+  current[fx]: 82 new rows (cum 8467)
+  current[index]: 78 new rows (cum 8545)
+  venues: 33 total, 25 new-to-us
+=== 1. candidate selection
+  short-cand venues: 19 | long-collect venues: 25 | unique coins: 211
+  capped to 170 coins
+=== 2. history pulls (2-slice strategy)

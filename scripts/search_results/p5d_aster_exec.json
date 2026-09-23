@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.asterdex.com",
+    "name": "How to Create an API Key",
+    "snippet": "Mar 26, 2026 — 1. Go to API Management and connect your wallet, then click [Create API]. · 2. Enter a label for your API key and click [Create API]. · 3. Copy ... Read more",
+    "host_name": "docs.asterdex.com",
+    "rank": 0,
+    "date": "Mar 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "asterdex/api-docs",
+    "snippet": "Official API documentation for Aster . new API Key creation is no longer supported. Existing API Keys will continue to work. trade, and other USER_DATA / TRADE ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.asterdex.com",
+    "name": "API Management",
+    "snippet": "Aster provides powerful APIs for real-time trading . Learn more. Each account can create up to 30 API keys. Do not disclose your API Key to anyone to avoid ... Read more",
+    "host_name": "www.asterdex.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.bitquery.io",
+    "name": "AsterDEX API Documentation",
+    "snippet": "This page covers AsterDEX on BNB Smart Chain via decoded contract events. The following API provides all newly opened market trades on AsterDEX. Key Management ...",
+    "host_name": "docs.bitquery.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

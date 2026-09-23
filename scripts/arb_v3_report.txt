@@ -1,0 +1,122 @@
+========================================================================================================
+EXPANDED CROSS-VENUE FUNDING MAP  (2026-09-01T09:28 UTC)  venues: binance, bybit, okx, gate, hl, aster, dydx, bitget
+========================================================================================================
+Bitget API taker-fee median: 0.0600%  (n=768)  [assumed 0.0006 -> OK]
+
+Funding-interval distribution + structural funding bias per venue:
+  binance  n= 839  intervals[1h:3, 4h:425, 8h:411]  median fAPR   10.95%  positive 59%
+  bybit    n= 744  intervals[1h:4, 4h:369, 8h:371]  median fAPR   10.95%  positive 62%
+  okx      n=  80  intervals[8h:80]  median fAPR    5.48%  positive 72%
+  gate     n= 950  intervals[8h:950]  median fAPR    0.00%  positive 49%
+  hl       n= 177  intervals[1h:177]  median fAPR   10.95%  positive 90%
+  aster    n= 542  intervals[1h:338, 4h:63, 8h:141]  median fAPR   10.95%  positive 68%
+  dydx     n=  99  intervals[1h:99]  median fAPR    0.00%  positive 26%
+  bitget   n= 768  intervals[1h:3, 4h:372, 8h:393]  median fAPR   10.95%  positive 55%
+
+Pair universe: 942 viable pairs from 1252 normalized bases (0 identity rejects with mark-deviation >5%; 294 quarantined: long-leg zero-rate on gate/aster = unknown data)
+
+TOP OVERALL SPREADS (all 8 venues, net of taker round-trip)
+coin         long->short             grossAPR   net@7d  net@30d  ivS  ivL
+CSOPSKHYNIX2L binance->gate             460.0%   449.6%   457.6%   8h   8h
+CSOPSAMSUNG2L binance->gate             333.5%   323.0%   331.0%   8h   8h
+RPL          gate->binance             273.9%   263.4%   271.4%   4h   8h
+RPL          gate->bybit               273.9%   262.9%   271.3%   4h   8h
+CSOPSKHYNIX2L bybit->gate               265.6%   254.6%   263.0%   8h   8h
+CXMT         bybit->gate               253.4%   242.5%   250.9%   8h   8h
+CSOPSAMSUNG2L binance->bybit            250.5%   239.5%   247.9%   8h   8h
+SKHYNIX      binance->gate             220.4%   209.9%   217.9%   8h   4h
+SKHYNIX      aster->gate               214.9%   205.5%   212.7%   8h   4h
+TMF          bybit->binance            208.3%   197.3%   205.7%   8h   8h
+CXMT         bybit->binance            201.9%   191.0%   199.3%   8h   8h
+SKHYNIX      bybit->gate               201.0%   190.1%   198.5%   8h   8h
+SHAZ         binance->bybit            200.5%   189.5%   197.9%   8h   8h
+CSOPSKHYNIX2L binance->bybit            194.4%   183.5%   191.9%   8h   8h
+BNC          bybit->binance            193.1%   182.2%   190.6%   8h   8h
+FWDI         bybit->binance            188.1%   177.2%   185.6%   8h   8h
+DKNG         binance->bybit            159.4%   148.4%   156.8%   8h   8h
+SAMSUNG      bybit->gate               155.4%   144.4%   152.8%   8h   8h
+SAMSUNG      binance->gate             152.3%   141.8%   149.8%   8h   4h
+BX           binance->gate             147.2%   136.8%   144.8%   8h   8h
+SKHYNIX      bitget->gate              136.3%   124.9%   133.7%   8h   4h
+M            binance->bybit            134.5%   123.5%   131.9%   4h   4h
+M            gate->bybit               134.5%   123.5%   131.9%   4h   8h
+MEITUAN      bybit->binance            125.3%   114.4%   122.7%   8h   8h
+BSP          bybit->binance            124.6%   113.6%   122.0%   8h   8h
+
+ASTER-INVOLVING SPREADS (either leg on Aster)
+coin         long->short             grossAPR   net@7d  net@30d  ivS  ivL
+SKHYNIX      aster->gate               214.9%   205.5%   212.7%   8h   4h
+SKHYNIX      aster->bitget              78.6%    68.2%    76.2%   4h   4h
+XAU          aster->bybit               37.5%    27.6%    35.2%   4h   4h
+XAG          aster->bybit               24.3%    14.4%    22.0%   4h   4h
+HYPE         bitget->aster              23.3%    12.9%    20.9%   4h   4h
+SPCX         aster->gate                21.3%    11.9%    19.1%   8h   8h
+SPCX         aster->bitget              21.3%    10.9%    18.9%   8h   8h
+SPCX         aster->bybit               20.8%    10.9%    18.5%   8h   8h
+ZEC          gate->aster                15.0%     5.6%    12.8%   1h   8h
+XAU          aster->bitget              15.0%     4.6%    12.6%   4h   4h
+XRP          bybit->aster               13.9%     4.0%    11.6%   8h   8h
+SKHYNIX      aster->bybit               13.9%     4.0%    11.6%   8h   4h
+ZEC          binance->aster             12.7%     3.3%    10.5%   1h   8h
+CL           bitget->aster              12.7%     2.3%    10.3%   4h   4h
+HYPE         bybit->aster               12.6%     2.7%    10.3%   4h   8h
+CL           aster->bybit               12.3%     2.4%    10.0%   8h   4h
+HYPE         gate->aster                12.1%     2.7%     9.9%   4h   8h
+SOL          bybit->aster               10.2%     0.3%     7.9%   8h   8h
+SOL          aster->bitget               9.8%    -0.6%     7.4%   8h   8h
+BTC          dydx->aster                 9.2%    -0.2%     7.0%   8h   1h
+XAG          aster->bitget               9.2%    -1.2%     6.8%   4h   4h
+CL           gate->aster                 8.1%    -1.3%     5.9%   4h   8h
+ZEC          bitget->aster               6.6%    -3.9%     4.1%   1h   8h
+BTC          bybit->aster                6.3%    -3.6%     4.0%   8h   8h
+XRP          aster->hl                   5.7%    -3.2%     3.6%   1h   8h
+
+dYdX-INVOLVING SPREADS
+coin         long->short             grossAPR   net@7d  net@30d  ivS  ivL
+BTC          dydx->hl                   11.0%     1.0%     8.6%   1h   1h
+BTC          dydx->bitget               11.0%    -0.5%     8.3%   8h   1h
+BTC          dydx->aster                 9.2%    -0.2%     7.0%   8h   1h
+BTC          dydx->binance               9.3%    -1.1%     6.9%   8h   1h
+BTC          dydx->gate                  9.2%    -1.2%     6.8%   8h   1h
+ETH          bybit->dydx                 3.3%    -7.6%     0.7%   1h   8h
+BTC          dydx->bybit                 2.8%    -8.1%     0.3%   8h   1h
+ETH          binance->dydx               2.1%    -8.4%    -0.4%   1h   8h
+ETH          dydx->hl                    1.4%    -8.5%    -0.9%   1h   1h
+ETH          dydx->gate                  1.4%    -9.0%    -1.0%   8h   1h
+ETH          dydx->bitget                1.4%   -10.1%    -1.3%   8h   1h
+ETH          dydx->aster                 0.4%    -9.0%    -1.8%   8h   1h
+
+QUARANTINED (long-leg zero-rate on gate/aster - verify before trusting)
+coin         long->short             grossAPR   net@7d  net@30d  ivS  ivL
+RDW          gate->bybit               263.4%     n/a     n/a   8h   8h
+SHAZ         gate->bybit               215.0%     n/a     n/a   8h   8h
+TMF          gate->binance             208.3%     n/a     n/a   8h   8h
+DKNG         gate->bybit               173.7%     n/a     n/a   8h   8h
+VST          gate->bybit               151.1%     n/a     n/a   8h   8h
+VST          gate->binance             149.6%     n/a     n/a   8h   8h
+XLU          gate->bybit               127.0%     n/a     n/a   8h   8h
+MEITUAN      gate->binance             125.3%     n/a     n/a   8h   8h
+QNTX         gate->binance             114.3%     n/a     n/a   8h   8h
+EWT          gate->bybit               104.8%     n/a     n/a   8h   8h
+
+DEX vs CEX structural funding bias (per coin: median DEX fAPR - median CEX fAPR):
+  coins with DEX funding > CEX funding: 154/564
+  coin           DEX med   CEX med      diff   top10 DEX-rich:
+  AI              778.2%      2.7%   +775.4%
+  CRO             382.8%     11.0%   +371.9%
+  BULLA           179.4%      8.2%   +171.1%
+  AVAAI           202.7%     47.2%   +155.5%
+  UAI             156.3%     11.0%   +145.4%
+  SAND           -119.9%   -233.7%   +113.7%
+  BTR              11.0%    -99.5%   +110.5%
+  ONT             -51.3%   -154.3%   +103.1%
+  AKE              99.5%     11.0%    +88.6%
+  龙虾              122.8%     35.1%    +87.7%
+  ... top5 DEX-poor (reverse carry candidates):
+  ZKC            -363.2%   -216.7%   -146.5%
+  TUT            -547.6%   -387.5%   -160.1%
+  FRAX           -186.6%      0.5%   -187.1%
+  SLP            -268.2%     -0.6%   -267.5%
+  INX            -360.2%      8.2%   -368.4%
+
+CSV -> /home/z/my-project/download/data/funding_spreads_expanded_2026-09.csv

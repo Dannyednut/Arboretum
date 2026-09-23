@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.htx.com",
+    "name": "HTX to Adjust Funding Rate Method for Futures",
+    "snippet": "Jan 2, 2024 — Dear HTX Users, To enhance our services, HTX will adjust the calculation method of funding rates for USDT-margined Futures and Coin-margined ...",
+    "host_name": "www.htx.com",
+    "rank": 0,
+    "date": "Jan 2, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.tardis.dev",
+    "name": "HTX USDT-M Contracts",
+    "snippet": "Mar 27, 2026 — Historical CSV datasets for the first day of each month are available to download without API key . See downloadable CSV files documentation . Read more",
+    "host_name": "docs.tardis.dev",
+    "rank": 1,
+    "date": "Mar 27, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://huobiapi.github.io",
+    "name": "Huobi USDT Margined Contracts API Reference",
+    "snippet": "Welcome to the Huobi USDT Margined Contracts API ! You can use our API to access all market data, trading, and account management endpoints. Huobi USDT Margined ...",
+    "host_name": "huobiapi.github.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

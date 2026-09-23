@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://arxiv.org/pdf/2109.10662/1000",
+    "name": "Evaluation of Dynamic Cointegration-Based Pairs Trading",
+    "snippet": "by M TADI · 2021 · Cited by 24 — Pairs trading is the commonly recognized statistical arbitrage strategy that involves identifying pairs of securities whose prices tend to move mutually. Read more",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bjftradinggroup.com/en/forex-pairs-trading-statistical-arbitrage",
+    "name": "Forex Pairs Trading & Statistical Arbitrage",
+    "snippet": "Pairs trading is the oldest form of statistical arbitrage — trade the spread between two historically linked instruments when it deviates from its mean, and bet ... Read more",
+    "host_name": "bjftradinggroup.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@johnnya12399/statistical-arbitrage-in-cryptocurrencies-part-1-7ed626ed9629",
+    "name": "Statistical Arbitrage in Cryptocurrencies — Part 1",
+    "snippet": "Step 1: Setting Up the Environment · Step 2: Pairs Selection · Step 3: Generating Trading Signals · Step 4: Portfolio Construction. Read more",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.quantinsti.com/pairs-trading-basics",
+    "name": "Pairs Trading for Beginners: Correlation, Cointegration,",
+    "snippet": "Aug 29, 2022 — ​​The most common test for Pairs Trading is the cointegration test. Cointegration is a statistical property of two or more time-series variables ... Read more",
+    "host_name": "blog.quantinsti.com",
+    "rank": 3,
+    "date": "Aug 29, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://ccsenet.org/journal/index.php/ijef/article/view/33007",
+    "name": "High Frequency and Dynamic Pairs Trading Based on",
+    "snippet": "In this paper, a high frequency and dynamic pairs trading system is proposed, based on a market-neutral statistical arbitrage strategy using a two-stage ... Read more",
+    "host_name": "ccsenet.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://portfoliooptimizationbook.com/book/15.7-statarb.html",
+    "name": "15.7 Statistical Arbitrage",
+    "snippet": "by DP Palomar · Cited by 56 — Arbitrage Pairs trading focuses on discovering cointegration and tracking the cointegration relationship between pairs of assets.",
+    "host_name": "portfoliooptimizationbook.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

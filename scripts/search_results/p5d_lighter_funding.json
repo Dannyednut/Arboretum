@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.lighter.xyz",
+    "name": "Funding",
+    "snippet": "Sep 14, 2026 — Funding payments occur at each hour mark . funding payments for the premium are distributed over 8 hours, closely aligning by centralized  ...",
+    "host_name": "docs.lighter.xyz",
+    "rank": 0,
+    "date": "Sep 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coinbase.com",
+    "name": "Understanding Funding Rates in Perpetual Futures and",
+    "snippet": "a 0.05% positive funding rate applied every hour , they would pay 1.2% in funding fees for maintaining the position over a 24- hour period. With twenty-four  ...",
+    "host_name": "www.coinbase.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://metamask.io",
+    "name": "A guide to perpetual futures funding mechanics and timing",
+    "snippet": "May 14, 2026 — At three funding intervals per day (every 8 hours ), the daily funding cost is approximately 0.9% of the position's notional value. Over one ... Read more",
+    "host_name": "metamask.io",
+    "rank": 2,
+    "date": "May 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coinglass.com",
+    "name": "LIT Funding Rate | Live Data & History Charts",
+    "snippet": "Most exchanges adopt Funding Rate settlement intervals of 8 hours , 4 hours , or 1 hour The system synchronizes the latest rates immediately before and after ...",
+    "host_name": "www.coinglass.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

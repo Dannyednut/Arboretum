@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://support.backpack.exchange",
+    "name": "Backpack Exchange Python API guide",
+    "snippet": "Mar 16, 2026 — For private endpoints, we need. This requires authentication with your API keys. we can send the authenticated request to the API : For more ...",
+    "host_name": "support.backpack.exchange",
+    "rank": 0,
+    "date": "Mar 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Backpack Exchange SDK",
+    "snippet": "A complete Python SDK for the Backpack Exchange API. Authentication Client : Full access to authenticated endpoints (orders, capital, history, RFQ, strategies)  ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://backpack.exchange",
+    "name": "Log in - Backpack: Crypto Exchange & Wallet",
+    "snippet": "Backpack offers a robust, user-friendly platform for seamlessly trading, managing, and securing your cryptocurrency assets.",
+    "host_name": "backpack.exchange",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cube.exchange",
+    "name": "What is Backpack Exchange?",
+    "snippet": "Mar 21, 2026 — Backpack's API verifies the signature , forwards the order command to the engine, and the engine processes it through the documented stages: ... Read more",
+    "host_name": "www.cube.exchange",
+    "rank": 3,
+    "date": "Mar 21, 2026",
+    "favicon": ""
+  }
+]

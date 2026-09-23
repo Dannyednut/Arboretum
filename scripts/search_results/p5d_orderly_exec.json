@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://orderly.network/docs/build-on-omnichain/api-authentication",
+    "name": "API Authentication - Orderly",
+    "snippet": "To generate and add a new Orderly Key, see the documentation. The orderly-signature header must be a valid ed25519 signature generated from the normalized ...",
+    "host_name": "orderly.network",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://orderly.network/docs/build-on-omnichain/introduction",
+    "name": "Introduction",
+    "snippet": "All private endpoints require signing via cryptographically secure keys (Orderly Key). Set the corresponding headers in your request — see API Authentication ...",
+    "host_name": "orderly.network",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://orderly.network/docs/build-on-omnichain/user-flows/internal-transfer",
+    "name": "Internal Transfer",
+    "snippet": "The standard Orderly authentication headers (Orderly Key signature) are also required for this API call. documentation is built and hosted on Mintlify,",
+    "host_name": "orderly.network",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@orderlynetwork/orderly-networks-trading-api-a-guide-to-powerful-automated-market-access-b5a227a43484",
+    "name": "Orderly Network's Trading API: A Guide to Powerful",
+    "snippet": "Accessing the API. To start using the Orderly Network API, traders need to register an account and create Orderly Keys for API authentication.",
+    "host_name": "medium.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

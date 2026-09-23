@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://edgex-1.gitbook.io",
+    "name": "API Docs V2 - edgeX Docs - GitBook",
+    "snippet": "Jun 11, 2026 — Welcome to the EdgeX API V2 documentation . This section provides comprehensive documentation for all V2 REST API endpoints and WebSocket ... Read more",
+    "host_name": "edgex-1.gitbook.io",
+    "rank": 0,
+    "date": "Jun 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "kis9a/edgex-stark-signature: Go implementation of",
+    "snippet": "Go implementation of EdgeX Exchange API authentication using Stark curve ECDSA signatures. L2 Compatible: Full compatibility with StarkEx settlement. Never ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://edgexfoundry.github.io",
+    "name": "API Gateway - EdgeX Foundry Documentation",
+    "snippet": "The API gateway supports two different forms of authentication : JSON Web Token (JWT) or OAuth2 Authentication . Only one authentication method can be enabled at ...",
+    "host_name": "edgexfoundry.github.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pro.edgex.exchange",
+    "name": "edgeX Trading API & Market Data API",
+    "snippet": "How to connect to the edgeX API · 1. Stake 1,000 EDGE Tokens to Get API Whitelist · 2. Start your API journey after completing the staking. Read more",
+    "host_name": "pro.edgex.exchange",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

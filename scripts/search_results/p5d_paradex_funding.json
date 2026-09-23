@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.paradex.trade",
+    "name": "Funding payments history | Paradex | Documentation",
+    "snippet": "Funding payments are periodic payments between traders to make the perpetual futures contract price is close to the index price .",
+    "host_name": "docs.paradex.trade",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.paradex.trade",
+    "name": "Continuous vs. Discrete: Paradex's Unique Approach to",
+    "snippet": "Jun 12, 2024 — at regular intervals, typically every 8 hours , there is a payment from long position holders to short position holders (or vice versa) 0.08% ...",
+    "host_name": "www.paradex.trade",
+    "rank": 1,
+    "date": "Jun 12, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://metamask.io",
+    "name": "A guide to perpetual futures funding mechanics and timing",
+    "snippet": "May 14, 2026 — Typical funding intervals · Every 8 hours (common default on many markets ) · Every 4 hours (higher-frequency recalibration) · Every 12 hours (lower ... Read more",
+    "host_name": "metamask.io",
+    "rank": 2,
+    "date": "May 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.cryptonomist.ch",
+    "name": "Paradex Funding Improvements Enhance Perpetual",
+    "snippet": "Jul 12, 2026 — Traditional funding mechanisms on perpetual contracts recalculate at fixed intervals — typically every 8 hours — which means rates can lurch ...",
+    "host_name": "en.cryptonomist.ch",
+    "rank": 3,
+    "date": "Jul 12, 2026",
+    "favicon": ""
+  }
+]

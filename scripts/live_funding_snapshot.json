@@ -1,0 +1,7876 @@
+{
+ "timestamp_utc": "2026-09-01T06:25:24.190168+00:00",
+ "binance": {
+  "rows": {
+   "DEF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 829.90513793,
+    "next_funding_ms": 1788249600000
+   },
+   "MOC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00867085,
+    "next_funding_ms": 1788249600000
+   },
+   "FLO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02679,
+    "next_funding_ms": 1788249600000
+   },
+   "HOO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00815375,
+    "next_funding_ms": 1788249600000
+   },
+   "SKYA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05336416,
+    "next_funding_ms": 1788249600000
+   },
+   "PIEVERS": {
+    "funding_8h_rate": 0.00030673,
+    "mark_price": 1.0531,
+    "next_funding_ms": 1788249600000
+   },
+   "RE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.011843,
+    "next_funding_ms": 1788249600000
+   },
+   "LRC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 302.8,
+    "next_funding_ms": 1788249600000
+   },
+   "ON": {
+    "funding_8h_rate": -0.00043417,
+    "mark_price": 0.05406,
+    "next_funding_ms": 1788249600000
+   },
+   "EO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.78020769,
+    "next_funding_ms": 1788249600000
+   },
+   "REE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00046432,
+    "next_funding_ms": 1788249600000
+   },
+   "SPEL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 8.245e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "IB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 234.09,
+    "next_funding_ms": 1788249600000
+   },
+   "PROMP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02432186,
+    "next_funding_ms": 1788249600000
+   },
+   "JELLYJELL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05465,
+    "next_funding_ms": 1788249600000
+   },
+   "PYP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 52.75560766,
+    "next_funding_ms": 1788249600000
+   },
+   "BA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1.25343333,
+    "next_funding_ms": 0
+   },
+   "AVAA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0083701,
+    "next_funding_ms": 1788249600000
+   },
+   "VELODROM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02292,
+    "next_funding_ms": 1788249600000
+   },
+   "ORDE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03373952,
+    "next_funding_ms": 1788249600000
+   },
+   "ORB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01807714,
+    "next_funding_ms": 1788249600000
+   },
+   "C": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12276,
+    "next_funding_ms": 1788249600000
+   },
+   "\u9f99": {
+    "funding_8h_rate": 0.00068976,
+    "mark_price": 0.06588796,
+    "next_funding_ms": 1788249600000
+   },
+   "FORT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.26776,
+    "next_funding_ms": 1788249600000
+   },
+   "MIR": {
+    "funding_8h_rate": -0.00178224,
+    "mark_price": 0.04622059,
+    "next_funding_ms": 1788249600000
+   },
+   "NBI": {
+    "funding_8h_rate": 0.00014972,
+    "mark_price": 208.19,
+    "next_funding_ms": 1788249600000
+   },
+   "NAVE": {
+    "funding_8h_rate": -0.00023194,
+    "mark_price": 156.61,
+    "next_funding_ms": 1788249600000
+   },
+   "HAEDA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01837,
+    "next_funding_ms": 1788249600000
+   },
+   "HO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00037988,
+    "next_funding_ms": 1788249600000
+   },
+   "TURTL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0429,
+    "next_funding_ms": 1788249600000
+   },
+   "AT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00482242,
+    "next_funding_ms": 1788249600000
+   },
+   "AP": {
+    "funding_8h_rate": -5.785e-05,
+    "mark_price": 0.13753,
+    "next_funding_ms": 1788249600000
+   },
+   "SL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06818,
+    "next_funding_ms": 1788249600000
+   },
+   "UM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.36871373,
+    "next_funding_ms": 1788249600000
+   },
+   "ROS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00620393,
+    "next_funding_ms": 1788249600000
+   },
+   "PH": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.004709,
+    "next_funding_ms": 1788249600000
+   },
+   "VIN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01772182,
+    "next_funding_ms": 1788249600000
+   },
+   "AC": {
+    "funding_8h_rate": -0.00039287,
+    "mark_price": 0.16041519,
+    "next_funding_ms": 1788249600000
+   },
+   "PUMPBT": {
+    "funding_8h_rate": 0.0002767,
+    "mark_price": 0.01245559,
+    "next_funding_ms": 1788249600000
+   },
+   "PRO": {
+    "funding_8h_rate": 2.447e-05,
+    "mark_price": 5.42019733,
+    "next_funding_ms": 1788249600000
+   },
+   "NO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.15724978,
+    "next_funding_ms": 1788249600000
+   },
+   "FE": {
+    "funding_8h_rate": -6.689e-05,
+    "mark_price": 0.1563,
+    "next_funding_ms": 1788249600000
+   },
+   "BEAM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0014925,
+    "next_funding_ms": 1788249600000
+   },
+   "COMMO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00045217,
+    "next_funding_ms": 0
+   },
+   "VOXE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01218,
+    "next_funding_ms": 0
+   },
+   "TNS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0350985,
+    "next_funding_ms": 1788249600000
+   },
+   "FLOC": {
+    "funding_8h_rate": -0.00256894,
+    "mark_price": 0.03878,
+    "next_funding_ms": 1788249600000
+   },
+   "TRO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00033,
+    "next_funding_ms": 1788249600000
+   },
+   "M": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 960.72,
+    "next_funding_ms": 1788249600000
+   },
+   "CBR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 184.56142711,
+    "next_funding_ms": 1788249600000
+   },
+   "LR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00851136,
+    "next_funding_ms": 0
+   },
+   "AI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07612597,
+    "next_funding_ms": 1788249600000
+   },
+   "SP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5883,
+    "next_funding_ms": 1788249600000
+   },
+   "STM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00011263,
+    "next_funding_ms": 1788249600000
+   },
+   "MAVI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02854875,
+    "next_funding_ms": 1788249600000
+   },
+   "PLUM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01467,
+    "next_funding_ms": 1788249600000
+   },
+   "": {
+    "funding_8h_rate": 0.00013259,
+    "mark_price": 0.01389092,
+    "next_funding_ms": 1788249600000
+   },
+   "RECAL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04672768,
+    "next_funding_ms": 1788249600000
+   },
+   "GOA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01553707,
+    "next_funding_ms": 1788249600000
+   },
+   "KLA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 176.35,
+    "next_funding_ms": 1788249600000
+   },
+   "ZET": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03345331,
+    "next_funding_ms": 1788249600000
+   },
+   "FOG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.007278,
+    "next_funding_ms": 1788249600000
+   },
+   "RA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.82759167,
+    "next_funding_ms": 1788249600000
+   },
+   "PR": {
+    "funding_8h_rate": -6.309e-05,
+    "mark_price": 0.1548,
+    "next_funding_ms": 1788249600000
+   },
+   "KA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02796,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUS": {
+    "funding_8h_rate": 0.00020384,
+    "mark_price": 0.05411,
+    "next_funding_ms": 1788249600000
+   },
+   "MBO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00067833,
+    "next_funding_ms": 1788249600000
+   },
+   "TS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01643047,
+    "next_funding_ms": 1788249600000
+   },
+   "IOS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00058529,
+    "next_funding_ms": 1788249600000
+   },
+   "STA": {
+    "funding_8h_rate": 0.00043364,
+    "mark_price": 0.12259316,
+    "next_funding_ms": 1788249600000
+   },
+   "NV": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 45.42899614,
+    "next_funding_ms": 1788249600000
+   },
+   "1MBABYDOG": {
+    "funding_8h_rate": 4.985e-05,
+    "mark_price": 0.0003568,
+    "next_funding_ms": 1788249600000
+   },
+   "ZOR": {
+    "funding_8h_rate": -0.00118737,
+    "mark_price": 0.00860438,
+    "next_funding_ms": 1788249600000
+   },
+   "IN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00658896,
+    "next_funding_ms": 1788249600000
+   },
+   "ALG": {
+    "funding_8h_rate": 1.852e-05,
+    "mark_price": 0.09005059,
+    "next_funding_ms": 1788249600000
+   },
+   "SKH": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 165.26923883,
+    "next_funding_ms": 1788249600000
+   },
+   "KS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 3.62985,
+    "next_funding_ms": 1788249600000
+   },
+   "EW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 111.61088898,
+    "next_funding_ms": 1788249600000
+   },
+   "I": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03387,
+    "next_funding_ms": 1788249600000
+   },
+   "DOG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 4.179e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "SOP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00412653,
+    "next_funding_ms": 1788249600000
+   },
+   "ME": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00041833,
+    "next_funding_ms": 1788249600000
+   },
+   "XV": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.002541,
+    "next_funding_ms": 1788249600000
+   },
+   "AS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.88436465,
+    "next_funding_ms": 1788249600000
+   },
+   "UNF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.71931,
+    "next_funding_ms": 1788249600000
+   },
+   "XR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.3851,
+    "next_funding_ms": 1788249600000
+   },
+   "VID": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0003276,
+    "next_funding_ms": 0
+   },
+   "GU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00303246,
+    "next_funding_ms": 1788249600000
+   },
+   "IM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1251,
+    "next_funding_ms": 1788249600000
+   },
+   "KE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00055633,
+    "next_funding_ms": 1788249600000
+   },
+   "BC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 249.25,
+    "next_funding_ms": 1788249600000
+   },
+   "FOLK": {
+    "funding_8h_rate": 0.00015358,
+    "mark_price": 2.07680774,
+    "next_funding_ms": 1788249600000
+   },
+   "XB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 162.7,
+    "next_funding_ms": 1788249600000
+   },
+   "AGI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.4962,
+    "next_funding_ms": 1788249600000
+   },
+   "DJ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.75036765,
+    "next_funding_ms": 1788249600000
+   },
+   "YG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.022335,
+    "next_funding_ms": 1788249600000
+   },
+   "LAYE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06849,
+    "next_funding_ms": 1788249600000
+   },
+   "BER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1798,
+    "next_funding_ms": 1788249600000
+   },
+   "INT": {
+    "funding_8h_rate": 0.00017739,
+    "mark_price": 18.6,
+    "next_funding_ms": 1788249600000
+   },
+   "SONI": {
+    "funding_8h_rate": -0.00020735,
+    "mark_price": 0.02274471,
+    "next_funding_ms": 1788249600000
+   },
+   "PEOPL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00786655,
+    "next_funding_ms": 1788249600000
+   },
+   "1000SAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.09e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "AL": {
+    "funding_8h_rate": -0.00013996,
+    "mark_price": 0.5509,
+    "next_funding_ms": 1788249600000
+   },
+   "PD": {
+    "funding_8h_rate": 0.00136732,
+    "mark_price": 84.14,
+    "next_funding_ms": 1788249600000
+   },
+   "AER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.4926141,
+    "next_funding_ms": 1788249600000
+   },
+   "BT": {
+    "funding_8h_rate": 0.00074903,
+    "mark_price": 0.20421,
+    "next_funding_ms": 1788249600000
+   },
+   "CLANKE": {
+    "funding_8h_rate": 0.00036848,
+    "mark_price": 12.91953444,
+    "next_funding_ms": 1788249600000
+   },
+   "EVA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.73784073,
+    "next_funding_ms": 1788249600000
+   },
+   "WD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 451.75264159,
+    "next_funding_ms": 1788249600000
+   },
+   "TM": {
+    "funding_8h_rate": 0.00148561,
+    "mark_price": 30.63144533,
+    "next_funding_ms": 1788249600000
+   },
+   "LS": {
+    "funding_8h_rate": -0.00015186,
+    "mark_price": 0.10011,
+    "next_funding_ms": 1788249600000
+   },
+   "ORD": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.93249885,
+    "next_funding_ms": 1788249600000
+   },
+   "ML": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1.43600666,
+    "next_funding_ms": 1788249600000
+   },
+   "SND": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1548.38,
+    "next_funding_ms": 1788249600000
+   },
+   "DRA": {
+    "funding_8h_rate": 0.0002504,
+    "mark_price": 57.03,
+    "next_funding_ms": 1788249600000
+   },
+   "BI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0264506,
+    "next_funding_ms": 1788249600000
+   },
+   "CK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0010497,
+    "next_funding_ms": 1788249600000
+   },
+   "ER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06056282,
+    "next_funding_ms": 1788249600000
+   },
+   "ZEREBR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.037788,
+    "next_funding_ms": 1788249600000
+   },
+   "EGL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 3.93436,
+    "next_funding_ms": 1788249600000
+   },
+   "BIGTIM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00658516,
+    "next_funding_ms": 1788249600000
+   },
+   "F": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08367306,
+    "next_funding_ms": 1788249600000
+   },
+   "DYD": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.1094,
+    "next_funding_ms": 1788249600000
+   },
+   "TURB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00095171,
+    "next_funding_ms": 1788249600000
+   },
+   "DI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 107.54,
+    "next_funding_ms": 1788249600000
+   },
+   "LY": {
+    "funding_8h_rate": 0.00038074,
+    "mark_price": 0.03607787,
+    "next_funding_ms": 1788249600000
+   },
+   "AG": {
+    "funding_8h_rate": 0.0004896,
+    "mark_price": 0.01643,
+    "next_funding_ms": 1788249600000
+   },
+   "MEMEF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0015478,
+    "next_funding_ms": 1788249600000
+   },
+   "EN": {
+    "funding_8h_rate": 4.548e-05,
+    "mark_price": 0.1501,
+    "next_funding_ms": 1788249600000
+   },
+   "AVN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1014,
+    "next_funding_ms": 1788249600000
+   },
+   "PENG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008795,
+    "next_funding_ms": 1788249600000
+   },
+   "STR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0267,
+    "next_funding_ms": 1788249600000
+   },
+   "BN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.31901167,
+    "next_funding_ms": 1788249600000
+   },
+   "LIN": {
+    "funding_8h_rate": 7.867e-05,
+    "mark_price": 11.44284109,
+    "next_funding_ms": 1788249600000
+   },
+   "RV": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00032583,
+    "next_funding_ms": 1788246000000
+   },
+   "DUS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06813,
+    "next_funding_ms": 1788249600000
+   },
+   "MVL": {
+    "funding_8h_rate": 0.00036546,
+    "mark_price": 23.96,
+    "next_funding_ms": 1788249600000
+   },
+   "DRIF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0123,
+    "next_funding_ms": 1788249600000
+   },
+   "ZE": {
+    "funding_8h_rate": 8.8e-05,
+    "mark_price": 860.24,
+    "next_funding_ms": 1788249600000
+   },
+   "CV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.38,
+    "next_funding_ms": 1788249600000
+   },
+   "URN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 57.01,
+    "next_funding_ms": 1788249600000
+   },
+   "FX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.806,
+    "next_funding_ms": 1788249600000
+   },
+   "CTS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.02484,
+    "next_funding_ms": 1788249600000
+   },
+   "SANTO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.53265585,
+    "next_funding_ms": 1788249600000
+   },
+   "OMN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 3.8795849,
+    "next_funding_ms": 1788249600000
+   },
+   "NI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0519705,
+    "next_funding_ms": 1788249600000
+   },
+   "SX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00886597,
+    "next_funding_ms": 1788249600000
+   },
+   "ZK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00544193,
+    "next_funding_ms": 1788246000000
+   },
+   "GIGADE": {
+    "funding_8h_rate": 0.00058377,
+    "mark_price": 61.22,
+    "next_funding_ms": 1788249600000
+   },
+   "BADGE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.89344286,
+    "next_funding_ms": 1788249600000
+   },
+   "HIM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 29.75,
+    "next_funding_ms": 1788249600000
+   },
+   "COA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2916,
+    "next_funding_ms": 1788249600000
+   },
+   "AIGENSY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01943499,
+    "next_funding_ms": 1788249600000
+   },
+   "KERNE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03860548,
+    "next_funding_ms": 1788249600000
+   },
+   "CY": {
+    "funding_8h_rate": -0.00036906,
+    "mark_price": 0.5318,
+    "next_funding_ms": 1788249600000
+   },
+   "ZR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.01960016,
+    "next_funding_ms": 1788249600000
+   },
+   "EP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0008359,
+    "next_funding_ms": 0
+   },
+   "ALIC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13480676,
+    "next_funding_ms": 1788249600000
+   },
+   "XA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.007604,
+    "next_funding_ms": 1788249600000
+   },
+   "MM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.158,
+    "next_funding_ms": 1788249600000
+   },
+   "CHILLGU": {
+    "funding_8h_rate": 0.00010674,
+    "mark_price": 0.01137,
+    "next_funding_ms": 1788249600000
+   },
+   "SU": {
+    "funding_8h_rate": 8.294e-05,
+    "mark_price": 0.7299,
+    "next_funding_ms": 1788249600000
+   },
+   "LP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.35198341,
+    "next_funding_ms": 1788249600000
+   },
+   "TTW": {
+    "funding_8h_rate": 0.00065403,
+    "mark_price": 222.23053423,
+    "next_funding_ms": 1788249600000
+   },
+   "FT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.22372633,
+    "next_funding_ms": 1788249600000
+   },
+   "B": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 207.10909434,
+    "next_funding_ms": 1788249600000
+   },
+   "ION": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 39.59728123,
+    "next_funding_ms": 1788249600000
+   },
+   "EU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.30315869,
+    "next_funding_ms": 1788249600000
+   },
+   "FI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01964478,
+    "next_funding_ms": 0
+   },
+   "GHS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.11021857,
+    "next_funding_ms": 1788249600000
+   },
+   "SE": {
+    "funding_8h_rate": 2.05e-06,
+    "mark_price": 0.04489,
+    "next_funding_ms": 1788249600000
+   },
+   "FID": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01867,
+    "next_funding_ms": 1788249600000
+   },
+   "PHARO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.41153313,
+    "next_funding_ms": 1788249600000
+   },
+   "PLT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 185.96,
+    "next_funding_ms": 1788249600000
+   },
+   "YF": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2240.29583333,
+    "next_funding_ms": 1788249600000
+   },
+   "POLY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03405,
+    "next_funding_ms": 1788249600000
+   },
+   "HIF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.04455556,
+    "next_funding_ms": 0
+   },
+   "SY": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.002393,
+    "next_funding_ms": 1788249600000
+   },
+   "MAS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.42794324,
+    "next_funding_ms": 1788249600000
+   },
+   "ALPIN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3552,
+    "next_funding_ms": 1788249600000
+   },
+   "NTR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0024815,
+    "next_funding_ms": 1788249600000
+   },
+   "SIRE": {
+    "funding_8h_rate": 0.00041966,
+    "mark_price": 0.03001,
+    "next_funding_ms": 1788249600000
+   },
+   "T": {
+    "funding_8h_rate": 0.00018318,
+    "mark_price": 0.06067461,
+    "next_funding_ms": 1788249600000
+   },
+   "OND": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.34932565,
+    "next_funding_ms": 1788249600000
+   },
+   "ZHONGJ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 134.56713959,
+    "next_funding_ms": 1788249600000
+   },
+   "HEM": {
+    "funding_8h_rate": 0.00014142,
+    "mark_price": 0.015953,
+    "next_funding_ms": 1788249600000
+   },
+   "BANAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.882,
+    "next_funding_ms": 1788249600000
+   },
+   "AR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11073296,
+    "next_funding_ms": 1788249600000
+   },
+   "ZB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08402,
+    "next_funding_ms": 1788249600000
+   },
+   "LOO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.001424,
+    "next_funding_ms": 1788249600000
+   },
+   "SAMSUN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 190.02,
+    "next_funding_ms": 1788249600000
+   },
+   "FIGH": {
+    "funding_8h_rate": 0.00042,
+    "mark_price": 0.003351,
+    "next_funding_ms": 1788249600000
+   },
+   "H": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 328.87353952,
+    "next_funding_ms": 1788249600000
+   },
+   "1000CHEEM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0005076,
+    "next_funding_ms": 1788249600000
+   },
+   "PEN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 49.14,
+    "next_funding_ms": 1788249600000
+   },
+   "1000PEP": {
+    "funding_8h_rate": -3.79e-05,
+    "mark_price": 0.0035419,
+    "next_funding_ms": 1788249600000
+   },
+   "MYR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00361188,
+    "next_funding_ms": 1788249600000
+   },
+   "HYP": {
+    "funding_8h_rate": 1.965e-05,
+    "mark_price": 84.08,
+    "next_funding_ms": 1788249600000
+   },
+   "LYT": {
+    "funding_8h_rate": 7.022e-05,
+    "mark_price": 24.77,
+    "next_funding_ms": 1788249600000
+   },
+   "O": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00464835,
+    "next_funding_ms": 1788249600000
+   },
+   "AIXB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02023,
+    "next_funding_ms": 1788249600000
+   },
+   "FLE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 109.96404924,
+    "next_funding_ms": 1788249600000
+   },
+   "OPENA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1214.32,
+    "next_funding_ms": 1788249600000
+   },
+   "LL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1159.95,
+    "next_funding_ms": 1788249600000
+   },
+   "PAY": {
+    "funding_8h_rate": 1.654e-05,
+    "mark_price": 15.12,
+    "next_funding_ms": 1788249600000
+   },
+   "HAN": {
+    "funding_8h_rate": 0.00025558,
+    "mark_price": 0.02045499,
+    "next_funding_ms": 1788249600000
+   },
+   "STRA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00944806,
+    "next_funding_ms": 1788249600000
+   },
+   "TANSS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00097574,
+    "next_funding_ms": 0
+   },
+   "A": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13414012,
+    "next_funding_ms": 1788249600000
+   },
+   "BAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13244764,
+    "next_funding_ms": 1788249600000
+   },
+   "SAHAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00837223,
+    "next_funding_ms": 1788249600000
+   },
+   "NK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00916638,
+    "next_funding_ms": 1788249600000
+   },
+   "\u6211\u8e0f\u9a6c\u6765": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.011044,
+    "next_funding_ms": 1788249600000
+   },
+   "G": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1022.97,
+    "next_funding_ms": 1788249600000
+   },
+   "ASTE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.69800422,
+    "next_funding_ms": 1788249600000
+   },
+   "PORTA": {
+    "funding_8h_rate": -8.671e-05,
+    "mark_price": 0.01426,
+    "next_funding_ms": 1788249600000
+   },
+   "SCR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0095404,
+    "next_funding_ms": 1788249600000
+   },
+   "MA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01071964,
+    "next_funding_ms": 1788249600000
+   },
+   "TU": {
+    "funding_8h_rate": -0.0040894,
+    "mark_price": 0.0298,
+    "next_funding_ms": 1788249600000
+   },
+   "BIT": {
+    "funding_8h_rate": 0.0008301,
+    "mark_price": 10.67,
+    "next_funding_ms": 1788249600000
+   },
+   "PART": {
+    "funding_8h_rate": 1.891e-05,
+    "mark_price": 0.0238,
+    "next_funding_ms": 1788249600000
+   },
+   "TO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1.59969124,
+    "next_funding_ms": 1788249600000
+   },
+   "UNITRE": {
+    "funding_8h_rate": -0.00166176,
+    "mark_price": 85.79,
+    "next_funding_ms": 1788249600000
+   },
+   "AZTE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01341693,
+    "next_funding_ms": 1788249600000
+   },
+   "LA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06914,
+    "next_funding_ms": 1788249600000
+   },
+   "FLUI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.32181922,
+    "next_funding_ms": 1788249600000
+   },
+   "BULL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0173401,
+    "next_funding_ms": 1788249600000
+   },
+   "MK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1818.50800619,
+    "next_funding_ms": 1788249600000
+   },
+   "OM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.15445273,
+    "next_funding_ms": 1788249600000
+   },
+   "BASE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06952,
+    "next_funding_ms": 1788249600000
+   },
+   "VI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.006608,
+    "next_funding_ms": 1788249600000
+   },
+   "BIR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05984242,
+    "next_funding_ms": 1788249600000
+   },
+   "CH": {
+    "funding_8h_rate": -6.29e-06,
+    "mark_price": 0.01337,
+    "next_funding_ms": 1788249600000
+   },
+   "MSF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 506.46391262,
+    "next_funding_ms": 1788249600000
+   },
+   "KAIT": {
+    "funding_8h_rate": 9.8e-07,
+    "mark_price": 0.30106079,
+    "next_funding_ms": 1788249600000
+   },
+   "ED": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04799064,
+    "next_funding_ms": 1788249600000
+   },
+   "OP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05504,
+    "next_funding_ms": 1788249600000
+   },
+   "UN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 5.643,
+    "next_funding_ms": 1788249600000
+   },
+   "DEE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01433341,
+    "next_funding_ms": 1788249600000
+   },
+   "TR": {
+    "funding_8h_rate": -0.0006338,
+    "mark_price": 0.33117765,
+    "next_funding_ms": 1788249600000
+   },
+   "BS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10804,
+    "next_funding_ms": 1788249600000
+   },
+   "POPMAR": {
+    "funding_8h_rate": 0.00106884,
+    "mark_price": 19.90574089,
+    "next_funding_ms": 1788249600000
+   },
+   "JASM": {
+    "funding_8h_rate": 1.25e-05,
+    "mark_price": 0.00509712,
+    "next_funding_ms": 1788249600000
+   },
+   "RIV": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 16.06817131,
+    "next_funding_ms": 1788249600000
+   },
+   "SF": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.26255,
+    "next_funding_ms": 1788249600000
+   },
+   "SPC": {
+    "funding_8h_rate": -0.00038318,
+    "mark_price": 143.89,
+    "next_funding_ms": 1788249600000
+   },
+   "\u725b": {
+    "funding_8h_rate": 0.00064512,
+    "mark_price": 0.09110691,
+    "next_funding_ms": 1788249600000
+   },
+   "PT": {
+    "funding_8h_rate": 7.61e-05,
+    "mark_price": 0.00075649,
+    "next_funding_ms": 1788249600000
+   },
+   "IC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2.42,
+    "next_funding_ms": 1788249600000
+   },
+   "OG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01835,
+    "next_funding_ms": 1788249600000
+   },
+   "ANIM": {
+    "funding_8h_rate": -0.00053962,
+    "mark_price": 0.002796,
+    "next_funding_ms": 1788249600000
+   },
+   "ARP": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.009681,
+    "next_funding_ms": 1788249600000
+   },
+   "BRET": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.005275,
+    "next_funding_ms": 1788249600000
+   },
+   "CSC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 110.75463673,
+    "next_funding_ms": 1788249600000
+   },
+   "ALPAC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01882,
+    "next_funding_ms": 1788246000000
+   },
+   "SWARM": {
+    "funding_8h_rate": 0.00032042,
+    "mark_price": 0.007979,
+    "next_funding_ms": 1788249600000
+   },
+   "BL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.047222,
+    "next_funding_ms": 1788249600000
+   },
+   "LUMI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08806,
+    "next_funding_ms": 1788249600000
+   },
+   "BB": {
+    "funding_8h_rate": 0.00022013,
+    "mark_price": 8.178,
+    "next_funding_ms": 1788249600000
+   },
+   "DO": {
+    "funding_8h_rate": 3.573e-05,
+    "mark_price": 0.8596,
+    "next_funding_ms": 1788249600000
+   },
+   "LIT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 917.12773773,
+    "next_funding_ms": 1788249600000
+   },
+   "KIT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.11904,
+    "next_funding_ms": 1788249600000
+   },
+   "LIST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06987,
+    "next_funding_ms": 1788249600000
+   },
+   "DODO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0188081,
+    "next_funding_ms": 1788249600000
+   },
+   "TOKE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00228091,
+    "next_funding_ms": 1788249600000
+   },
+   "KGE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.17265724,
+    "next_funding_ms": 1788249600000
+   },
+   "FOR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.25794403,
+    "next_funding_ms": 1788249600000
+   },
+   "SOM": {
+    "funding_8h_rate": -0.00046669,
+    "mark_price": 0.12498387,
+    "next_funding_ms": 1788249600000
+   },
+   "CETU": {
+    "funding_8h_rate": -2.716e-05,
+    "mark_price": 0.02311702,
+    "next_funding_ms": 1788249600000
+   },
+   "BAB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01203566,
+    "next_funding_ms": 1788249600000
+   },
+   "MIN": {
+    "funding_8h_rate": -0.00028181,
+    "mark_price": 0.06806,
+    "next_funding_ms": 1788249600000
+   },
+   "SC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02418865,
+    "next_funding_ms": 1788249600000
+   },
+   "HK181": {
+    "funding_8h_rate": 0.00033075,
+    "mark_price": 27.7,
+    "next_funding_ms": 1788249600000
+   },
+   "AVG": {
+    "funding_8h_rate": 0.00036376,
+    "mark_price": 372.71,
+    "next_funding_ms": 1788249600000
+   },
+   "CGP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01942,
+    "next_funding_ms": 1788249600000
+   },
+   "WE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06052669,
+    "next_funding_ms": 1788249600000
+   },
+   "GOOG": {
+    "funding_8h_rate": 0.00018153,
+    "mark_price": 340.04,
+    "next_funding_ms": 1788249600000
+   },
+   "ARI": {
+    "funding_8h_rate": 0.00042327,
+    "mark_price": 0.03335,
+    "next_funding_ms": 1788249600000
+   },
+   "AAO": {
+    "funding_8h_rate": 2.173e-05,
+    "mark_price": 106.94,
+    "next_funding_ms": 1788249600000
+   },
+   "DA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01348128,
+    "next_funding_ms": 1788249600000
+   },
+   "CUDI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00823975,
+    "next_funding_ms": 0
+   },
+   "KMN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02406298,
+    "next_funding_ms": 1788249600000
+   },
+   "TAK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05898,
+    "next_funding_ms": 1788249600000
+   },
+   "AI16": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0569,
+    "next_funding_ms": 1788249600000
+   },
+   "QQ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 718.02077732,
+    "next_funding_ms": 1788249600000
+   },
+   "NM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 9.06568333,
+    "next_funding_ms": 1788249600000
+   },
+   "CL": {
+    "funding_8h_rate": 0.00026371,
+    "mark_price": 0.13158,
+    "next_funding_ms": 1788249600000
+   },
+   "UVX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 18.0082707,
+    "next_funding_ms": 1788249600000
+   },
+   "RENDE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.454,
+    "next_funding_ms": 1788249600000
+   },
+   "MEITUA": {
+    "funding_8h_rate": 0.00178192,
+    "mark_price": 9.89538264,
+    "next_funding_ms": 1788249600000
+   },
+   "GM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.007293,
+    "next_funding_ms": 1788249600000
+   },
+   "ST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1682,
+    "next_funding_ms": 1788249600000
+   },
+   "CRW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 230.77259395,
+    "next_funding_ms": 1788249600000
+   },
+   "BLU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0158051,
+    "next_funding_ms": 1788249600000
+   },
+   "OX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01055732,
+    "next_funding_ms": 0
+   },
+   "1000": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.020844,
+    "next_funding_ms": 1788249600000
+   },
+   "RS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.001363,
+    "next_funding_ms": 1788249600000
+   },
+   "MRN": {
+    "funding_8h_rate": -0.00043835,
+    "mark_price": 139.63,
+    "next_funding_ms": 1788249600000
+   },
+   "AK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5131,
+    "next_funding_ms": 1788249600000
+   },
+   "DATAI": {
+    "funding_8h_rate": -0.00023347,
+    "mark_price": 0.19282121,
+    "next_funding_ms": 1788249600000
+   },
+   "ADB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 292.74,
+    "next_funding_ms": 1788249600000
+   },
+   "1INC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.08988647,
+    "next_funding_ms": 1788249600000
+   },
+   "SPAC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00486749,
+    "next_funding_ms": 1788249600000
+   },
+   "JP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 356.04782192,
+    "next_funding_ms": 1788249600000
+   },
+   "NATGA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 2.939,
+    "next_funding_ms": 1788249600000
+   },
+   "INI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06068,
+    "next_funding_ms": 1788249600000
+   },
+   "GAI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.02082667,
+    "next_funding_ms": 0
+   },
+   "CAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03559,
+    "next_funding_ms": 1788249600000
+   },
+   "IW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 294.43,
+    "next_funding_ms": 1788249600000
+   },
+   "AX": {
+    "funding_8h_rate": -0.00055885,
+    "mark_price": 0.04316119,
+    "next_funding_ms": 1788249600000
+   },
+   "XL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.17807425,
+    "next_funding_ms": 1788249600000
+   },
+   "CA": {
+    "funding_8h_rate": -0.00026725,
+    "mark_price": 0.0691491,
+    "next_funding_ms": 1788249600000
+   },
+   "AVA": {
+    "funding_8h_rate": 6.838e-05,
+    "mark_price": 7.276,
+    "next_funding_ms": 1788249600000
+   },
+   "CEL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07419176,
+    "next_funding_ms": 1788249600000
+   },
+   "SOX": {
+    "funding_8h_rate": 0.00019201,
+    "mark_price": 114.54488989,
+    "next_funding_ms": 1788249600000
+   },
+   "RDD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 148.24822254,
+    "next_funding_ms": 1788249600000
+   },
+   "MET": {
+    "funding_8h_rate": 0.00011404,
+    "mark_price": 573.21,
+    "next_funding_ms": 1788249600000
+   },
+   "KST": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 24.01,
+    "next_funding_ms": 1788249600000
+   },
+   "IDE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0022888,
+    "next_funding_ms": 0
+   },
+   "RL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.3091,
+    "next_funding_ms": 1788249600000
+   },
+   "LEVE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 6.754e-05,
+    "next_funding_ms": 1788246000000
+   },
+   "RAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01232577,
+    "next_funding_ms": 1788249600000
+   },
+   "XP": {
+    "funding_8h_rate": 0.00026294,
+    "mark_price": 1360.25675006,
+    "next_funding_ms": 1788249600000
+   },
+   "NAORI": {
+    "funding_8h_rate": 7.384e-05,
+    "mark_price": 0.02567655,
+    "next_funding_ms": 1788249600000
+   },
+   "PLA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03802,
+    "next_funding_ms": 1788249600000
+   },
+   "TRE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04003089,
+    "next_funding_ms": 1788249600000
+   },
+   "4": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00193161,
+    "next_funding_ms": 1788246000000
+   },
+   "CAK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.863,
+    "next_funding_ms": 1788249600000
+   },
+   "EPI": {
+    "funding_8h_rate": -4.149e-05,
+    "mark_price": 0.3368,
+    "next_funding_ms": 1788249600000
+   },
+   "HYPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06594402,
+    "next_funding_ms": 1788249600000
+   },
+   "SK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00367945,
+    "next_funding_ms": 1788249600000
+   },
+   "D": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0015954,
+    "next_funding_ms": 1788249600000
+   },
+   "ET": {
+    "funding_8h_rate": 9.578e-05,
+    "mark_price": 2473.09,
+    "next_funding_ms": 1788249600000
+   },
+   "SNO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 333.14893207,
+    "next_funding_ms": 1788249600000
+   },
+   "TAIK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07417,
+    "next_funding_ms": 1788249600000
+   },
+   "SYRU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.18712004,
+    "next_funding_ms": 1788249600000
+   },
+   "KODEX20": {
+    "funding_8h_rate": -0.00133742,
+    "mark_price": 78.54597012,
+    "next_funding_ms": 1788249600000
+   },
+   "LQT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.2187,
+    "next_funding_ms": 1788249600000
+   },
+   "BAK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.012312,
+    "next_funding_ms": 0
+   },
+   "GLM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00694896,
+    "next_funding_ms": 1788249600000
+   },
+   "SIG": {
+    "funding_8h_rate": -5.464e-05,
+    "mark_price": 0.008747,
+    "next_funding_ms": 1788249600000
+   },
+   "CT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1137,
+    "next_funding_ms": 1788249600000
+   },
+   "GWE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02542055,
+    "next_funding_ms": 1788249600000
+   },
+   "PUFFE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01433359,
+    "next_funding_ms": 1788249600000
+   },
+   "Z": {
+    "funding_8h_rate": 0.00162399,
+    "mark_price": 96.69604688,
+    "next_funding_ms": 1788249600000
+   },
+   "IOT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00293745,
+    "next_funding_ms": 1788249600000
+   },
+   "PYT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04972512,
+    "next_funding_ms": 1788249600000
+   },
+   "ROB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01242174,
+    "next_funding_ms": 1788249600000
+   },
+   "TSL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 367.69620655,
+    "next_funding_ms": 1788249600000
+   },
+   "DEG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.020135,
+    "next_funding_ms": 1788249600000
+   },
+   "METI": {
+    "funding_8h_rate": 3.516e-05,
+    "mark_price": 2.71859921,
+    "next_funding_ms": 1788249600000
+   },
+   "HF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00657123,
+    "next_funding_ms": 1788246000000
+   },
+   "TQQ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 72.16,
+    "next_funding_ms": 1788249600000
+   },
+   "PNU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04817492,
+    "next_funding_ms": 1788249600000
+   },
+   "FU": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00062843,
+    "next_funding_ms": 1788249600000
+   },
+   "BM": {
+    "funding_8h_rate": -3.365e-05,
+    "mark_price": 0.02065,
+    "next_funding_ms": 1788249600000
+   },
+   "AXT": {
+    "funding_8h_rate": 5.886e-05,
+    "mark_price": 60.61,
+    "next_funding_ms": 1788249600000
+   },
+   "ICN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10206292,
+    "next_funding_ms": 1788249600000
+   },
+   "DY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.015215,
+    "next_funding_ms": 1788249600000
+   },
+   "MAGI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04556,
+    "next_funding_ms": 1788249600000
+   },
+   "IRE": {
+    "funding_8h_rate": 7.869e-05,
+    "mark_price": 37.2,
+    "next_funding_ms": 1788249600000
+   },
+   "SQQ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 38.42133297,
+    "next_funding_ms": 1788249600000
+   },
+   "AIO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03863,
+    "next_funding_ms": 1788249600000
+   },
+   "VS": {
+    "funding_8h_rate": 0.0005642,
+    "mark_price": 139.58622631,
+    "next_funding_ms": 1788249600000
+   },
+   "BOM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00087902,
+    "next_funding_ms": 1788249600000
+   },
+   "KAV": {
+    "funding_8h_rate": 3.963e-05,
+    "mark_price": 0.04683,
+    "next_funding_ms": 1788249600000
+   },
+   "SAPIE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08145,
+    "next_funding_ms": 1788249600000
+   },
+   "BAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03555,
+    "next_funding_ms": 1788249600000
+   },
+   "QCO": {
+    "funding_8h_rate": 4.299e-05,
+    "mark_price": 171.05881624,
+    "next_funding_ms": 1788249600000
+   },
+   "ALC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0305993,
+    "next_funding_ms": 1788249600000
+   },
+   "FARTCOI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.17727645,
+    "next_funding_ms": 1788249600000
+   },
+   "SHEL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02313509,
+    "next_funding_ms": 1788249600000
+   },
+   "WAVE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.75728182,
+    "next_funding_ms": 0
+   },
+   "AV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.19629753,
+    "next_funding_ms": 1788249600000
+   },
+   "STEE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04307732,
+    "next_funding_ms": 1788249600000
+   },
+   "SOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.002951,
+    "next_funding_ms": 1788249600000
+   },
+   "DEL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 460.64295953,
+    "next_funding_ms": 1788249600000
+   },
+   "ORC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 149.34,
+    "next_funding_ms": 1788249600000
+   },
+   "RONI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05251,
+    "next_funding_ms": 1788249600000
+   },
+   "GT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.08146496,
+    "next_funding_ms": 1788249600000
+   },
+   "TOWN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00251891,
+    "next_funding_ms": 1788249600000
+   },
+   "EIGE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.20095451,
+    "next_funding_ms": 1788249600000
+   },
+   "MY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07015738,
+    "next_funding_ms": 1788249600000
+   },
+   "ETHF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5695207,
+    "next_funding_ms": 1788249600000
+   },
+   "CF": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04630581,
+    "next_funding_ms": 1788249600000
+   },
+   "U": {
+    "funding_8h_rate": 0.00023132,
+    "mark_price": 0.01617296,
+    "next_funding_ms": 1788249600000
+   },
+   "VAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.9026,
+    "next_funding_ms": 1788249600000
+   },
+   "STOR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.03324529,
+    "next_funding_ms": 1788249600000
+   },
+   "CR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.35092286,
+    "next_funding_ms": 1788249600000
+   },
+   "BANANAS3": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00836278,
+    "next_funding_ms": 1788249600000
+   },
+   "UXLIN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0370416,
+    "next_funding_ms": 0
+   },
+   "SKHYNI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1239.52875417,
+    "next_funding_ms": 1788249600000
+   },
+   "ZES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13824576,
+    "next_funding_ms": 1788249600000
+   },
+   "COT": {
+    "funding_8h_rate": -0.00039911,
+    "mark_price": 0.013207,
+    "next_funding_ms": 1788249600000
+   },
+   "ALL": {
+    "funding_8h_rate": 4.065e-05,
+    "mark_price": 0.2388,
+    "next_funding_ms": 1788249600000
+   },
+   "VV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 16.941,
+    "next_funding_ms": 1788249600000
+   },
+   "PO": {
+    "funding_8h_rate": -4.823e-05,
+    "mark_price": 0.09222121,
+    "next_funding_ms": 1788249600000
+   },
+   "ZAM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05035,
+    "next_funding_ms": 1788249600000
+   },
+   "AMA": {
+    "funding_8h_rate": 0.00035004,
+    "mark_price": 459.83702691,
+    "next_funding_ms": 1788249600000
+   },
+   "MUBARA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02138511,
+    "next_funding_ms": 1788249600000
+   },
+   "PER": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.027148,
+    "next_funding_ms": 0
+   },
+   "MU": {
+    "funding_8h_rate": 3.306e-05,
+    "mark_price": 30.92464455,
+    "next_funding_ms": 1788249600000
+   },
+   "TA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00224942,
+    "next_funding_ms": 1788249600000
+   },
+   "ELS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04631,
+    "next_funding_ms": 1788249600000
+   },
+   "POWE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08305,
+    "next_funding_ms": 1788249600000
+   },
+   "FWD": {
+    "funding_8h_rate": 0.0008228,
+    "mark_price": 6.4,
+    "next_funding_ms": 1788249600000
+   },
+   "XC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00333215,
+    "next_funding_ms": 0
+   },
+   "HOM": {
+    "funding_8h_rate": -0.00045788,
+    "mark_price": 0.006105,
+    "next_funding_ms": 1788249600000
+   },
+   "FL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0064448,
+    "next_funding_ms": 1788249600000
+   },
+   "USD": {
+    "funding_8h_rate": 1.496e-05,
+    "mark_price": 0.99978476,
+    "next_funding_ms": 1788249600000
+   },
+   "SLER": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0197825,
+    "next_funding_ms": 1788249600000
+   },
+   "SAG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01508,
+    "next_funding_ms": 1788249600000
+   },
+   "ETH": {
+    "funding_8h_rate": 0.00034087,
+    "mark_price": 0.2668,
+    "next_funding_ms": 1788249600000
+   },
+   "UBE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 75.94,
+    "next_funding_ms": 1788249600000
+   },
+   "RP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.611,
+    "next_funding_ms": 1788249600000
+   },
+   "HUM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02136032,
+    "next_funding_ms": 1788249600000
+   },
+   "TL": {
+    "funding_8h_rate": 3.454e-05,
+    "mark_price": 0.001403,
+    "next_funding_ms": 1788249600000
+   },
+   "R": {
+    "funding_8h_rate": 1.201e-05,
+    "mark_price": 0.48085524,
+    "next_funding_ms": 1788249600000
+   },
+   "HYUNDA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 291.72,
+    "next_funding_ms": 1788249600000
+   },
+   "TH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07109,
+    "next_funding_ms": 1788249600000
+   },
+   "PIPPI": {
+    "funding_8h_rate": 0.00012454,
+    "mark_price": 0.0176207,
+    "next_funding_ms": 1788249600000
+   },
+   "VE": {
+    "funding_8h_rate": 8.659e-05,
+    "mark_price": 0.00677134,
+    "next_funding_ms": 1788249600000
+   },
+   "DAS": {
+    "funding_8h_rate": 8.523e-05,
+    "mark_price": 46.44726627,
+    "next_funding_ms": 1788249600000
+   },
+   "IRY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01385,
+    "next_funding_ms": 1788249600000
+   },
+   "LI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.6362,
+    "next_funding_ms": 1788249600000
+   },
+   "SN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.02531,
+    "next_funding_ms": 1788249600000
+   },
+   "FRON": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.45000444,
+    "next_funding_ms": 1788249600000
+   },
+   "DEN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 4.47e-05,
+    "next_funding_ms": 0
+   },
+   "GRA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.3780615,
+    "next_funding_ms": 1788249600000
+   },
+   "AW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06248,
+    "next_funding_ms": 1788249600000
+   },
+   "COMB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.004801,
+    "next_funding_ms": 1788249600000
+   },
+   "WL": {
+    "funding_8h_rate": 5.768e-05,
+    "mark_price": 0.37120155,
+    "next_funding_ms": 1788249600000
+   },
+   "BMN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 25.25,
+    "next_funding_ms": 1788249600000
+   },
+   "ALPH": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.01566911,
+    "next_funding_ms": 1788249600000
+   },
+   "MINIMA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 46.0592948,
+    "next_funding_ms": 1788249600000
+   },
+   "COLLEC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07801,
+    "next_funding_ms": 1788249600000
+   },
+   "XM": {
+    "funding_8h_rate": 0.00019789,
+    "mark_price": 519.58,
+    "next_funding_ms": 1788249600000
+   },
+   "VTH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00040208,
+    "next_funding_ms": 1788249600000
+   },
+   "MANT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05836,
+    "next_funding_ms": 1788249600000
+   },
+   "MT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.23865,
+    "next_funding_ms": 1788249600000
+   },
+   "KN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11486539,
+    "next_funding_ms": 1788249600000
+   },
+   "CSOPSKHYNIX2": {
+    "funding_8h_rate": -0.00064871,
+    "mark_price": 4.819,
+    "next_funding_ms": 1788249600000
+   },
+   "GL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10644092,
+    "next_funding_ms": 1788249600000
+   },
+   "MOV": {
+    "funding_8h_rate": 4.873e-05,
+    "mark_price": 0.8165111,
+    "next_funding_ms": 1788249600000
+   },
+   "IL": {
+    "funding_8h_rate": -1.774e-05,
+    "mark_price": 3.047,
+    "next_funding_ms": 1788249600000
+   },
+   "RESOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01689,
+    "next_funding_ms": 1788249600000
+   },
+   "ES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07966681,
+    "next_funding_ms": 1788249600000
+   },
+   "UA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3849,
+    "next_funding_ms": 1788249600000
+   },
+   "WM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 105.11439625,
+    "next_funding_ms": 1788249600000
+   },
+   "BLUA": {
+    "funding_8h_rate": 0.00024308,
+    "mark_price": 0.01238768,
+    "next_funding_ms": 1788249600000
+   },
+   "AAP": {
+    "funding_8h_rate": 2.238e-05,
+    "mark_price": 316.9,
+    "next_funding_ms": 1788249600000
+   },
+   "OPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1331,
+    "next_funding_ms": 1788249600000
+   },
+   "SUPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.11016,
+    "next_funding_ms": 1788249600000
+   },
+   "BIL": {
+    "funding_8h_rate": 0.00010593,
+    "mark_price": 0.01923596,
+    "next_funding_ms": 1788249600000
+   },
+   "DEX": {
+    "funding_8h_rate": 2.944e-05,
+    "mark_price": 2.019,
+    "next_funding_ms": 1788249600000
+   },
+   "LGELECTRONIC": {
+    "funding_8h_rate": -0.00018969,
+    "mark_price": 150.26509366,
+    "next_funding_ms": 1788249600000
+   },
+   "SUSH": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.1999,
+    "next_funding_ms": 1788249600000
+   },
+   "HIPP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00023629,
+    "next_funding_ms": 1788249600000
+   },
+   "JC": {
+    "funding_8h_rate": 0.00031137,
+    "mark_price": 0.00187863,
+    "next_funding_ms": 1788249600000
+   },
+   "POPCA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05308,
+    "next_funding_ms": 1788249600000
+   },
+   "QUIC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00894632,
+    "next_funding_ms": 1788249600000
+   },
+   "1000RAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04025794,
+    "next_funding_ms": 1788249600000
+   },
+   "RAV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2597,
+    "next_funding_ms": 1788249600000
+   },
+   "SAMSUNGE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1043.48059719,
+    "next_funding_ms": 1788249600000
+   },
+   "RKL": {
+    "funding_8h_rate": 0.00036838,
+    "mark_price": 64.62651204,
+    "next_funding_ms": 1788249600000
+   },
+   "ENS": {
+    "funding_8h_rate": 4.993e-05,
+    "mark_price": 0.9118,
+    "next_funding_ms": 1788249600000
+   },
+   "QTU": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.8332,
+    "next_funding_ms": 1788249600000
+   },
+   "SKAT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00252519,
+    "next_funding_ms": 1788249600000
+   },
+   "STP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.07024,
+    "next_funding_ms": 0
+   },
+   "TZ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 40.58215804,
+    "next_funding_ms": 1788249600000
+   },
+   "XPI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.001085,
+    "next_funding_ms": 1788249600000
+   },
+   "BROCCOLI71": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01696,
+    "next_funding_ms": 1788249600000
+   },
+   "AST": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 59.51,
+    "next_funding_ms": 1788249600000
+   },
+   "TI": {
+    "funding_8h_rate": 4.898e-05,
+    "mark_price": 0.3398965,
+    "next_funding_ms": 1788249600000
+   },
+   "ARK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11,
+    "next_funding_ms": 1788249600000
+   },
+   "CIE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 383.58188232,
+    "next_funding_ms": 1788249600000
+   },
+   "NEIR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 8.776e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "COI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 187.29545893,
+    "next_funding_ms": 1788249600000
+   },
+   "AAV": {
+    "funding_8h_rate": 6.587e-05,
+    "mark_price": 126.31,
+    "next_funding_ms": 1788249600000
+   },
+   "AMZ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 260.55,
+    "next_funding_ms": 1788249600000
+   },
+   "MO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02701273,
+    "next_funding_ms": 1788249600000
+   },
+   "NF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.000545,
+    "next_funding_ms": 1788246000000
+   },
+   "MEM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0005279,
+    "next_funding_ms": 1788249600000
+   },
+   "SKD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.79653016,
+    "next_funding_ms": 1788249600000
+   },
+   "CYBE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.31114956,
+    "next_funding_ms": 1788249600000
+   },
+   "NE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2.06282192,
+    "next_funding_ms": 1788249600000
+   },
+   "LINE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00256342,
+    "next_funding_ms": 1788249600000
+   },
+   "ASM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1700.29899753,
+    "next_funding_ms": 1788249600000
+   },
+   "SAN": {
+    "funding_8h_rate": -0.002872,
+    "mark_price": 0.03923,
+    "next_funding_ms": 1788249600000
+   },
+   "SON": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 25.30319277,
+    "next_funding_ms": 1788249600000
+   },
+   "MR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 148.43723552,
+    "next_funding_ms": 1788249600000
+   },
+   "JS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1007459,
+    "next_funding_ms": 1788249600000
+   },
+   "ANTHROPI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1942.12896552,
+    "next_funding_ms": 1788249600000
+   },
+   "SAF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09257903,
+    "next_funding_ms": 1788249600000
+   },
+   "DKN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 24.35779765,
+    "next_funding_ms": 1788249600000
+   },
+   "PROV": {
+    "funding_8h_rate": -8.017e-05,
+    "mark_price": 0.1827,
+    "next_funding_ms": 1788249600000
+   },
+   "DG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00475353,
+    "next_funding_ms": 1788249600000
+   },
+   "GA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.238,
+    "next_funding_ms": 1788249600000
+   },
+   "LT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 49.05,
+    "next_funding_ms": 1788249600000
+   },
+   "KOR": {
+    "funding_8h_rate": -0.00042297,
+    "mark_price": 21.33,
+    "next_funding_ms": 1788249600000
+   },
+   "ATO": {
+    "funding_8h_rate": -0.00018374,
+    "mark_price": 1.497,
+    "next_funding_ms": 1788249600000
+   },
+   "HE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13895838,
+    "next_funding_ms": 1788249600000
+   },
+   "OBO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00279783,
+    "next_funding_ms": 0
+   },
+   "COM": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 19.46429073,
+    "next_funding_ms": 1788249600000
+   },
+   "LUNA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0445,
+    "next_funding_ms": 1788249600000
+   },
+   "MST": {
+    "funding_8h_rate": 0.0002035,
+    "mark_price": 131.93449707,
+    "next_funding_ms": 1788249600000
+   },
+   "NFL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 81.14329008,
+    "next_funding_ms": 1788249600000
+   },
+   "BIC": {
+    "funding_8h_rate": -0.0016976,
+    "mark_price": 0.0223067,
+    "next_funding_ms": 1788249600000
+   },
+   "UST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.005273,
+    "next_funding_ms": 1788249600000
+   },
+   "C9": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01469106,
+    "next_funding_ms": 1788249600000
+   },
+   "TX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 262.02652378,
+    "next_funding_ms": 1788249600000
+   },
+   "GRV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.15905039,
+    "next_funding_ms": 1788249600000
+   },
+   "FLN": {
+    "funding_8h_rate": 4.13e-05,
+    "mark_price": 10.88,
+    "next_funding_ms": 1788249600000
+   },
+   "WC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03770561,
+    "next_funding_ms": 1788249600000
+   },
+   "CO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1223464,
+    "next_funding_ms": 1788249600000
+   },
+   "RDN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0021584,
+    "next_funding_ms": 1788246000000
+   },
+   "COPPE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 6.721,
+    "next_funding_ms": 1788249600000
+   },
+   "SM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 558.84,
+    "next_funding_ms": 1788249600000
+   },
+   "ZI": {
+    "funding_8h_rate": -1.187e-05,
+    "mark_price": 0.002629,
+    "next_funding_ms": 1788249600000
+   },
+   "CROS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10345,
+    "next_funding_ms": 1788249600000
+   },
+   "WI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1983,
+    "next_funding_ms": 1788249600000
+   },
+   "MATI": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.19800195,
+    "next_funding_ms": 1788249600000
+   },
+   "NEW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04124,
+    "next_funding_ms": 1788249600000
+   },
+   "HK062": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 47.19,
+    "next_funding_ms": 1788249600000
+   },
+   "BROCCOLIF3": {
+    "funding_8h_rate": 0.0009195,
+    "mark_price": 0.00656182,
+    "next_funding_ms": 1788249600000
+   },
+   "1000BON": {
+    "funding_8h_rate": 4.046e-05,
+    "mark_price": 0.00319104,
+    "next_funding_ms": 1788249600000
+   },
+   "AEV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02126851,
+    "next_funding_ms": 1788249600000
+   },
+   "HK070": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 442.89,
+    "next_funding_ms": 1788249600000
+   },
+   "GIGGL": {
+    "funding_8h_rate": 4.963e-05,
+    "mark_price": 38.03,
+    "next_funding_ms": 1788249600000
+   },
+   "VF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00645139,
+    "next_funding_ms": 1788249600000
+   },
+   "HIG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.02240756,
+    "next_funding_ms": 1788249600000
+   },
+   "PORT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00399291,
+    "next_funding_ms": 1788249600000
+   },
+   "1000FLOK": {
+    "funding_8h_rate": -4.56e-06,
+    "mark_price": 0.0246345,
+    "next_funding_ms": 1788249600000
+   },
+   "CXM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 8.421,
+    "next_funding_ms": 1788249600000
+   },
+   "XE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.001786,
+    "next_funding_ms": 1788249600000
+   },
+   "HIV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0438,
+    "next_funding_ms": 1788249600000
+   },
+   "OCEA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.607,
+    "next_funding_ms": 1788249600000
+   },
+   "PAN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 382.91,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUM": {
+    "funding_8h_rate": -2.11e-06,
+    "mark_price": 2.397,
+    "next_funding_ms": 1788249600000
+   },
+   "YAL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.001517,
+    "next_funding_ms": 1788249600000
+   },
+   "ESPORT": {
+    "funding_8h_rate": 0.00085188,
+    "mark_price": 0.01612,
+    "next_funding_ms": 1788249600000
+   },
+   "BE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11678,
+    "next_funding_ms": 1788249600000
+   },
+   "EDG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.37684553,
+    "next_funding_ms": 1788249600000
+   },
+   "LD": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.3678,
+    "next_funding_ms": 1788249600000
+   },
+   "K": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 89.02052485,
+    "next_funding_ms": 1788249600000
+   },
+   "WAX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00424127,
+    "next_funding_ms": 1788249600000
+   },
+   "DOO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0013349,
+    "next_funding_ms": 1788249600000
+   },
+   "FLU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05019,
+    "next_funding_ms": 1788249600000
+   },
+   "1000000MO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10778394,
+    "next_funding_ms": 1788249600000
+   },
+   "CHI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03966,
+    "next_funding_ms": 1788249600000
+   },
+   "JO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.031415,
+    "next_funding_ms": 1788249600000
+   },
+   "WLF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05719924,
+    "next_funding_ms": 1788249600000
+   },
+   "LIGH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.16953623,
+    "next_funding_ms": 1788249600000
+   },
+   "MIT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02157924,
+    "next_funding_ms": 1788249600000
+   },
+   "ALA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 298.45,
+    "next_funding_ms": 1788249600000
+   },
+   "THET": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.16908958,
+    "next_funding_ms": 1788249600000
+   },
+   "1000WH": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1.77e-06,
+    "next_funding_ms": 1788249600000
+   },
+   "GRAS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.35267167,
+    "next_funding_ms": 1788249600000
+   },
+   "SHA": {
+    "funding_8h_rate": 0.00184626,
+    "mark_price": 54.89,
+    "next_funding_ms": 1788249600000
+   },
+   "HMST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0001756,
+    "next_funding_ms": 1788249600000
+   },
+   "NXP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.206,
+    "next_funding_ms": 1788249600000
+   },
+   "HP": {
+    "funding_8h_rate": 6.259e-05,
+    "mark_price": 52.92,
+    "next_funding_ms": 1788249600000
+   },
+   "GAL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.001743,
+    "next_funding_ms": 1788249600000
+   },
+   "SWEL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00061025,
+    "next_funding_ms": 0
+   },
+   "NEIROET": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.003048,
+    "next_funding_ms": 0
+   },
+   "CRC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 95.17070399,
+    "next_funding_ms": 1788249600000
+   },
+   "QNT": {
+    "funding_8h_rate": 0.00351599,
+    "mark_price": 50.44392831,
+    "next_funding_ms": 1788249600000
+   },
+   "MOODEN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04012,
+    "next_funding_ms": 1788249600000
+   },
+   "EDE": {
+    "funding_8h_rate": 2.761e-05,
+    "mark_price": 0.05781,
+    "next_funding_ms": 1788249600000
+   },
+   "RUN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.48472062,
+    "next_funding_ms": 1788249600000
+   },
+   "MER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02054191,
+    "next_funding_ms": 1788249600000
+   },
+   "BEA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12319462,
+    "next_funding_ms": 1788249600000
+   },
+   "HOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06438127,
+    "next_funding_ms": 1788249600000
+   },
+   "USELES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0927966,
+    "next_funding_ms": 1788249600000
+   },
+   "ANK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.003937,
+    "next_funding_ms": 1788249600000
+   },
+   "BRK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 504.62374903,
+    "next_funding_ms": 1788249600000
+   },
+   "HBA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07482225,
+    "next_funding_ms": 1788249600000
+   },
+   "RIVE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.385,
+    "next_funding_ms": 1788249600000
+   },
+   "0": {
+    "funding_8h_rate": -0.00281321,
+    "mark_price": 0.23802333,
+    "next_funding_ms": 1788249600000
+   },
+   "STX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 831.33142438,
+    "next_funding_ms": 1788249600000
+   },
+   "1000000BO": {
+    "funding_8h_rate": 0.00016187,
+    "mark_price": 0.01695269,
+    "next_funding_ms": 1788249600000
+   },
+   "TB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 38.25,
+    "next_funding_ms": 1788249600000
+   },
+   "CRD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 228.66,
+    "next_funding_ms": 1788249600000
+   },
+   "PIXE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004931,
+    "next_funding_ms": 1788249600000
+   },
+   "FH": {
+    "funding_8h_rate": 6.587e-05,
+    "mark_price": 0.02154438,
+    "next_funding_ms": 1788249600000
+   },
+   "WO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.011205,
+    "next_funding_ms": 1788249600000
+   },
+   "PAX": {
+    "funding_8h_rate": 1.956e-05,
+    "mark_price": 4433.53,
+    "next_funding_ms": 1788249600000
+   },
+   "BO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 26.37393039,
+    "next_funding_ms": 1788249600000
+   },
+   "2": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05344,
+    "next_funding_ms": 1788249600000
+   },
+   "PENDL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.8012,
+    "next_funding_ms": 1788249600000
+   },
+   "SO": {
+    "funding_8h_rate": -5.425e-05,
+    "mark_price": 103.71,
+    "next_funding_ms": 1788249600000
+   },
+   "TRADOO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5681,
+    "next_funding_ms": 1788249600000
+   },
+   "DEGE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00101449,
+    "next_funding_ms": 1788249600000
+   },
+   "MAR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.82,
+    "next_funding_ms": 1788249600000
+   },
+   "KOM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01302763,
+    "next_funding_ms": 1788249600000
+   },
+   "DOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02595942,
+    "next_funding_ms": 1788249600000
+   },
+   "NUL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00957,
+    "next_funding_ms": 0
+   },
+   "VELVE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09316218,
+    "next_funding_ms": 1788249600000
+   },
+   "STB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02500633,
+    "next_funding_ms": 1788249600000
+   },
+   "GRIFFAI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01111572,
+    "next_funding_ms": 1788249600000
+   },
+   "PUNDI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09048,
+    "next_funding_ms": 1788249600000
+   },
+   "EBA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 103.63,
+    "next_funding_ms": 1788249600000
+   },
+   "API": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2236,
+    "next_funding_ms": 1788249600000
+   },
+   "SKU": {
+    "funding_8h_rate": -2.38e-06,
+    "mark_price": 23.61363552,
+    "next_funding_ms": 1788249600000
+   },
+   "CSOPSAMSUNG2": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.41302732,
+    "next_funding_ms": 1788249600000
+   },
+   "COOKI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012051,
+    "next_funding_ms": 1788249600000
+   },
+   "GE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 902.09503643,
+    "next_funding_ms": 1788249600000
+   },
+   "VIRTUA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.71650883,
+    "next_funding_ms": 1788249600000
+   },
+   "TOSH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0001234,
+    "next_funding_ms": 1788249600000
+   },
+   "S": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00078612,
+    "next_funding_ms": 1788249600000
+   },
+   "SEN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01279,
+    "next_funding_ms": 1788249600000
+   },
+   "FRA": {
+    "funding_8h_rate": 2.688e-05,
+    "mark_price": 0.2969,
+    "next_funding_ms": 1788249600000
+   },
+   "POW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04557322,
+    "next_funding_ms": 1788249600000
+   },
+   "NIGH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.018845,
+    "next_funding_ms": 1788249600000
+   },
+   "SMC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 37.38,
+    "next_funding_ms": 1788249600000
+   },
+   "PONK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.0249725,
+    "next_funding_ms": 0
+   },
+   "\u5e01\u5b89\u4eba": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.47825872,
+    "next_funding_ms": 1788249600000
+   },
+   "MORPH": {
+    "funding_8h_rate": 7.78e-06,
+    "mark_price": 2.5415,
+    "next_funding_ms": 1788249600000
+   },
+   "SQ": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03424,
+    "next_funding_ms": 1788249600000
+   },
+   "GR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01652,
+    "next_funding_ms": 1788249600000
+   },
+   "BTCDO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 5379.66915872,
+    "next_funding_ms": 1788249600000
+   },
+   "ZHIP": {
+    "funding_8h_rate": -0.00094231,
+    "mark_price": 153.14,
+    "next_funding_ms": 1788249600000
+   },
+   "JU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.21971962,
+    "next_funding_ms": 1788249600000
+   },
+   "NEA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.95246234,
+    "next_funding_ms": 1788249600000
+   },
+   "1000LUN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.05103616,
+    "next_funding_ms": 1788249600000
+   },
+   "KUAISHO": {
+    "funding_8h_rate": 0.00056249,
+    "mark_price": 4.47567245,
+    "next_funding_ms": 1788249600000
+   },
+   "SPORTFU": {
+    "funding_8h_rate": 0.00043063,
+    "mark_price": 0.02213968,
+    "next_funding_ms": 1788249600000
+   },
+   "BON": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.15954,
+    "next_funding_ms": 0
+   },
+   "USA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 17.94,
+    "next_funding_ms": 1788249600000
+   },
+   "BLES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.009375,
+    "next_funding_ms": 1788249600000
+   },
+   "GP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.009586,
+    "next_funding_ms": 1788249600000
+   },
+   "TRI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00447825,
+    "next_funding_ms": 1788249600000
+   },
+   "1000XE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.006916,
+    "next_funding_ms": 1788249600000
+   },
+   "MEG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03883,
+    "next_funding_ms": 1788249600000
+   },
+   "JT": {
+    "funding_8h_rate": 2.694e-05,
+    "mark_price": 0.43628665,
+    "next_funding_ms": 1788249600000
+   },
+   "TE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 350.63923444,
+    "next_funding_ms": 1788249600000
+   },
+   "TW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.52561802,
+    "next_funding_ms": 1788249600000
+   },
+   "MAN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07306,
+    "next_funding_ms": 1788249600000
+   },
+   "GENIU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.28523467,
+    "next_funding_ms": 1788249600000
+   },
+   "QN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 61.35496531,
+    "next_funding_ms": 1788249600000
+   },
+   "AD": {
+    "funding_8h_rate": -3.3e-07,
+    "mark_price": 0.2009,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01267394,
+    "next_funding_ms": 1788249600000
+   },
+   "RI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07152,
+    "next_funding_ms": 1788249600000
+   },
+   "CAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05471,
+    "next_funding_ms": 1788249600000
+   },
+   "COS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 945.46,
+    "next_funding_ms": 1788249600000
+   },
+   "1000CA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00181951,
+    "next_funding_ms": 1788249600000
+   },
+   "NVD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 220.6872648,
+    "next_funding_ms": 1788249600000
+   },
+   "MANTR": {
+    "funding_8h_rate": -0.00051134,
+    "mark_price": 0.00441974,
+    "next_funding_ms": 1788249600000
+   },
+   "TENCEN": {
+    "funding_8h_rate": 0.00094283,
+    "mark_price": 56.55,
+    "next_funding_ms": 1788249600000
+   },
+   "SNX": {
+    "funding_8h_rate": 0.00091699,
+    "mark_price": 13.9359245,
+    "next_funding_ms": 1788249600000
+   },
+   "VANR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.000905,
+    "next_funding_ms": 1788249600000
+   },
+   "MIL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.001191,
+    "next_funding_ms": 1788249600000
+   },
+   "MRV": {
+    "funding_8h_rate": 0.00037597,
+    "mark_price": 211.90160642,
+    "next_funding_ms": 1788249600000
+   },
+   "MD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00364118,
+    "next_funding_ms": 0
+   },
+   "GD": {
+    "funding_8h_rate": 0.00138319,
+    "mark_price": 98.47270112,
+    "next_funding_ms": 1788249600000
+   },
+   "BRE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07545,
+    "next_funding_ms": 1788249600000
+   },
+   "USUA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.011304,
+    "next_funding_ms": 1788249600000
+   },
+   "XN": {
+    "funding_8h_rate": 0.00091397,
+    "mark_price": 0.006872,
+    "next_funding_ms": 1788249600000
+   },
+   "VR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 259.52,
+    "next_funding_ms": 1788249600000
+   },
+   "COH": {
+    "funding_8h_rate": 2.001e-05,
+    "mark_price": 278.15,
+    "next_funding_ms": 1788249600000
+   },
+   "SOF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 17.99685722,
+    "next_funding_ms": 1788249600000
+   },
+   "Y": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09390656,
+    "next_funding_ms": 1788249600000
+   },
+   "AM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.032e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "DM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00113928,
+    "next_funding_ms": 0
+   },
+   "KD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00576382,
+    "next_funding_ms": 1788249600000
+   },
+   "A2": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 7.933e-05,
+    "next_funding_ms": 1788249600000
+   },
+   "HANM": {
+    "funding_8h_rate": -0.00052877,
+    "mark_price": 156.08,
+    "next_funding_ms": 1788249600000
+   },
+   "RAYSO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.82581088,
+    "next_funding_ms": 1788249600000
+   },
+   "L": {
+    "funding_8h_rate": -0.00075468,
+    "mark_price": 0.06060907,
+    "next_funding_ms": 1788249600000
+   },
+   "WA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02529205,
+    "next_funding_ms": 1788249600000
+   },
+   "KAI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02958,
+    "next_funding_ms": 1788249600000
+   },
+   "CHES": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.00305985,
+    "next_funding_ms": 1788249600000
+   },
+   "XAU": {
+    "funding_8h_rate": 2.832e-05,
+    "mark_price": 4426.38504412,
+    "next_funding_ms": 1788249600000
+   },
+   "IDO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01387968,
+    "next_funding_ms": 1788249600000
+   },
+   "XT": {
+    "funding_8h_rate": -7.793e-05,
+    "mark_price": 0.2166,
+    "next_funding_ms": 1788249600000
+   },
+   "SS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2.775,
+    "next_funding_ms": 1788249600000
+   },
+   "SOO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1963,
+    "next_funding_ms": 1788249600000
+   },
+   "PUM": {
+    "funding_8h_rate": 9.45e-06,
+    "mark_price": 0.00448034,
+    "next_funding_ms": 1788249600000
+   },
+   "MELANI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10854,
+    "next_funding_ms": 1788249600000
+   },
+   "AUCTIO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.331,
+    "next_funding_ms": 1788249600000
+   },
+   "LOK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 0.15348159,
+    "next_funding_ms": 0
+   },
+   "SHO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 147.05829282,
+    "next_funding_ms": 1788249600000
+   },
+   "1000SHI": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00516221,
+    "next_funding_ms": 1788249600000
+   },
+   "STABL": {
+    "funding_8h_rate": 9.512e-05,
+    "mark_price": 0.02884,
+    "next_funding_ms": 1788249600000
+   },
+   "AGL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.1636,
+    "next_funding_ms": 1788249600000
+   },
+   "MAGM": {
+    "funding_8h_rate": 0.00023728,
+    "mark_price": 0.3658,
+    "next_funding_ms": 1788249600000
+   }
+  }
+ },
+ "bybit": {
+  "rows": {
+   "0": {
+    "funding_8h_rate": -0.0033097,
+    "mark_price": 0.2382,
+    "next_funding_ms": 1788249600000
+   },
+   "1000000BABYDOG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0003572,
+    "next_funding_ms": 1788249600000
+   },
+   "1000000MO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10774,
+    "next_funding_ms": 1788249600000
+   },
+   "10000NE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01455,
+    "next_funding_ms": 1788249600000
+   },
+   "10000SAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00010917,
+    "next_funding_ms": 1788249600000
+   },
+   "1000BON": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0031961,
+    "next_funding_ms": 1788249600000
+   },
+   "1000BT": {
+    "funding_8h_rate": -0.00254245,
+    "mark_price": 0.0002944,
+    "next_funding_ms": 1788249600000
+   },
+   "1000CA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0018233,
+    "next_funding_ms": 1788249600000
+   },
+   "1000FLOK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.02464,
+    "next_funding_ms": 1788249600000
+   },
+   "1000LUN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.05107,
+    "next_funding_ms": 1788249600000
+   },
+   "1000NEIROCT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08797,
+    "next_funding_ms": 1788249600000
+   },
+   "1000PEP": {
+    "funding_8h_rate": 3.312e-05,
+    "mark_price": 0.003538,
+    "next_funding_ms": 1788249600000
+   },
+   "1000RAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04019,
+    "next_funding_ms": 1788249600000
+   },
+   "1000TA": {
+    "funding_8h_rate": 5.069e-05,
+    "mark_price": 0.7143,
+    "next_funding_ms": 1788249600000
+   },
+   "1000TOSH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12333,
+    "next_funding_ms": 1788249600000
+   },
+   "1000TURB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.9516,
+    "next_funding_ms": 1788249600000
+   },
+   "1000XE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.006914,
+    "next_funding_ms": 1788249600000
+   },
+   "1INC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.08981,
+    "next_funding_ms": 1788249600000
+   },
+   "2": {
+    "funding_8h_rate": 3.594e-05,
+    "mark_price": 0.05344,
+    "next_funding_ms": 1788249600000
+   },
+   "": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.009553,
+    "next_funding_ms": 1788249600000
+   },
+   "AA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 13.46,
+    "next_funding_ms": 1788249600000
+   },
+   "AAO": {
+    "funding_8h_rate": 0.00015206,
+    "mark_price": 106.91,
+    "next_funding_ms": 1788249600000
+   },
+   "AAP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 316.9,
+    "next_funding_ms": 1788249600000
+   },
+   "AAV": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 126.26,
+    "next_funding_ms": 1788249600000
+   },
+   "AC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12089,
+    "next_funding_ms": 1788249600000
+   },
+   "AD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 364.41,
+    "next_funding_ms": 1788249600000
+   },
+   "ADB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 292.8,
+    "next_funding_ms": 1788249600000
+   },
+   "AEH": {
+    "funding_8h_rate": 0.00063972,
+    "mark_price": 81.06,
+    "next_funding_ms": 1788249600000
+   },
+   "AEO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05938,
+    "next_funding_ms": 1788249600000
+   },
+   "AER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.4929,
+    "next_funding_ms": 1788249600000
+   },
+   "AEV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02124,
+    "next_funding_ms": 1788249600000
+   },
+   "AG": {
+    "funding_8h_rate": -0.00591497,
+    "mark_price": 0.006362,
+    "next_funding_ms": 1788249600000
+   },
+   "AGL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.1635,
+    "next_funding_ms": 1788249600000
+   },
+   "AIGENSY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01944,
+    "next_funding_ms": 1788249600000
+   },
+   "AI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04678,
+    "next_funding_ms": 1788249600000
+   },
+   "AIO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.05671,
+    "next_funding_ms": 1788249600000
+   },
+   "AIXB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02023,
+    "next_funding_ms": 1788249600000
+   },
+   "AK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5134,
+    "next_funding_ms": 1788249600000
+   },
+   "ALA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 298.81,
+    "next_funding_ms": 1788249600000
+   },
+   "ALC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03059,
+    "next_funding_ms": 1788249600000
+   },
+   "ALG": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.09001,
+    "next_funding_ms": 1788249600000
+   },
+   "ALIC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.13474,
+    "next_funding_ms": 1788249600000
+   },
+   "ALL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.23885,
+    "next_funding_ms": 1788249600000
+   },
+   "ALPIN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.355,
+    "next_funding_ms": 1788249600000
+   },
+   "AL": {
+    "funding_8h_rate": -0.00025047,
+    "mark_price": 0.006172,
+    "next_funding_ms": 1788249600000
+   },
+   "AMA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 459.24,
+    "next_funding_ms": 1788249600000
+   },
+   "AM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 2.597,
+    "next_funding_ms": 1788249600000
+   },
+   "AMDSTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 471.77,
+    "next_funding_ms": 1788249600000
+   },
+   "AMG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 431.94,
+    "next_funding_ms": 1788249600000
+   },
+   "AMZ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 260.51,
+    "next_funding_ms": 1788249600000
+   },
+   "ANE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 196.98,
+    "next_funding_ms": 1788249600000
+   },
+   "ANIM": {
+    "funding_8h_rate": -0.00044251,
+    "mark_price": 0.002802,
+    "next_funding_ms": 1788249600000
+   },
+   "ANK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.003932,
+    "next_funding_ms": 1788249600000
+   },
+   "ANTHROPI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1943.29,
+    "next_funding_ms": 1788249600000
+   },
+   "AP": {
+    "funding_8h_rate": 2.106e-05,
+    "mark_price": 0.5371,
+    "next_funding_ms": 1788249600000
+   },
+   "APE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.257,
+    "next_funding_ms": 1788249600000
+   },
+   "API": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2238,
+    "next_funding_ms": 1788249600000
+   },
+   "APL": {
+    "funding_8h_rate": 0.0002755,
+    "mark_price": 25.63,
+    "next_funding_ms": 1788249600000
+   },
+   "APPSTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 313.04,
+    "next_funding_ms": 1788249600000
+   },
+   "AR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1239,
+    "next_funding_ms": 1788249600000
+   },
+   "ARI": {
+    "funding_8h_rate": 0.0004412,
+    "mark_price": 0.03317,
+    "next_funding_ms": 1788249600000
+   },
+   "ARK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.10989,
+    "next_funding_ms": 1788249600000
+   },
+   "ARP": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.009687,
+    "next_funding_ms": 1788249600000
+   },
+   "A": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13421,
+    "next_funding_ms": 1788249600000
+   },
+   "ASM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1698.82,
+    "next_funding_ms": 1788249600000
+   },
+   "AS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.884,
+    "next_funding_ms": 1788249600000
+   },
+   "ASTE": {
+    "funding_8h_rate": -0.00011141,
+    "mark_price": 0.6981,
+    "next_funding_ms": 1788249600000
+   },
+   "AST": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 59.52,
+    "next_funding_ms": 1788249600000
+   },
+   "AT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004812,
+    "next_funding_ms": 1788249600000
+   },
+   "ATO": {
+    "funding_8h_rate": 3.086e-05,
+    "mark_price": 1.496,
+    "next_funding_ms": 1788249600000
+   },
+   "AUCTIO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.334,
+    "next_funding_ms": 1788249600000
+   },
+   "AVAA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008365,
+    "next_funding_ms": 1788249600000
+   },
+   "AV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1962,
+    "next_funding_ms": 1788249600000
+   },
+   "AVA": {
+    "funding_8h_rate": 4.212e-05,
+    "mark_price": 7.274,
+    "next_funding_ms": 1788249600000
+   },
+   "AVG": {
+    "funding_8h_rate": 0.00024237,
+    "mark_price": 372.65,
+    "next_funding_ms": 1788249600000
+   },
+   "AVN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10124,
+    "next_funding_ms": 1788249600000
+   },
+   "AW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06247,
+    "next_funding_ms": 1788249600000
+   },
+   "AX": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.9217,
+    "next_funding_ms": 1788249600000
+   },
+   "AXT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 60.61,
+    "next_funding_ms": 1788249600000
+   },
+   "AZTE": {
+    "funding_8h_rate": 5.095e-05,
+    "mark_price": 0.013401,
+    "next_funding_ms": 1788249600000
+   },
+   "B": {
+    "funding_8h_rate": -4.652e-05,
+    "mark_price": 91.15,
+    "next_funding_ms": 1788249600000
+   },
+   "BAB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012035,
+    "next_funding_ms": 1788249600000
+   },
+   "BA": {
+    "funding_8h_rate": 5.318e-05,
+    "mark_price": 0.06949,
+    "next_funding_ms": 1788249600000
+   },
+   "BANANAS3": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008363,
+    "next_funding_ms": 1788249600000
+   },
+   "BANAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.885,
+    "next_funding_ms": 1788249600000
+   },
+   "BAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03551,
+    "next_funding_ms": 1788249600000
+   },
+   "BAR": {
+    "funding_8h_rate": -9.67e-06,
+    "mark_price": 0.13256,
+    "next_funding_ms": 1788249600000
+   },
+   "BASE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06948,
+    "next_funding_ms": 1788249600000
+   },
+   "BB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 8.173,
+    "next_funding_ms": 1788249600000
+   },
+   "BC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 249.2,
+    "next_funding_ms": 1788249600000
+   },
+   "BEA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12319,
+    "next_funding_ms": 1788249600000
+   },
+   "BE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11681,
+    "next_funding_ms": 1788249600000
+   },
+   "BER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1797,
+    "next_funding_ms": 1788249600000
+   },
+   "BIC": {
+    "funding_8h_rate": -0.00148664,
+    "mark_price": 0.022317,
+    "next_funding_ms": 1788249600000
+   },
+   "BIGTIM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.006586,
+    "next_funding_ms": 1788249600000
+   },
+   "BII": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 218.1,
+    "next_funding_ms": 1788249600000
+   },
+   "BIL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01922,
+    "next_funding_ms": 1788249600000
+   },
+   "BI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02644,
+    "next_funding_ms": 1788249600000
+   },
+   "BIR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05986,
+    "next_funding_ms": 1788249600000
+   },
+   "BIT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.657,
+    "next_funding_ms": 1788249600000
+   },
+   "BLAS": {
+    "funding_8h_rate": -0.00350587,
+    "mark_price": 0.0003043,
+    "next_funding_ms": 1788249600000
+   },
+   "BLEN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06402,
+    "next_funding_ms": 1788249600000
+   },
+   "BLES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.009363,
+    "next_funding_ms": 1788249600000
+   },
+   "BLUA": {
+    "funding_8h_rate": 0.00052646,
+    "mark_price": 0.012384,
+    "next_funding_ms": 1788249600000
+   },
+   "BLU": {
+    "funding_8h_rate": 1.575e-05,
+    "mark_price": 0.0158,
+    "next_funding_ms": 1788249600000
+   },
+   "BMN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 25.254,
+    "next_funding_ms": 1788249600000
+   },
+   "BM": {
+    "funding_8h_rate": -0.00010292,
+    "mark_price": 0.020666,
+    "next_funding_ms": 1788249600000
+   },
+   "BN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.31942,
+    "next_funding_ms": 1788249600000
+   },
+   "BOB": {
+    "funding_8h_rate": 0.00010202,
+    "mark_price": 0.02006,
+    "next_funding_ms": 1788249600000
+   },
+   "BOM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0008795,
+    "next_funding_ms": 1788249600000
+   },
+   "BO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 26.4,
+    "next_funding_ms": 1788249600000
+   },
+   "BRET": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.005274,
+    "next_funding_ms": 1788249600000
+   },
+   "BRE": {
+    "funding_8h_rate": -5.459e-05,
+    "mark_price": 0.07557,
+    "next_funding_ms": 1788249600000
+   },
+   "BRK": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 505.93,
+    "next_funding_ms": 1788249600000
+   },
+   "BROCCOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.016989,
+    "next_funding_ms": 1788249600000
+   },
+   "BS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 15.841,
+    "next_funding_ms": 1788249600000
+   },
+   "BT": {
+    "funding_8h_rate": 0.00030675,
+    "mark_price": 0.39552,
+    "next_funding_ms": 1788249600000
+   },
+   "C9": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.014702,
+    "next_funding_ms": 1788249600000
+   },
+   "CAK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.8633,
+    "next_funding_ms": 1788249600000
+   },
+   "CA": {
+    "funding_8h_rate": -0.00026745,
+    "mark_price": 0.06928,
+    "next_funding_ms": 1788249600000
+   },
+   "CAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03552,
+    "next_funding_ms": 1788249600000
+   },
+   "CASHCA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.23334,
+    "next_funding_ms": 1788249600000
+   },
+   "CAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05466,
+    "next_funding_ms": 1788249600000
+   },
+   "CATSTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 800.25,
+    "next_funding_ms": 1788249600000
+   },
+   "CBR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 184.55,
+    "next_funding_ms": 1788249600000
+   },
+   "C": {
+    "funding_8h_rate": -0.00018595,
+    "mark_price": 86.57,
+    "next_funding_ms": 1788249600000
+   },
+   "CEL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0742,
+    "next_funding_ms": 1788249600000
+   },
+   "CETU": {
+    "funding_8h_rate": -4.861e-05,
+    "mark_price": 0.023154,
+    "next_funding_ms": 1788249600000
+   },
+   "CF": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04636,
+    "next_funding_ms": 1788249600000
+   },
+   "CGP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.019422,
+    "next_funding_ms": 1788249600000
+   },
+   "CHILLGU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.011344,
+    "next_funding_ms": 1788249600000
+   },
+   "CHI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03967,
+    "next_funding_ms": 1788249600000
+   },
+   "CH": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01337,
+    "next_funding_ms": 1788249600000
+   },
+   "CIE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 383.52,
+    "next_funding_ms": 1788249600000
+   },
+   "CIF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 15.52,
+    "next_funding_ms": 1788249600000
+   },
+   "CK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0010496,
+    "next_funding_ms": 1788249600000
+   },
+   "CLANKE": {
+    "funding_8h_rate": 0.00021374,
+    "mark_price": 12.953,
+    "next_funding_ms": 1788249600000
+   },
+   "CL": {
+    "funding_8h_rate": 0.0006294,
+    "mark_price": 0.13156,
+    "next_funding_ms": 1788249600000
+   },
+   "CLS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 11.78,
+    "next_funding_ms": 1788249600000
+   },
+   "COA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2916,
+    "next_funding_ms": 1788249600000
+   },
+   "COH": {
+    "funding_8h_rate": 6.835e-05,
+    "mark_price": 277.96,
+    "next_funding_ms": 1788249600000
+   },
+   "COI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 187.29,
+    "next_funding_ms": 1788249600000
+   },
+   "COM": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 19.453,
+    "next_funding_ms": 1788249600000
+   },
+   "COOKI": {
+    "funding_8h_rate": -0.00018652,
+    "mark_price": 0.012048,
+    "next_funding_ms": 1788249600000
+   },
+   "COR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.02132,
+    "next_funding_ms": 1788249600000
+   },
+   "COS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 944.8,
+    "next_funding_ms": 1788249600000
+   },
+   "COT": {
+    "funding_8h_rate": -0.00024731,
+    "mark_price": 0.013219,
+    "next_funding_ms": 1788246000000
+   },
+   "CO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12251,
+    "next_funding_ms": 1788249600000
+   },
+   "CRC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 95.17,
+    "next_funding_ms": 1788249600000
+   },
+   "CRD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 228.55,
+    "next_funding_ms": 1788249600000
+   },
+   "CR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.3511,
+    "next_funding_ms": 1788249600000
+   },
+   "CROS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10329,
+    "next_funding_ms": 1788249600000
+   },
+   "CRW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 85.1,
+    "next_funding_ms": 1788249600000
+   },
+   "CSC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 110.73,
+    "next_funding_ms": 1788249600000
+   },
+   "CSOPSAMSUNG2": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.43,
+    "next_funding_ms": 1788249600000
+   },
+   "CSOPSKHYNIX2": {
+    "funding_8h_rate": -0.00013837,
+    "mark_price": 4.817,
+    "next_funding_ms": 1788249600000
+   },
+   "CT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.009733,
+    "next_funding_ms": 1788249600000
+   },
+   "CV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.3797,
+    "next_funding_ms": 1788249600000
+   },
+   "CXM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 8.412,
+    "next_funding_ms": 1788249600000
+   },
+   "CYBE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3112,
+    "next_funding_ms": 1788249600000
+   },
+   "CY": {
+    "funding_8h_rate": -0.00010588,
+    "mark_price": 0.5318,
+    "next_funding_ms": 1788249600000
+   },
+   "DAS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 46.46,
+    "next_funding_ms": 1788249600000
+   },
+   "DAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1929,
+    "next_funding_ms": 1788249600000
+   },
+   "DB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.014579,
+    "next_funding_ms": 1788249600000
+   },
+   "DDO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 238.22,
+    "next_funding_ms": 1788249600000
+   },
+   "DEE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01429,
+    "next_funding_ms": 1788249600000
+   },
+   "DEL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 460.56,
+    "next_funding_ms": 1788249600000
+   },
+   "DEX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.0222,
+    "next_funding_ms": 1788249600000
+   },
+   "DI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13723,
+    "next_funding_ms": 1788249600000
+   },
+   "DJ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.736,
+    "next_funding_ms": 1788249600000
+   },
+   "DKN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 24.37,
+    "next_funding_ms": 1788249600000
+   },
+   "DOG": {
+    "funding_8h_rate": 1.856e-05,
+    "mark_price": 0.0834,
+    "next_funding_ms": 1788249600000
+   },
+   "DOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02598,
+    "next_funding_ms": 1788249600000
+   },
+   "DOO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0013338,
+    "next_funding_ms": 1788249600000
+   },
+   "DO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.8596,
+    "next_funding_ms": 1788249600000
+   },
+   "DRA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 57.01,
+    "next_funding_ms": 1788249600000
+   },
+   "DRIF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012277,
+    "next_funding_ms": 1788249600000
+   },
+   "DUS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.06823,
+    "next_funding_ms": 1788249600000
+   },
+   "DYD": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.1093,
+    "next_funding_ms": 1788249600000
+   },
+   "DY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0152,
+    "next_funding_ms": 1788249600000
+   },
+   "EBA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 103.6,
+    "next_funding_ms": 1788249600000
+   },
+   "EDE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05786,
+    "next_funding_ms": 1788249600000
+   },
+   "EDG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3763,
+    "next_funding_ms": 1788249600000
+   },
+   "ED": {
+    "funding_8h_rate": 0.000232,
+    "mark_price": 0.04799,
+    "next_funding_ms": 1788249600000
+   },
+   "EGL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 3.93,
+    "next_funding_ms": 1788249600000
+   },
+   "EIGE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.201,
+    "next_funding_ms": 1788249600000
+   },
+   "ELS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04627,
+    "next_funding_ms": 1788249600000
+   },
+   "EN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 6.108,
+    "next_funding_ms": 1788249600000
+   },
+   "ENS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.9125,
+    "next_funding_ms": 1788249600000
+   },
+   "EPI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3369,
+    "next_funding_ms": 1788249600000
+   },
+   "ER": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0606,
+    "next_funding_ms": 1788249600000
+   },
+   "ESPORT": {
+    "funding_8h_rate": 0.00085752,
+    "mark_price": 0.016132,
+    "next_funding_ms": 1788249600000
+   },
+   "ES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07976,
+    "next_funding_ms": 1788249600000
+   },
+   "ET": {
+    "funding_8h_rate": 7.511e-05,
+    "mark_price": 2473.21,
+    "next_funding_ms": 1788249600000
+   },
+   "ETHBT": {
+    "funding_8h_rate": 0.00012284,
+    "mark_price": 0.0314,
+    "next_funding_ms": 1788249600000
+   },
+   "ETHF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5696,
+    "next_funding_ms": 1788249600000
+   },
+   "EU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.3053,
+    "next_funding_ms": 1788249600000
+   },
+   "EVA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.7375,
+    "next_funding_ms": 1788249600000
+   },
+   "EW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 36.18,
+    "next_funding_ms": 1788249600000
+   },
+   "FARTCOI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.17721,
+    "next_funding_ms": 1788249600000
+   },
+   "F": {
+    "funding_8h_rate": -0.00016247,
+    "mark_price": 0.0836,
+    "next_funding_ms": 1788249600000
+   },
+   "FH": {
+    "funding_8h_rate": 8.06e-05,
+    "mark_price": 0.02148,
+    "next_funding_ms": 1788249600000
+   },
+   "FID": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.018686,
+    "next_funding_ms": 1788249600000
+   },
+   "FIGH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.003343,
+    "next_funding_ms": 1788249600000
+   },
+   "FI": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.693,
+    "next_funding_ms": 1788249600000
+   },
+   "FLE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 109.95,
+    "next_funding_ms": 1788249600000
+   },
+   "FLN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.89,
+    "next_funding_ms": 1788249600000
+   },
+   "FLOC": {
+    "funding_8h_rate": -0.00180939,
+    "mark_price": 0.03887,
+    "next_funding_ms": 1788249600000
+   },
+   "FLO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.02677,
+    "next_funding_ms": 1788249600000
+   },
+   "FL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 21.3,
+    "next_funding_ms": 1788249600000
+   },
+   "FLUI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.3213,
+    "next_funding_ms": 1788249600000
+   },
+   "FLU": {
+    "funding_8h_rate": -0.00043406,
+    "mark_price": 0.05026,
+    "next_funding_ms": 1788249600000
+   },
+   "FOG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.007273,
+    "next_funding_ms": 1788249600000
+   },
+   "FOLK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.0709,
+    "next_funding_ms": 1788249600000
+   },
+   "FOR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.25823,
+    "next_funding_ms": 1788249600000
+   },
+   "FUT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 122.5,
+    "next_funding_ms": 1788249600000
+   },
+   "FWD": {
+    "funding_8h_rate": 0.00099287,
+    "mark_price": 6.395,
+    "next_funding_ms": 1788249600000
+   },
+   "GAL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.001742,
+    "next_funding_ms": 1788249600000
+   },
+   "GA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.2373,
+    "next_funding_ms": 1788249600000
+   },
+   "GD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 98.63,
+    "next_funding_ms": 1788249600000
+   },
+   "GENIU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2853,
+    "next_funding_ms": 1788249600000
+   },
+   "G": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1023.94,
+    "next_funding_ms": 1788249600000
+   },
+   "GE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 901.46,
+    "next_funding_ms": 1788249600000
+   },
+   "GIGADEVIC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 61.21,
+    "next_funding_ms": 1788249600000
+   },
+   "GIGGL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 38.06,
+    "next_funding_ms": 1788249600000
+   },
+   "GIL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 146.55,
+    "next_funding_ms": 1788249600000
+   },
+   "GL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 148.51,
+    "next_funding_ms": 1788249600000
+   },
+   "GMESTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 18.44,
+    "next_funding_ms": 1788249600000
+   },
+   "GM": {
+    "funding_8h_rate": 2.005e-05,
+    "mark_price": 7.502,
+    "next_funding_ms": 1788249600000
+   },
+   "GOA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.015511,
+    "next_funding_ms": 1788249600000
+   },
+   "GOOG": {
+    "funding_8h_rate": 0.00015313,
+    "mark_price": 340.07,
+    "next_funding_ms": 1788249600000
+   },
+   "GP": {
+    "funding_8h_rate": 2.455e-05,
+    "mark_price": 0.009587,
+    "next_funding_ms": 1788249600000
+   },
+   "GRA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.3788,
+    "next_funding_ms": 1788249600000
+   },
+   "GRAS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.35185,
+    "next_funding_ms": 1788249600000
+   },
+   "GRIFFAI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.011109,
+    "next_funding_ms": 1788249600000
+   },
+   "GR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01652,
+    "next_funding_ms": 1788249600000
+   },
+   "GRV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.15901,
+    "next_funding_ms": 1788249600000
+   },
+   "GU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.003036,
+    "next_funding_ms": 1788249600000
+   },
+   "GWE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02544,
+    "next_funding_ms": 1788249600000
+   },
+   "HAEDA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01837,
+    "next_funding_ms": 1788249600000
+   },
+   "HAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.020446,
+    "next_funding_ms": 1788249600000
+   },
+   "HANM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 155.8,
+    "next_funding_ms": 1788249600000
+   },
+   "HBA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07479,
+    "next_funding_ms": 1788249600000
+   },
+   "H": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 328.58,
+    "next_funding_ms": 1788249600000
+   },
+   "HE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.13902,
+    "next_funding_ms": 1788249600000
+   },
+   "HEM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01595,
+    "next_funding_ms": 1788249600000
+   },
+   "HIM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 29.74,
+    "next_funding_ms": 1788249600000
+   },
+   "HIV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04382,
+    "next_funding_ms": 1788249600000
+   },
+   "HMST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0001755,
+    "next_funding_ms": 1788249600000
+   },
+   "HN": {
+    "funding_8h_rate": -0.00323482,
+    "mark_price": 0.681,
+    "next_funding_ms": 1788249600000
+   },
+   "HOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06436,
+    "next_funding_ms": 1788249600000
+   },
+   "HOM": {
+    "funding_8h_rate": -0.00054608,
+    "mark_price": 0.006104,
+    "next_funding_ms": 1788249600000
+   },
+   "HOO": {
+    "funding_8h_rate": 0.00025577,
+    "mark_price": 108.7,
+    "next_funding_ms": 1788249600000
+   },
+   "HP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 52.91,
+    "next_funding_ms": 1788249600000
+   },
+   "HUM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.021365,
+    "next_funding_ms": 1788249600000
+   },
+   "HYPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06588,
+    "next_funding_ms": 1788249600000
+   },
+   "HYP": {
+    "funding_8h_rate": 3.263e-05,
+    "mark_price": 84.067,
+    "next_funding_ms": 1788249600000
+   },
+   "HYUNDA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 292.05,
+    "next_funding_ms": 1788249600000
+   },
+   "IB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 233.97,
+    "next_funding_ms": 1788249600000
+   },
+   "ICN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.102,
+    "next_funding_ms": 1788249600000
+   },
+   "IC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.01081,
+    "next_funding_ms": 1788249600000
+   },
+   "I": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1307,
+    "next_funding_ms": 1788249600000
+   },
+   "IL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.053,
+    "next_funding_ms": 1788249600000
+   },
+   "IM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12494,
+    "next_funding_ms": 1788249600000
+   },
+   "INF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 13.13,
+    "next_funding_ms": 1788249600000
+   },
+   "INI": {
+    "funding_8h_rate": -0.00010005,
+    "mark_price": 0.06058,
+    "next_funding_ms": 1788249600000
+   },
+   "IN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.006577,
+    "next_funding_ms": 1788249600000
+   },
+   "INT": {
+    "funding_8h_rate": 4.273e-05,
+    "mark_price": 18.61,
+    "next_funding_ms": 1788249600000
+   },
+   "ION": {
+    "funding_8h_rate": 0.00053734,
+    "mark_price": 39.65,
+    "next_funding_ms": 1788249600000
+   },
+   "IOS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0005866,
+    "next_funding_ms": 1788249600000
+   },
+   "IOT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.002936,
+    "next_funding_ms": 1788249600000
+   },
+   "IRE": {
+    "funding_8h_rate": 0.00025199,
+    "mark_price": 37.21,
+    "next_funding_ms": 1788249600000
+   },
+   "IRY": {
+    "funding_8h_rate": 0.0001019,
+    "mark_price": 0.013816,
+    "next_funding_ms": 1788249600000
+   },
+   "ISR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 378.33,
+    "next_funding_ms": 1788249600000
+   },
+   "IW": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 294.27,
+    "next_funding_ms": 1788249600000
+   },
+   "JASM": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.005098,
+    "next_funding_ms": 1788249600000
+   },
+   "JC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0018808,
+    "next_funding_ms": 1788249600000
+   },
+   "J": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 27.98,
+    "next_funding_ms": 1788249600000
+   },
+   "JELLYJELL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.054668,
+    "next_funding_ms": 1788249600000
+   },
+   "JN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 266.5,
+    "next_funding_ms": 1788249600000
+   },
+   "JP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 356.03,
+    "next_funding_ms": 1788249600000
+   },
+   "JS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.10075,
+    "next_funding_ms": 1788249600000
+   },
+   "JT": {
+    "funding_8h_rate": -1.395e-05,
+    "mark_price": 0.4363,
+    "next_funding_ms": 1788249600000
+   },
+   "JU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2197,
+    "next_funding_ms": 1788249600000
+   },
+   "KAI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02957,
+    "next_funding_ms": 1788249600000
+   },
+   "KAIT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3013,
+    "next_funding_ms": 1788249600000
+   },
+   "KA": {
+    "funding_8h_rate": 0.00010881,
+    "mark_price": 0.004667,
+    "next_funding_ms": 1788249600000
+   },
+   "KAV": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04687,
+    "next_funding_ms": 1788249600000
+   },
+   "KERNE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03859,
+    "next_funding_ms": 1788249600000
+   },
+   "KGE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1726,
+    "next_funding_ms": 1788249600000
+   },
+   "KIT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.11893,
+    "next_funding_ms": 1788249600000
+   },
+   "KLA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 176.17,
+    "next_funding_ms": 1788249600000
+   },
+   "KMN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02406,
+    "next_funding_ms": 1788249600000
+   },
+   "KN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.11482,
+    "next_funding_ms": 1788249600000
+   },
+   "KODEX20": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 78.3,
+    "next_funding_ms": 1788249600000
+   },
+   "KOR": {
+    "funding_8h_rate": -7.232e-05,
+    "mark_price": 21.33,
+    "next_funding_ms": 1788249600000
+   },
+   "K": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 88.94,
+    "next_funding_ms": 1788249600000
+   },
+   "KS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 3.628,
+    "next_funding_ms": 1788249600000
+   },
+   "KST": {
+    "funding_8h_rate": -0.00011931,
+    "mark_price": 23.99,
+    "next_funding_ms": 1788249600000
+   },
+   "KUAISHO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 4.48,
+    "next_funding_ms": 1788249600000
+   },
+   "LA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06911,
+    "next_funding_ms": 1788249600000
+   },
+   "L": {
+    "funding_8h_rate": -0.00025231,
+    "mark_price": 0.0607,
+    "next_funding_ms": 1788249600000
+   },
+   "LD": {
+    "funding_8h_rate": 7.227e-05,
+    "mark_price": 0.3676,
+    "next_funding_ms": 1788249600000
+   },
+   "LGELECTRONIC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 150.28,
+    "next_funding_ms": 1788249600000
+   },
+   "LIGH": {
+    "funding_8h_rate": 5.099e-05,
+    "mark_price": 0.16955,
+    "next_funding_ms": 1788249600000
+   },
+   "LINE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.002562,
+    "next_funding_ms": 1788249600000
+   },
+   "LIN": {
+    "funding_8h_rate": 9.263e-05,
+    "mark_price": 11.442,
+    "next_funding_ms": 1788249600000
+   },
+   "LIT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 917.15,
+    "next_funding_ms": 1788249600000
+   },
+   "LI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.6362,
+    "next_funding_ms": 1788249600000
+   },
+   "LL": {
+    "funding_8h_rate": 1.006e-05,
+    "mark_price": 1158.62,
+    "next_funding_ms": 1788249600000
+   },
+   "LP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.3523,
+    "next_funding_ms": 1788249600000
+   },
+   "LQT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.2185,
+    "next_funding_ms": 1788249600000
+   },
+   "LR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.00796,
+    "next_funding_ms": 1788249600000
+   },
+   "LRC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 302.81,
+    "next_funding_ms": 1788249600000
+   },
+   "LS": {
+    "funding_8h_rate": 0.00022316,
+    "mark_price": 0.09978,
+    "next_funding_ms": 1788249600000
+   },
+   "LT": {
+    "funding_8h_rate": 5.569e-05,
+    "mark_price": 49.02,
+    "next_funding_ms": 1788249600000
+   },
+   "LUMI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08809,
+    "next_funding_ms": 1788249600000
+   },
+   "LUNA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04444,
+    "next_funding_ms": 1788249600000
+   },
+   "LY": {
+    "funding_8h_rate": 0.0006712,
+    "mark_price": 0.03615,
+    "next_funding_ms": 1788249600000
+   },
+   "LYT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 24.84,
+    "next_funding_ms": 1788249600000
+   },
+   "MAGI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0456,
+    "next_funding_ms": 1788249600000
+   },
+   "MAGM": {
+    "funding_8h_rate": 8.732e-05,
+    "mark_price": 0.36544,
+    "next_funding_ms": 1788249600000
+   },
+   "MAG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 68.65,
+    "next_funding_ms": 1788249600000
+   },
+   "MAN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07299,
+    "next_funding_ms": 1788249600000
+   },
+   "MANT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05834,
+    "next_funding_ms": 1788249600000
+   },
+   "MAR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.81,
+    "next_funding_ms": 1788249600000
+   },
+   "MAS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.4277,
+    "next_funding_ms": 1788249600000
+   },
+   "M": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 960.58,
+    "next_funding_ms": 1788249600000
+   },
+   "MAVI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02851,
+    "next_funding_ms": 1788249600000
+   },
+   "MA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.010736,
+    "next_funding_ms": 1788249600000
+   },
+   "MC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 263.52,
+    "next_funding_ms": 1788249600000
+   },
+   "MEG": {
+    "funding_8h_rate": -4.133e-05,
+    "mark_price": 0.03879,
+    "next_funding_ms": 1788249600000
+   },
+   "MEITUA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.91,
+    "next_funding_ms": 1788249600000
+   },
+   "MELANI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.10861,
+    "next_funding_ms": 1788249600000
+   },
+   "MEM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0005284,
+    "next_funding_ms": 1788249600000
+   },
+   "MER": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.02052,
+    "next_funding_ms": 1788249600000
+   },
+   "MET": {
+    "funding_8h_rate": 1.158e-05,
+    "mark_price": 573.17,
+    "next_funding_ms": 1788249600000
+   },
+   "METI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.723,
+    "next_funding_ms": 1788249600000
+   },
+   "ME": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.000418,
+    "next_funding_ms": 1788249600000
+   },
+   "MIN": {
+    "funding_8h_rate": -0.00018137,
+    "mark_price": 0.06809,
+    "next_funding_ms": 1788249600000
+   },
+   "MINIMA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 46.03,
+    "next_funding_ms": 1788249600000
+   },
+   "MIR": {
+    "funding_8h_rate": -0.00226134,
+    "mark_price": 0.04632,
+    "next_funding_ms": 1788249600000
+   },
+   "MIT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02161,
+    "next_funding_ms": 1788249600000
+   },
+   "MM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.15813,
+    "next_funding_ms": 1788249600000
+   },
+   "MNS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 45.84,
+    "next_funding_ms": 1788249600000
+   },
+   "MN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.546,
+    "next_funding_ms": 1788249600000
+   },
+   "MOC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008651,
+    "next_funding_ms": 1788249600000
+   },
+   "MO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.027029,
+    "next_funding_ms": 1788249600000
+   },
+   "MOODEN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04008,
+    "next_funding_ms": 1788249600000
+   },
+   "MOONSHO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 73.32,
+    "next_funding_ms": 1788249600000
+   },
+   "MORPH": {
+    "funding_8h_rate": -0.00019468,
+    "mark_price": 2.546,
+    "next_funding_ms": 1788249600000
+   },
+   "MOV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.8165,
+    "next_funding_ms": 1788249600000
+   },
+   "MR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 148.3,
+    "next_funding_ms": 1788249600000
+   },
+   "MRN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 139.71,
+    "next_funding_ms": 1788249600000
+   },
+   "MRV": {
+    "funding_8h_rate": 0.00032406,
+    "mark_price": 211.94,
+    "next_funding_ms": 1788249600000
+   },
+   "MSF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 505.91,
+    "next_funding_ms": 1788249600000
+   },
+   "MST": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 32.27,
+    "next_funding_ms": 1788249600000
+   },
+   "MT": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.2386,
+    "next_funding_ms": 1788249600000
+   },
+   "MUBARA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.021373,
+    "next_funding_ms": 1788249600000
+   },
+   "MU": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 30.92,
+    "next_funding_ms": 1788249600000
+   },
+   "MVL": {
+    "funding_8h_rate": 0.00048648,
+    "mark_price": 23.98,
+    "next_funding_ms": 1788249600000
+   },
+   "MY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06997,
+    "next_funding_ms": 1788249600000
+   },
+   "NAORI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.025653,
+    "next_funding_ms": 1788249600000
+   },
+   "NAVE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 156.53,
+    "next_funding_ms": 1788249600000
+   },
+   "NBI": {
+    "funding_8h_rate": 0.00024183,
+    "mark_price": 208.12,
+    "next_funding_ms": 1788249600000
+   },
+   "NCL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 22.29,
+    "next_funding_ms": 1788249600000
+   },
+   "NEA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.952,
+    "next_funding_ms": 1788249600000
+   },
+   "NE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 305.17,
+    "next_funding_ms": 1788249600000
+   },
+   "NES": {
+    "funding_8h_rate": 0.00033148,
+    "mark_price": 0.1178,
+    "next_funding_ms": 1788249600000
+   },
+   "NEW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04118,
+    "next_funding_ms": 1788249600000
+   },
+   "NFL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 81.15,
+    "next_funding_ms": 1788249600000
+   },
+   "NIGH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01885,
+    "next_funding_ms": 1788249600000
+   },
+   "NI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05204,
+    "next_funding_ms": 1788249600000
+   },
+   "NIULA": {
+    "funding_8h_rate": 0.00092377,
+    "mark_price": 0.09115,
+    "next_funding_ms": 1788249600000
+   },
+   "NM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 9.066,
+    "next_funding_ms": 1788249600000
+   },
+   "NOKI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.148,
+    "next_funding_ms": 1788249600000
+   },
+   "NO": {
+    "funding_8h_rate": 0.00017907,
+    "mark_price": 148.31,
+    "next_funding_ms": 1788249600000
+   },
+   "NVD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 34.69,
+    "next_funding_ms": 1788249600000
+   },
+   "NV": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 45.46,
+    "next_funding_ms": 1788249600000
+   },
+   "NXP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2056,
+    "next_funding_ms": 1788249600000
+   },
+   "OG": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.018329,
+    "next_funding_ms": 1788249600000
+   },
+   "O": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.09563,
+    "next_funding_ms": 1788249600000
+   },
+   "OK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 112.22,
+    "next_funding_ms": 1788249600000
+   },
+   "OKT": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 172.54,
+    "next_funding_ms": 1788249600000
+   },
+   "OND": {
+    "funding_8h_rate": 0.00018213,
+    "mark_price": 7.676,
+    "next_funding_ms": 1788249600000
+   },
+   "ON": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05398,
+    "next_funding_ms": 1788249600000
+   },
+   "OPENA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1246.86,
+    "next_funding_ms": 1788249600000
+   },
+   "OPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1332,
+    "next_funding_ms": 1788249600000
+   },
+   "OP": {
+    "funding_8h_rate": -0.00026261,
+    "mark_price": 0.05509,
+    "next_funding_ms": 1788249600000
+   },
+   "ORC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 149.26,
+    "next_funding_ms": 1788249600000
+   },
+   "ORDE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.03363,
+    "next_funding_ms": 1788249600000
+   },
+   "ORD": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 3.934,
+    "next_funding_ms": 1788249600000
+   },
+   "OUS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 34.59,
+    "next_funding_ms": 1788249600000
+   },
+   "PAN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 382.55,
+    "next_funding_ms": 1788249600000
+   },
+   "PART": {
+    "funding_8h_rate": -0.00014188,
+    "mark_price": 0.0238,
+    "next_funding_ms": 1788249600000
+   },
+   "PAX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 4432.9,
+    "next_funding_ms": 1788249600000
+   },
+   "PD": {
+    "funding_8h_rate": 0.00137531,
+    "mark_price": 84.31,
+    "next_funding_ms": 1788249600000
+   },
+   "PEA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.023284,
+    "next_funding_ms": 1788249600000
+   },
+   "PENDL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.802,
+    "next_funding_ms": 1788249600000
+   },
+   "PENGSTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 49.17,
+    "next_funding_ms": 1788249600000
+   },
+   "PENG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00879,
+    "next_funding_ms": 1788249600000
+   },
+   "PEOPL": {
+    "funding_8h_rate": 4.209e-05,
+    "mark_price": 0.007861,
+    "next_funding_ms": 1788249600000
+   },
+   "PE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 141.66,
+    "next_funding_ms": 1788249600000
+   },
+   "PHARO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.4105,
+    "next_funding_ms": 1788249600000
+   },
+   "PH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02519,
+    "next_funding_ms": 1788249600000
+   },
+   "PIEVERS": {
+    "funding_8h_rate": 8.816e-05,
+    "mark_price": 1.05196,
+    "next_funding_ms": 1788249600000
+   },
+   "PIPPI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01761,
+    "next_funding_ms": 1788249600000
+   },
+   "PIXE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004934,
+    "next_funding_ms": 1788249600000
+   },
+   "PLAYSOU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03795,
+    "next_funding_ms": 1788249600000
+   },
+   "PLT": {
+    "funding_8h_rate": -2.033e-05,
+    "mark_price": 185.93,
+    "next_funding_ms": 1788249600000
+   },
+   "PLUM": {
+    "funding_8h_rate": 8.48e-06,
+    "mark_price": 0.01465,
+    "next_funding_ms": 1788249600000
+   },
+   "PNU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04821,
+    "next_funding_ms": 1788249600000
+   },
+   "POE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 7.512,
+    "next_funding_ms": 1788249600000
+   },
+   "PO": {
+    "funding_8h_rate": 2.894e-05,
+    "mark_price": 0.09215,
+    "next_funding_ms": 1788249600000
+   },
+   "POLY": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03408,
+    "next_funding_ms": 1788249600000
+   },
+   "PON": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.4677,
+    "next_funding_ms": 1788249600000
+   },
+   "POPCA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05304,
+    "next_funding_ms": 1788249600000
+   },
+   "POPMAR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 19.92,
+    "next_funding_ms": 1788249600000
+   },
+   "PORTA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.014266,
+    "next_funding_ms": 1788249600000
+   },
+   "POWE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08313,
+    "next_funding_ms": 1788249600000
+   },
+   "POW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04565,
+    "next_funding_ms": 1788249600000
+   },
+   "PR": {
+    "funding_8h_rate": 4.167e-05,
+    "mark_price": 0.1551,
+    "next_funding_ms": 1788249600000
+   },
+   "PROMP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02432,
+    "next_funding_ms": 1788249600000
+   },
+   "PROV": {
+    "funding_8h_rate": -0.00020865,
+    "mark_price": 0.1827,
+    "next_funding_ms": 1788249600000
+   },
+   "PT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0007557,
+    "next_funding_ms": 1788249600000
+   },
+   "PUFFE": {
+    "funding_8h_rate": -0.00141817,
+    "mark_price": 0.0143,
+    "next_funding_ms": 1788249600000
+   },
+   "PUMPFU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004483,
+    "next_funding_ms": 1788249600000
+   },
+   "PUNDI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09056,
+    "next_funding_ms": 1788249600000
+   },
+   "PUR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 12.324,
+    "next_funding_ms": 1788249600000
+   },
+   "PYP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 52.89,
+    "next_funding_ms": 1788249600000
+   },
+   "PYT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04973,
+    "next_funding_ms": 1788249600000
+   },
+   "QCO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 171.01,
+    "next_funding_ms": 1788249600000
+   },
+   "QN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 61.3,
+    "next_funding_ms": 1788249600000
+   },
+   "QNT": {
+    "funding_8h_rate": 0.0021944,
+    "mark_price": 50.56,
+    "next_funding_ms": 1788249600000
+   },
+   "QQ": {
+    "funding_8h_rate": 2.88e-05,
+    "mark_price": 718.02,
+    "next_funding_ms": 1788249600000
+   },
+   "QTU": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.8324,
+    "next_funding_ms": 1788249600000
+   },
+   "RA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 12.68,
+    "next_funding_ms": 1788249600000
+   },
+   "RAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012346,
+    "next_funding_ms": 1788249600000
+   },
+   "RAV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.25921,
+    "next_funding_ms": 1788249600000
+   },
+   "RAYDIU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.8245,
+    "next_funding_ms": 1788249600000
+   },
+   "RDD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 148.36,
+    "next_funding_ms": 1788249600000
+   },
+   "RD": {
+    "funding_8h_rate": 0.00104074,
+    "mark_price": 10.706,
+    "next_funding_ms": 1788249600000
+   },
+   "RECAL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04667,
+    "next_funding_ms": 1788249600000
+   },
+   "RE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.002919,
+    "next_funding_ms": 1788249600000
+   },
+   "REG": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 804.88,
+    "next_funding_ms": 1788249600000
+   },
+   "RENDE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.453,
+    "next_funding_ms": 1788249600000
+   },
+   "RESOL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.01686,
+    "next_funding_ms": 1788249600000
+   },
+   "R": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.481,
+    "next_funding_ms": 1788249600000
+   },
+   "RIO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 19.11,
+    "next_funding_ms": 1788249600000
+   },
+   "RIVE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.384,
+    "next_funding_ms": 1788249600000
+   },
+   "RIV": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 16.07,
+    "next_funding_ms": 1788249600000
+   },
+   "RKL": {
+    "funding_8h_rate": 0.0002386,
+    "mark_price": 64.61,
+    "next_funding_ms": 1788249600000
+   },
+   "RL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.3095,
+    "next_funding_ms": 1788249600000
+   },
+   "RLUS": {
+    "funding_8h_rate": -0.00031995,
+    "mark_price": 0.9995,
+    "next_funding_ms": 1788249600000
+   },
+   "ROB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012422,
+    "next_funding_ms": 1788249600000
+   },
+   "RONI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05257,
+    "next_funding_ms": 1788249600000
+   },
+   "ROS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.006207,
+    "next_funding_ms": 1788249600000
+   },
+   "RP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 1.611,
+    "next_funding_ms": 1788249600000
+   },
+   "RS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.001363,
+    "next_funding_ms": 1788249600000
+   },
+   "RUN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.4848,
+    "next_funding_ms": 1788249600000
+   },
+   "RV": {
+    "funding_8h_rate": -0.0009181,
+    "mark_price": 0.002981,
+    "next_funding_ms": 1788249600000
+   },
+   "SAF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09253,
+    "next_funding_ms": 1788249600000
+   },
+   "SAG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.015094,
+    "next_funding_ms": 1788249600000
+   },
+   "SAHAR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00838,
+    "next_funding_ms": 1788249600000
+   },
+   "SAMSUNGE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1042.54,
+    "next_funding_ms": 1788249600000
+   },
+   "SAMSUN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 189.96,
+    "next_funding_ms": 1788249600000
+   },
+   "SAN": {
+    "funding_8h_rate": -0.00301236,
+    "mark_price": 0.03928,
+    "next_funding_ms": 1788249600000
+   },
+   "SAPIE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08143,
+    "next_funding_ms": 1788249600000
+   },
+   "SCR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00941,
+    "next_funding_ms": 1788249600000
+   },
+   "SE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.04489,
+    "next_funding_ms": 1788249600000
+   },
+   "SEN": {
+    "funding_8h_rate": 4.122e-05,
+    "mark_price": 0.012779,
+    "next_funding_ms": 1788249600000
+   },
+   "SHA": {
+    "funding_8h_rate": 0.00045701,
+    "mark_price": 54.98,
+    "next_funding_ms": 1788249600000
+   },
+   "SHEI": {
+    "funding_8h_rate": -0.00029394,
+    "mark_price": 6.05,
+    "next_funding_ms": 1788249600000
+   },
+   "SHEL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02313,
+    "next_funding_ms": 1788249600000
+   },
+   "SHIB100": {
+    "funding_8h_rate": 4.914e-05,
+    "mark_price": 0.005158,
+    "next_funding_ms": 1788249600000
+   },
+   "SHO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 147.6,
+    "next_funding_ms": 1788249600000
+   },
+   "SIG": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008739,
+    "next_funding_ms": 1788249600000
+   },
+   "SIRE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03035,
+    "next_funding_ms": 1788249600000
+   },
+   "SKD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 9.78,
+    "next_funding_ms": 1788249600000
+   },
+   "SKHYNI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1239.1,
+    "next_funding_ms": 1788249600000
+   },
+   "SKH": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 165.2,
+    "next_funding_ms": 1788249600000
+   },
+   "SK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06582,
+    "next_funding_ms": 1788249600000
+   },
+   "SKU": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 23.68,
+    "next_funding_ms": 1788249600000
+   },
+   "SKYAI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05332,
+    "next_funding_ms": 1788249600000
+   },
+   "SL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0683,
+    "next_funding_ms": 1788249600000
+   },
+   "SMC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 37.35,
+    "next_funding_ms": 1788249600000
+   },
+   "SM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 558.51,
+    "next_funding_ms": 1788249600000
+   },
+   "SMI": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 8.85,
+    "next_funding_ms": 1788249600000
+   },
+   "SND": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 1548.3,
+    "next_funding_ms": 1788249600000
+   },
+   "SNO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 333.29,
+    "next_funding_ms": 1788249600000
+   },
+   "SN": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.2123,
+    "next_funding_ms": 1788249600000
+   },
+   "SNX": {
+    "funding_8h_rate": 0.00084294,
+    "mark_price": 13.94,
+    "next_funding_ms": 1788249600000
+   },
+   "SOF": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 17.98,
+    "next_funding_ms": 1788249600000
+   },
+   "SOLAYE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06854,
+    "next_funding_ms": 1788249600000
+   },
+   "SO": {
+    "funding_8h_rate": -1.502e-05,
+    "mark_price": 103.705,
+    "next_funding_ms": 1788249600000
+   },
+   "SOM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.12498,
+    "next_funding_ms": 1788249600000
+   },
+   "SONI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02282,
+    "next_funding_ms": 1788249600000
+   },
+   "SON": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 25.28,
+    "next_funding_ms": 1788249600000
+   },
+   "SOO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.19553,
+    "next_funding_ms": 1788249600000
+   },
+   "SOP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004128,
+    "next_funding_ms": 1788249600000
+   },
+   "SOS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3185,
+    "next_funding_ms": 1788249600000
+   },
+   "SOX": {
+    "funding_8h_rate": 0.00032366,
+    "mark_price": 515.29,
+    "next_funding_ms": 1788249600000
+   },
+   "SPAC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00486,
+    "next_funding_ms": 1788249600000
+   },
+   "SPC": {
+    "funding_8h_rate": -0.00032204,
+    "mark_price": 143.93,
+    "next_funding_ms": 1788249600000
+   },
+   "SP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 768.15,
+    "next_funding_ms": 1788249600000
+   },
+   "SPORTFU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02216,
+    "next_funding_ms": 1788249600000
+   },
+   "SPO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 542.45,
+    "next_funding_ms": 1788249600000
+   },
+   "SPX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 289.96,
+    "next_funding_ms": 1788249600000
+   },
+   "SQ": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03417,
+    "next_funding_ms": 1788249600000
+   },
+   "SQQ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 38.44,
+    "next_funding_ms": 1788249600000
+   },
+   "SSP": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 10.21,
+    "next_funding_ms": 1788249600000
+   },
+   "SS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2.773,
+    "next_funding_ms": 1788249600000
+   },
+   "STABL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.028761,
+    "next_funding_ms": 1788249600000
+   },
+   "STB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02503,
+    "next_funding_ms": 1788249600000
+   },
+   "STEE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04311,
+    "next_funding_ms": 1788249600000
+   },
+   "ST": {
+    "funding_8h_rate": -9.173e-05,
+    "mark_price": 0.25115,
+    "next_funding_ms": 1788249600000
+   },
+   "STOR": {
+    "funding_8h_rate": -0.00255559,
+    "mark_price": 0.03294,
+    "next_funding_ms": 1788249600000
+   },
+   "STR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02668,
+    "next_funding_ms": 1788249600000
+   },
+   "STX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 831.56,
+    "next_funding_ms": 1788249600000
+   },
+   "SU": {
+    "funding_8h_rate": 3.358e-05,
+    "mark_price": 0.01647,
+    "next_funding_ms": 1788249600000
+   },
+   "SUPE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.11015,
+    "next_funding_ms": 1788249600000
+   },
+   "SUSH": {
+    "funding_8h_rate": 6.656e-05,
+    "mark_price": 0.19999,
+    "next_funding_ms": 1788249600000
+   },
+   "SX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.008857,
+    "next_funding_ms": 1788249600000
+   },
+   "SYRU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1873,
+    "next_funding_ms": 1788249600000
+   },
+   "TA": {
+    "funding_8h_rate": 5.026e-05,
+    "mark_price": 229.31,
+    "next_funding_ms": 1788249600000
+   },
+   "TAIK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.07408,
+    "next_funding_ms": 1788249600000
+   },
+   "T": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.06047,
+    "next_funding_ms": 1788249600000
+   },
+   "TB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 38.26,
+    "next_funding_ms": 1788249600000
+   },
+   "TE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 350.85,
+    "next_funding_ms": 1788249600000
+   },
+   "TENCEN": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 56.61,
+    "next_funding_ms": 1788249600000
+   },
+   "THET": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.169,
+    "next_funding_ms": 1788249600000
+   },
+   "TH": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.07095,
+    "next_funding_ms": 1788249600000
+   },
+   "TI": {
+    "funding_8h_rate": -2.48e-05,
+    "mark_price": 0.3398,
+    "next_funding_ms": 1788249600000
+   },
+   "TL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0014043,
+    "next_funding_ms": 1788249600000
+   },
+   "TM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1155,
+    "next_funding_ms": 1788249600000
+   },
+   "TNS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0351,
+    "next_funding_ms": 1788249600000
+   },
+   "TOWN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.002518,
+    "next_funding_ms": 1788249600000
+   },
+   "TQQ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 72.15,
+    "next_funding_ms": 1788249600000
+   },
+   "TR": {
+    "funding_8h_rate": -0.00053432,
+    "mark_price": 0.33121,
+    "next_funding_ms": 1788249600000
+   },
+   "TRE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0401,
+    "next_funding_ms": 1788249600000
+   },
+   "TRI": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.004475,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 2.397,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0541,
+    "next_funding_ms": 1788249600000
+   },
+   "TRUT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.012676,
+    "next_funding_ms": 1788249600000
+   },
+   "TSE": {
+    "funding_8h_rate": 0.00069439,
+    "mark_price": 206.54,
+    "next_funding_ms": 1788249600000
+   },
+   "TSL": {
+    "funding_8h_rate": -0.00075091,
+    "mark_price": 9.92,
+    "next_funding_ms": 1788249600000
+   },
+   "TS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 420.83,
+    "next_funding_ms": 1788249600000
+   },
+   "TTW": {
+    "funding_8h_rate": 0.00029064,
+    "mark_price": 222.11,
+    "next_funding_ms": 1788249600000
+   },
+   "TURTL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.04292,
+    "next_funding_ms": 1788249600000
+   },
+   "TU": {
+    "funding_8h_rate": -0.00664361,
+    "mark_price": 0.030005,
+    "next_funding_ms": 1788249600000
+   },
+   "TW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.5258,
+    "next_funding_ms": 1788249600000
+   },
+   "TX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 261.92,
+    "next_funding_ms": 1788249600000
+   },
+   "TZ": {
+    "funding_8h_rate": -0.00011359,
+    "mark_price": 40.57,
+    "next_funding_ms": 1788249600000
+   },
+   "UA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.38479,
+    "next_funding_ms": 1788249600000
+   },
+   "UBE": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 75.95,
+    "next_funding_ms": 1788249600000
+   },
+   "U": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.016202,
+    "next_funding_ms": 1788249600000
+   },
+   "UM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.3688,
+    "next_funding_ms": 1788249600000
+   },
+   "UN": {
+    "funding_8h_rate": 5.572e-05,
+    "mark_price": 5.639,
+    "next_funding_ms": 1788249600000
+   },
+   "UNITRE": {
+    "funding_8h_rate": -0.00316865,
+    "mark_price": 85.82,
+    "next_funding_ms": 1788249600000
+   },
+   "USA": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 17.94,
+    "next_funding_ms": 1788249600000
+   },
+   "USD": {
+    "funding_8h_rate": -0.00011791,
+    "mark_price": 0.9993,
+    "next_funding_ms": 1788249600000
+   },
+   "USELES": {
+    "funding_8h_rate": 0.00037042,
+    "mark_price": 0.09286,
+    "next_funding_ms": 1788249600000
+   },
+   "UST": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.005279,
+    "next_funding_ms": 1788249600000
+   },
+   "USUA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.011305,
+    "next_funding_ms": 1788249600000
+   },
+   "UVX": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 18.03,
+    "next_funding_ms": 1788249600000
+   },
+   "VAN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.9023,
+    "next_funding_ms": 1788249600000
+   },
+   "VELODROM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.022897,
+    "next_funding_ms": 1788249600000
+   },
+   "VEL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.005101,
+    "next_funding_ms": 1788249600000
+   },
+   "VELVE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09311,
+    "next_funding_ms": 1788249600000
+   },
+   "VE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.006763,
+    "next_funding_ms": 1788249600000
+   },
+   "VIRTUA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.7165,
+    "next_funding_ms": 1788249600000
+   },
+   "VR": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 259.74,
+    "next_funding_ms": 1788249600000
+   },
+   "VRTXSTOC": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 549.6,
+    "next_funding_ms": 1788249600000
+   },
+   "VS": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 139.57,
+    "next_funding_ms": 1788249600000
+   },
+   "VV": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 16.9495,
+    "next_funding_ms": 1788249600000
+   },
+   "WA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.02534,
+    "next_funding_ms": 1788249600000
+   },
+   "WAVE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.2205,
+    "next_funding_ms": 1788249600000
+   },
+   "WAX": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.00424,
+    "next_funding_ms": 1788249600000
+   },
+   "WC": {
+    "funding_8h_rate": -6.917e-05,
+    "mark_price": 0.03768,
+    "next_funding_ms": 1788249600000
+   },
+   "WD": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 451.47,
+    "next_funding_ms": 1788249600000
+   },
+   "WENSTOC": {
+    "funding_8h_rate": -1.657e-05,
+    "mark_price": 8.27,
+    "next_funding_ms": 1788249600000
+   },
+   "WE": {
+    "funding_8h_rate": 5.018e-05,
+    "mark_price": 0.06049,
+    "next_funding_ms": 1788249600000
+   },
+   "WI": {
+    "funding_8h_rate": 6.52e-06,
+    "mark_price": 0.1981,
+    "next_funding_ms": 1788249600000
+   },
+   "WL": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.3711,
+    "next_funding_ms": 1788249600000
+   },
+   "WLF": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05713,
+    "next_funding_ms": 1788249600000
+   },
+   "WM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 105.23,
+    "next_funding_ms": 1788249600000
+   },
+   "WO": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.011195,
+    "next_funding_ms": 1788249600000
+   },
+   "XA": {
+    "funding_8h_rate": 0.00017364,
+    "mark_price": 4439.2,
+    "next_funding_ms": 1788249600000
+   },
+   "XAU": {
+    "funding_8h_rate": 4.085e-05,
+    "mark_price": 4425.42,
+    "next_funding_ms": 1788249600000
+   },
+   "XB": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 162.56,
+    "next_funding_ms": 1788249600000
+   },
+   "XC": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.003452,
+    "next_funding_ms": 1788249600000
+   },
+   "XD": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0279,
+    "next_funding_ms": 1788249600000
+   },
+   "XIAOM": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 3.541,
+    "next_funding_ms": 1788249600000
+   },
+   "XL": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 170.32,
+    "next_funding_ms": 1788249600000
+   },
+   "XM": {
+    "funding_8h_rate": 0.00042944,
+    "mark_price": 519.88,
+    "next_funding_ms": 1788249600000
+   },
+   "XN": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.006882,
+    "next_funding_ms": 1788249600000
+   },
+   "XO": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 161.47,
+    "next_funding_ms": 1788249600000
+   },
+   "XPI": {
+    "funding_8h_rate": 7.989e-05,
+    "mark_price": 0.0010834,
+    "next_funding_ms": 1788249600000
+   },
+   "XP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08423,
+    "next_funding_ms": 1788249600000
+   },
+   "XR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 1.3851,
+    "next_funding_ms": 1788249600000
+   },
+   "XT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.2167,
+    "next_funding_ms": 1788249600000
+   },
+   "XV": {
+    "funding_8h_rate": 8.29e-06,
+    "mark_price": 3.1063,
+    "next_funding_ms": 1788249600000
+   },
+   "Y": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.09396,
+    "next_funding_ms": 1788249600000
+   },
+   "YF": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 2239.0,
+    "next_funding_ms": 1788249600000
+   },
+   "YG": {
+    "funding_8h_rate": -6.54e-05,
+    "mark_price": 0.02236,
+    "next_funding_ms": 1788249600000
+   },
+   "ZAM": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.05039,
+    "next_funding_ms": 1788249600000
+   },
+   "ZBC": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0018636,
+    "next_funding_ms": 1788249600000
+   },
+   "ZB": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.08402,
+    "next_funding_ms": 1788249600000
+   },
+   "ZE": {
+    "funding_8h_rate": 7.088e-05,
+    "mark_price": 5.707,
+    "next_funding_ms": 1788249600000
+   },
+   "ZEREBR": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03777,
+    "next_funding_ms": 1788249600000
+   },
+   "ZES": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.1381,
+    "next_funding_ms": 1788249600000
+   },
+   "ZET": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.03345,
+    "next_funding_ms": 1788249600000
+   },
+   "ZHIP": {
+    "funding_8h_rate": -0.00068187,
+    "mark_price": 153.22,
+    "next_funding_ms": 1788249600000
+   },
+   "ZHONGJ": {
+    "funding_8h_rate": 0.0,
+    "mark_price": 134.62,
+    "next_funding_ms": 1788249600000
+   },
+   "ZI": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.002628,
+    "next_funding_ms": 1788249600000
+   },
+   "ZK": {
+    "funding_8h_rate": -4.708e-05,
+    "mark_price": 0.04545,
+    "next_funding_ms": 1788249600000
+   },
+   "Z": {
+    "funding_8h_rate": 0.00076808,
+    "mark_price": 96.64,
+    "next_funding_ms": 1788249600000
+   },
+   "ZOR": {
+    "funding_8h_rate": -2.099e-05,
+    "mark_price": 0.008608,
+    "next_funding_ms": 1788249600000
+   },
+   "ZR": {
+    "funding_8h_rate": -0.00011739,
+    "mark_price": 0.09562,
+    "next_funding_ms": 1788249600000
+   }
+  }
+ },
+ "okx": {
+  "rows": {
+   "SATS": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "NOT": {
+    "funding_8h_rate": -1.23662009545e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "PUMP": {
+    "funding_8h_rate": -5.07042450736e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ZORA": {
+    "funding_8h_rate": -0.0005321126097612,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "NEIRO": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "SHIB": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "BONK": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "PEPE": {
+    "funding_8h_rate": 6.8602031076e-06,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "FLOKI": {
+    "funding_8h_rate": -1.59209392443e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "HMSTR": {
+    "funding_8h_rate": 2.67565650605e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ANIME": {
+    "funding_8h_rate": -0.0009827887654869,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "DOGE": {
+    "funding_8h_rate": 3.1189718408e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "BOME": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "PENGU": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ARB": {
+    "funding_8h_rate": 7.39762580219e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "TURBO": {
+    "funding_8h_rate": -4.31762093225e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "MEW": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "MEME": {
+    "funding_8h_rate": -6.2102016298e-06,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "BICO": {
+    "funding_8h_rate": -0.0006669998949099,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "GALA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "USELESS": {
+    "funding_8h_rate": -0.0004660119493486,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "TRIA": {
+    "funding_8h_rate": 0.000105091636856,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "0G": {
+    "funding_8h_rate": -0.0025140005735356,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ZK": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "LINEA": {
+    "funding_8h_rate": -4.36775707033e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "HOME": {
+    "funding_8h_rate": -0.0003885559751133,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ONE": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "KAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ENA": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "IOST": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "OP": {
+    "funding_8h_rate": 8.99845502533e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "PEOPLE": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "XRP": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "RSR": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "OL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "XPL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ROBO": {
+    "funding_8h_rate": 4.88733795383e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ZIL": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "MOVE": {
+    "funding_8h_rate": -0.0003757598967135,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "CHIP": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "RVN": {
+    "funding_8h_rate": -0.0009747475225976,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "RLS": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "ADA": {
+    "funding_8h_rate": 0.0001,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "MON": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   },
+   "BEAT": {
+    "funding_8h_rate": 5e-05,
+    "mark_price": 0.0,
+    "next_funding_ms": 1788249600000,
+    "funding_interval_hours": 8
+   }
+  }
+ },
+ "hyperliquid": {
+  "rows": {
+   "BTC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 78838.0,
+    "open_interest": 38241.98
+   },
+   "ETH": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2474.5,
+    "open_interest": 864320.3932000002
+   },
+   "ATOM": {
+    "funding_hourly_rate": -3.00669e-05,
+    "funding_8h_equiv": -0.0002405352,
+    "mark_price": 1.4965,
+    "open_interest": 1594439.2
+   },
+   "DYDX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.10942,
+    "open_interest": 13919875.4
+   },
+   "SOL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 103.74,
+    "open_interest": 6421732.66
+   },
+   "AVAX": {
+    "funding_hourly_rate": -8.6768e-06,
+    "funding_8h_equiv": -6.94144e-05,
+    "mark_price": 7.2755,
+    "open_interest": 1859557.5399999998
+   },
+   "BNB": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 690.57,
+    "open_interest": 66094.26
+   },
+   "APE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.13755,
+    "open_interest": 6666319.8
+   },
+   "OP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.09564,
+    "open_interest": 32054827.4
+   },
+   "LTC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 49.054,
+    "open_interest": 335739.58
+   },
+   "ARB": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.11067,
+    "open_interest": 108371022.99999999
+   },
+   "DOGE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.083402,
+    "open_interest": 678271738.0
+   },
+   "INJ": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 4.947,
+    "open_interest": 450133.6
+   },
+   "SUI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.73023,
+    "open_interest": 47221301.6
+   },
+   "kPEPE": {
+    "funding_hourly_rate": -2.897e-07,
+    "funding_8h_equiv": -2.3176e-06,
+    "mark_price": 0.003538,
+    "open_interest": 6096602948.0
+   },
+   "CRV": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.3515,
+    "open_interest": 47782682.6
+   },
+   "LDO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.36799,
+    "open_interest": 28215040.0
+   },
+   "LINK": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 11.445,
+    "open_interest": 5670148.8
+   },
+   "STX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.25157,
+    "open_interest": 4532817.6
+   },
+   "CFX": {
+    "funding_hourly_rate": 1.74873e-05,
+    "funding_8h_equiv": 0.0001398984,
+    "mark_price": 0.046434,
+    "open_interest": 56289372.0
+   },
+   "GMX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 7.5096,
+    "open_interest": 97664.58
+   },
+   "SNX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.21244,
+    "open_interest": 3718122.8
+   },
+   "XRP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.3854,
+    "open_interest": 158838892.0
+   },
+   "BCH": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 249.4,
+    "open_interest": 24050.998
+   },
+   "APT": {
+    "funding_hourly_rate": -1.7426e-06,
+    "funding_8h_equiv": -1.39408e-05,
+    "mark_price": 0.537,
+    "open_interest": 7039861.02
+   },
+   "AAVE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 126.32,
+    "open_interest": 584251.66
+   },
+   "COMP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 19.493,
+    "open_interest": 45892.32
+   },
+   "WLD": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.37128,
+    "open_interest": 82857195.8
+   },
+   "YGG": {
+    "funding_hourly_rate": -1.9749e-06,
+    "funding_8h_equiv": -1.57992e-05,
+    "mark_price": 0.022351,
+    "open_interest": 7183596.0
+   },
+   "TRX": {
+    "funding_hourly_rate": -0.00017414,
+    "funding_8h_equiv": -0.00139312,
+    "mark_price": 0.33088,
+    "open_interest": 56650516.0
+   },
+   "kSHIB": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.005167,
+    "open_interest": 607132386.0
+   },
+   "UNI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 5.6445,
+    "open_interest": 7555158.4
+   },
+   "SEI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.044885,
+    "open_interest": 36420604.0
+   },
+   "RUNE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.48509,
+    "open_interest": 1927440.0
+   },
+   "ZRO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.0209,
+    "open_interest": 33802467.2
+   },
+   "DOT": {
+    "funding_hourly_rate": 2.254e-07,
+    "funding_8h_equiv": 1.8032e-06,
+    "mark_price": 0.85953,
+    "open_interest": 5719414.2
+   },
+   "BANANA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 3.8793,
+    "open_interest": 41293.0
+   },
+   "TRB": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 17.053,
+    "open_interest": 26322.74
+   },
+   "BIGTIME": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.006589,
+    "open_interest": 24095008.0
+   },
+   "KAS": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.027999,
+    "open_interest": 39282722.0
+   },
+   "BLUR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.015805,
+    "open_interest": 69232496.0
+   },
+   "TIA": {
+    "funding_hourly_rate": 6.985e-07,
+    "funding_8h_equiv": 5.588e-06,
+    "mark_price": 0.33984,
+    "open_interest": 4788971.2
+   },
+   "BSV": {
+    "funding_hourly_rate": 2.90894e-05,
+    "funding_8h_equiv": 0.0002327152,
+    "mark_price": 15.881,
+    "open_interest": 33838.88
+   },
+   "ADA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.20094,
+    "open_interest": 151559930.0
+   },
+   "MINA": {
+    "funding_hourly_rate": 6.6301e-06,
+    "funding_8h_equiv": 5.30408e-05,
+    "mark_price": 0.068055,
+    "open_interest": 21282638.0
+   },
+   "POLYX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.034074,
+    "open_interest": 2270326.0
+   },
+   "GAS": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.2364,
+    "open_interest": 51607.2
+   },
+   "PENDLE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.8024,
+    "open_interest": 4431320.0
+   },
+   "FET": {
+    "funding_hourly_rate": 4.8434e-06,
+    "funding_8h_equiv": 3.87472e-05,
+    "mark_price": 0.1562,
+    "open_interest": 39621284.0
+   },
+   "NEAR": {
+    "funding_hourly_rate": 5.42187e-05,
+    "funding_8h_equiv": 0.0004337496,
+    "mark_price": 1.9556,
+    "open_interest": 54547155.0
+   },
+   "MEME": {
+    "funding_hourly_rate": -3.11308e-05,
+    "funding_8h_equiv": -0.0002490464,
+    "mark_price": 0.000528,
+    "open_interest": 743615658.0
+   },
+   "ORDI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 3.9364,
+    "open_interest": 128000.16
+   },
+   "NEO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2.0614,
+    "open_interest": 104871.86
+   },
+   "ZEN": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 5.7158,
+    "open_interest": 151825.8
+   },
+   "FIL": {
+    "funding_hourly_rate": 8.65e-08,
+    "funding_8h_equiv": 6.92e-07,
+    "mark_price": 0.69288,
+    "open_interest": 4165755.2
+   },
+   "PYTH": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.049774,
+    "open_interest": 35081370.0
+   },
+   "SUSHI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.19997,
+    "open_interest": 1547664.2
+   },
+   "IMX": {
+    "funding_hourly_rate": 2.18109e-05,
+    "funding_8h_equiv": 0.0001744872,
+    "mark_price": 0.12546,
+    "open_interest": 21708255.6
+   },
+   "kBONK": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.003194,
+    "open_interest": 2245606388.0
+   },
+   "GMT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.007298,
+    "open_interest": 19434472.0
+   },
+   "SUPER": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.11009,
+    "open_interest": 1925858.0
+   },
+   "JUP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.21988,
+    "open_interest": 40349476.0
+   },
+   "kLUNC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.051061,
+    "open_interest": 4880896.0
+   },
+   "RSR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.001361,
+    "open_interest": 107211910.0
+   },
+   "GALA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.001743,
+    "open_interest": 180802228.0
+   },
+   "JTO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.4365,
+    "open_interest": 15796094.0
+   },
+   "ACE": {
+    "funding_hourly_rate": -7.29406e-05,
+    "funding_8h_equiv": -0.0005835248,
+    "mark_price": 0.1605,
+    "open_interest": 3436759.12
+   },
+   "WIF": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.19839,
+    "open_interest": 23992356.0
+   },
+   "CAKE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.8661,
+    "open_interest": 1270094.8
+   },
+   "PEOPLE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.007862,
+    "open_interest": 175532066.0
+   },
+   "ENS": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 6.1204,
+    "open_interest": 416541.3
+   },
+   "ETC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 7.3378,
+    "open_interest": 249266.06
+   },
+   "XAI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.0076,
+    "open_interest": 41224331.800000004
+   },
+   "MANTA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.05841,
+    "open_interest": 3292496.6
+   },
+   "UMA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.36913,
+    "open_interest": 792610.0
+   },
+   "ONDO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.34945,
+    "open_interest": 67723216.0
+   },
+   "ALT": {
+    "funding_hourly_rate": 2.2352e-06,
+    "funding_8h_equiv": 1.78816e-05,
+    "mark_price": 0.006166,
+    "open_interest": 118863616.0
+   },
+   "ZETA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.03347,
+    "open_interest": 33018301.2
+   },
+   "DYM": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.01522,
+    "open_interest": 19602241.2
+   },
+   "W": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.00955,
+    "open_interest": 144319496.0
+   },
+   "STRK": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.0267,
+    "open_interest": 101091568.6
+   },
+   "TAO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 229.39,
+    "open_interest": 196805.496
+   },
+   "AR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2.1008,
+    "open_interest": 640709.72
+   },
+   "kFLOKI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.024639,
+    "open_interest": 12047732.0
+   },
+   "BOME": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.000881,
+    "open_interest": 3742242140.0
+   },
+   "ETHFI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.57045,
+    "open_interest": 24680119.0
+   },
+   "ENA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.15028,
+    "open_interest": 399881650.0
+   },
+   "MNT": {
+    "funding_hourly_rate": 6.7895e-05,
+    "funding_8h_equiv": 0.00054316,
+    "mark_price": 0.54755,
+    "open_interest": 9857169.2
+   },
+   "TNSR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.03509,
+    "open_interest": 2654576.6
+   },
+   "SAGA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.0151,
+    "open_interest": 83059242.4
+   },
+   "MERL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.020552,
+    "open_interest": 18357220.0
+   },
+   "HBAR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.074903,
+    "open_interest": 70031236.0
+   },
+   "POPCAT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.053156,
+    "open_interest": 41792346.0
+   },
+   "EIGEN": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.201,
+    "open_interest": 14486304.5
+   },
+   "REZ": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.00292,
+    "open_interest": 186316738.0
+   },
+   "NOT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.000508,
+    "open_interest": 565375410.0
+   },
+   "TURBO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.000952,
+    "open_interest": 407358164.0
+   },
+   "BRETT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.005283,
+    "open_interest": 44238616.0
+   },
+   "IO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.13073,
+    "open_interest": 4306226.6
+   },
+   "ZK": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.009319,
+    "open_interest": 57508716.0
+   },
+   "RENDER": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 1.4551,
+    "open_interest": 1128692.4
+   },
+   "POL": {
+    "funding_hourly_rate": -1.38056e-05,
+    "funding_8h_equiv": -0.0001104448,
+    "mark_price": 0.092213,
+    "open_interest": 35512914.0
+   },
+   "CELO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.074202,
+    "open_interest": 2208578.0
+   },
+   "HMSTR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.000176,
+    "open_interest": 4631073352.0
+   },
+   "kNEIRO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.08778,
+    "open_interest": 2225115.2
+   },
+   "GOAT": {
+    "funding_hourly_rate": 9.77866e-05,
+    "funding_8h_equiv": 0.0007822928,
+    "mark_price": 0.015544,
+    "open_interest": 11168542.0
+   },
+   "MOODENG": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.040114,
+    "open_interest": 6371820.0
+   },
+   "GRASS": {
+    "funding_hourly_rate": 2.9957e-05,
+    "funding_8h_equiv": 0.000239656,
+    "mark_price": 0.35316,
+    "open_interest": 26609839.8
+   },
+   "PURR": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.11739,
+    "open_interest": 96273384.0
+   },
+   "PNUT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.04825,
+    "open_interest": 24126151.2
+   },
+   "XLM": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.17816,
+    "open_interest": 68782166.0
+   },
+   "SAND": {
+    "funding_hourly_rate": -0.0005320444,
+    "funding_8h_equiv": -0.0042563552,
+    "mark_price": 0.039169,
+    "open_interest": 10922914.0
+   },
+   "IOTA": {
+    "funding_hourly_rate": 1.6386e-06,
+    "funding_8h_equiv": 1.31088e-05,
+    "mark_price": 0.04046,
+    "open_interest": 13167232.0
+   },
+   "ALGO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.09001,
+    "open_interest": 23354470.0
+   },
+   "HYPE": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 84.101,
+    "open_interest": 23864636.64
+   },
+   "ME": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.06167,
+    "open_interest": 2490071.1999999997
+   },
+   "MOVE": {
+    "funding_hourly_rate": 4.7406e-06,
+    "funding_8h_equiv": 3.79248e-05,
+    "mark_price": 0.008448,
+    "open_interest": 27008238.0
+   },
+   "VIRTUAL": {
+    "funding_hourly_rate": 2.55948e-05,
+    "funding_8h_equiv": 0.0002047584,
+    "mark_price": 0.71765,
+    "open_interest": 17421154.0
+   },
+   "PENGU": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.008803,
+    "open_interest": 1683764752.0
+   },
+   "USUAL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.01131,
+    "open_interest": 23057136.0
+   },
+   "FARTCOIN": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.17737,
+    "open_interest": 196305272.99999997
+   },
+   "AIXBT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.020254,
+    "open_interest": 23773458.0
+   },
+   "BIO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.026477,
+    "open_interest": 24261712.0
+   },
+   "GRIFFAIN": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.011129,
+    "open_interest": 67609546.0
+   },
+   "SPX": {
+    "funding_hourly_rate": 8.95182e-05,
+    "funding_8h_equiv": 0.0007161456,
+    "mark_price": 0.58882,
+    "open_interest": 12388519.8
+   },
+   "S": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.028085,
+    "open_interest": 22473828.0
+   },
+   "MORPHO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2.54335,
+    "open_interest": 2326028.6
+   },
+   "TRUMP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2.398,
+    "open_interest": 7372947.2
+   },
+   "MELANIA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.10847,
+    "open_interest": 17216534.6
+   },
+   "ANIME": {
+    "funding_hourly_rate": -9.7112e-05,
+    "funding_8h_equiv": -0.000776896,
+    "mark_price": 0.002798,
+    "open_interest": 102879644.0
+   },
+   "VVV": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 16.952,
+    "open_interest": 1743678.64
+   },
+   "BERA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.1799,
+    "open_interest": 14359201.0
+   },
+   "LAYER": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.068521,
+    "open_interest": 8085594.0
+   },
+   "KAITO": {
+    "funding_hourly_rate": -4.41885e-05,
+    "funding_8h_equiv": -0.000353508,
+    "mark_price": 0.30115,
+    "open_interest": 8060106.0
+   },
+   "NIL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.052036,
+    "open_interest": 20451748.0
+   },
+   "PAXG": {
+    "funding_hourly_rate": 1.10833e-05,
+    "funding_8h_equiv": 8.86664e-05,
+    "mark_price": 4433.0,
+    "open_interest": 5166.414
+   },
+   "BABY": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.012055,
+    "open_interest": 10969794.0
+   },
+   "WCT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.037742,
+    "open_interest": 2827874.0
+   },
+   "HYPER": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.065951,
+    "open_interest": 2322176.0
+   },
+   "ZORA": {
+    "funding_hourly_rate": -0.0001185688,
+    "funding_8h_equiv": -0.0009485504,
+    "mark_price": 0.008602,
+    "open_interest": 207161836.0
+   },
+   "INIT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.060662,
+    "open_interest": 6767364.0
+   },
+   "NXPC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.20586,
+    "open_interest": 1116060.0
+   },
+   "SOPH": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.004128,
+    "open_interest": 20797542.0
+   },
+   "RESOLV": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.016902,
+    "open_interest": 40910070.0
+   },
+   "SYRUP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.1874,
+    "open_interest": 16359194.0
+   },
+   "PUMP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.004483,
+    "open_interest": 46485582594.0
+   },
+   "PROVE": {
+    "funding_hourly_rate": 7.0509e-06,
+    "funding_8h_equiv": 5.64072e-05,
+    "mark_price": 0.18275,
+    "open_interest": 684528.0
+   },
+   "XPL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.084327,
+    "open_interest": 430793814.0
+   },
+   "WLFI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.057126,
+    "open_interest": 197417966.0
+   },
+   "LINEA": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.002571,
+    "open_interest": 898370540.0
+   },
+   "SKY": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.065907,
+    "open_interest": 42940326.0
+   },
+   "ASTER": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.69822,
+    "open_interest": 35596862.0
+   },
+   "AVNT": {
+    "funding_hourly_rate": 1.22287e-05,
+    "funding_8h_equiv": 9.78296e-05,
+    "mark_price": 0.1013,
+    "open_interest": 4946570.0
+   },
+   "STBL": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.024963,
+    "open_interest": 80777482.0
+   },
+   "0G": {
+    "funding_hourly_rate": -0.0005010676,
+    "funding_8h_equiv": -0.0040085408,
+    "mark_price": 0.2386,
+    "open_interest": 2815984.0
+   },
+   "HEMI": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.015961,
+    "open_interest": 110227246.0
+   },
+   "APEX": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.25721,
+    "open_interest": 11673696.0
+   },
+   "2Z": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.053465,
+    "open_interest": 8211968.0
+   },
+   "ZEC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 860.2822,
+    "open_interest": 563464.9400000001
+   },
+   "MON": {
+    "funding_hourly_rate": 2.67079e-05,
+    "funding_8h_equiv": 0.0002136632,
+    "mark_price": 0.027074,
+    "open_interest": 1323138404.0
+   },
+   "MET": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.19499,
+    "open_interest": 11412650.0
+   },
+   "MEGA": {
+    "funding_hourly_rate": 7.15249e-05,
+    "funding_8h_equiv": 0.0005721992,
+    "mark_price": 0.038911,
+    "open_interest": 99097502.0
+   },
+   "CC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.12295,
+    "open_interest": 37444614.0
+   },
+   "ICP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 2.42169,
+    "open_interest": 1441111.0
+   },
+   "AERO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.49361,
+    "open_interest": 28095948.0
+   },
+   "STABLE": {
+    "funding_hourly_rate": 6.74382e-05,
+    "funding_8h_equiv": 0.0005395056,
+    "mark_price": 0.028836,
+    "open_interest": 38604822.0
+   },
+   "FOGO": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.007275,
+    "open_interest": 47641880.0
+   },
+   "LIT": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 3.6413,
+    "open_interest": 43299054.0
+   },
+   "XMR": {
+    "funding_hourly_rate": 0.0001370719,
+    "funding_8h_equiv": 0.0010965752,
+    "mark_price": 519.83,
+    "open_interest": 194814.23
+   },
+   "AXS": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.92125,
+    "open_interest": 280638.2
+   },
+   "DASH": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 46.4911,
+    "open_interest": 30244.46
+   },
+   "SKR": {
+    "funding_hourly_rate": -0.0030359904,
+    "funding_8h_equiv": -0.0242879232,
+    "mark_price": 0.028422,
+    "open_interest": 173382152.0
+   },
+   "AZTEC": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.013406,
+    "open_interest": 30894578.0
+   },
+   "CHIP": {
+    "funding_hourly_rate": 1.25e-05,
+    "funding_8h_equiv": 0.0001,
+    "mark_price": 0.039671,
+    "open_interest": 181525334.0
+   },
+   "GRAM": {
+    "funding_hourly_rate": 3.11245e-05,
+    "funding_8h_equiv": 0.000248996,
+    "mark_price": 1.380182,
+    "open_interest": 22391498.0
+   },
+   "CASHCAT": {
+    "funding_hourly_rate": 0.0001220452,
+    "funding_8h_equiv": 0.0009763616,
+    "mark_price": 0.23348,
+    "open_interest": 177611316.0
+   },
+   "PONS": {
+    "funding_hourly_rate": 0.0002718971,
+    "funding_8h_equiv": 0.0021751768,
+    "mark_price": 0.471,
+    "open_interest": 42817970.0
+   }
+  }
+ }
+}

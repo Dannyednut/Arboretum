@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://hyperliquid.gitbook.io",
+    "name": "Rate limits and user limits - Hyperliquid Docs - GitBook",
+    "snippet": "Apr 28, 2026 — Rate limits and user limits ... The following rate limits apply per IP address: REST requests share an aggregated weight limit of 1200 per minute. Read more",
+    "host_name": "hyperliquid.gitbook.io",
+    "rank": 0,
+    "date": "Apr 28, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.hyperliquid.xyz",
+    "name": "Hyperliquid API Wallets",
+    "snippet": "API wallets (also known as agent wallets ) can perform actions on behalf of an account without having withdrawal permissions. The account's public address ... Read more",
+    "host_name": "app.hyperliquid.xyz",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "nomeida/hyperliquid: Simple and easy way to access the",
+    "snippet": "If you are using API Agent wallets everything works as normal but you need to add your actual account's wallet address in the Hyperliquid object field ' ...",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.privy.io",
+    "name": "Agent wallets",
+    "snippet": "Learn how to use agent wallets (API wallets ) to build secure, scalable trading systems on Hyperliquid with Privy. Before continuing with this guide, make sure ... Read more",
+    "host_name": "docs.privy.io",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

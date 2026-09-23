@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://metamask.io",
+    "name": "A guide to perpetual futures funding mechanics and timing",
+    "snippet": "May 14, 2026 — Most platforms settle funding every eight hours , though some use four- or twelve-hour intervals. How do funding rates affect long-term position ... Read more",
+    "host_name": "metamask.io",
+    "rank": 0,
+    "date": "May 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.extended.exchange",
+    "name": "Funding Payments",
+    "snippet": "Aug 25, 2026 — At Extended, funding payments are charged every hour … the funding rate realization period is 8 hours . The interest rate component is set at 0. ...",
+    "host_name": "docs.extended.exchange",
+    "rank": 1,
+    "date": "Aug 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coinbase.com",
+    "name": "Understanding Funding Rates in Perpetual Futures and",
+    "snippet": "The funding rate is a fee exchanged periodically. Funding rates vary based on the asset and the exchange , but they are typically calculated using the interest  ...",
+    "host_name": "www.coinbase.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bitnomial.com",
+    "name": "Funding Rates",
+    "snippet": "Funding rates are calculated and applied at 8-hour intervals (00:00, 08:00, and 16:00 UTC). A positive funding rate means long position holders pay short ... Read more",
+    "host_name": "bitnomial.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

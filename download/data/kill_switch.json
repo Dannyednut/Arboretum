@@ -1,0 +1,22 @@
+{
+ "ts": "2026-09-21T04:53:32Z",
+ "halt": false,
+ "sources": {
+  "floor_param_change": {
+   "hit": false,
+   "detail": "0 events/24h"
+  },
+  "tripwire_depth_3x24h": {
+   "hit": false,
+   "detail": "0 held TW4 fails/24h (threshold 3)"
+  },
+  "sharpe_native_disagreement": {
+   "hit": false,
+   "detail": "gap 0.086 vs baseline median 0.150"
+  },
+  "drift_over_15x": {
+   "hit": false,
+   "detail": "0 planned samples/24h > 1.5x (immediate class excluded)"
+  }
+ }
+}

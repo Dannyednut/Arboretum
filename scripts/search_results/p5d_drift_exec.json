@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://solana.com",
+    "name": "Drift Hello World - Solana Template",
+    "snippet": "Step-by-Step Tutorial · 1) Configure a Devnet RPC Endpoint · 2) Fund Your Wallet (Devnet) · 3) Initialize a Drift User Account · 4) Deposit SOL Collateral · 5) Open ... Read more",
+    "host_name": "solana.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cryptoskills.dev",
+    "name": "drift — DeFi",
+    "snippet": "A comprehensive guide for building Solana applications with the Drift Protocol SDK - the leading perpetual futures and spot trading protocol on Solana .",
+    "host_name": "cryptoskills.dev",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.drift.trade",
+    "name": "Introducing Swift Protocol: A New Trading Standard for",
+    "snippet": "Mar 13, 2025 — Drift introduces a new trading standard for perpetuals and spot markets to Solana. On-chain trading execution just got faster.",
+    "host_name": "www.drift.trade",
+    "rank": 2,
+    "date": "Mar 13, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "README.md - Drift Protocol v2",
+    "snippet": "The below is a light overview of using Solana and Drift's typescript sdk . Generate a keypair solana -keygen new",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

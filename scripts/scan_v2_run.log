@@ -1,0 +1,101 @@
+Aster symbol map: 542 trading symbols
+E2 universe (Aster STOCK/ETF/Commodity/RWA): 121 bases
+Candidates: 158 coins (E1 cohort 58, +E2 112, +top-diff/majors to final), venues/cap applied
+  fetched 20/158 coins
+  fetched 40/158 coins
+  fetched 60/158 coins
+  fetched 80/158 coins
+  fetched 100/158 coins
+  fetched 120/158 coins
+  fetched 140/158 coins
+History cached for 158 coins; fetch failures: {}
+
+Saved 1455 pairs -> /home/z/my-project/download/data/funding_persistence_90d_v3.csv (identity-skipped 13, short-window 23)
+
+=== TOP 25 ALL PAIRS (by net APR @30d hold) ===
+LA             bitget  ->aster    APR90  154.4%  30d   47.1%  pos  81%  p3bp  75%  ep  18d  slope  +0.0  net30  152.0%
+LA             okx     ->aster    APR90  154.0%  30d   46.5%  pos  84%  p3bp  75%  ep   3d  slope  +0.0  net30  151.8%
+XMR            dydx    ->bybit    APR90  107.2%  30d   98.4%  pos  98%  p3bp  95%  ep  33d  slope  -0.0  net30  104.6%
+XMR            dydx    ->binance  APR90  106.9%  30d   97.7%  pos  98%  p3bp  95%  ep  33d  slope  -0.0  net30  104.5%
+XMR            dydx    ->bitget   APR90  107.0%  30d   98.1%  pos  98%  p3bp  95%  ep  33d  slope  -0.0  net30  104.3%
+PROM           binance ->aster    APR90  104.3%  30d  207.8%  pos  74%  p3bp  53%  ep   9d  slope  +0.0  net30  102.1%
+PROM           bitget  ->aster    APR90  103.7%  30d  208.3%  pos  71%  p3bp  54%  ep   7d  slope  +0.0  net30  101.3%
+XMR            dydx    ->aster    APR90   87.2%  30d   70.5%  pos  93%  p3bp  79%  ep   6d  slope  +0.1  net30   85.0%
+BTW            aster   ->bitget   APR90   84.9%  30d   86.6%  pos  97%  p3bp  94%  ep  20d  slope  +0.1  net30   82.5%
+BTW            aster   ->bybit    APR90   74.6%  30d   70.0%  pos  97%  p3bp  92%  ep  66d  slope  +0.1  net30   72.3%
+LAB            aster   ->bybit    APR90   64.9%  30d   11.4%  pos  56%  p3bp  37%  ep   2d  slope  -0.0  net30   62.6%
+龙虾             aster   ->binance  APR90   59.4%  30d  110.5%  pos 100%  p3bp  87%  ep  91d  slope  +0.0  net30   57.2%
+LAB            binance ->bybit    APR90   53.6%  30d    6.6%  pos  45%  p3bp  27%  ep   2d  slope  +0.0  net30   51.1%
+LAB            bitget  ->bybit    APR90   51.9%  30d   -6.7%  pos  37%  p3bp  24%  ep   1d  slope  +0.0  net30   49.1%
+MAGMA          aster   ->bitget   APR90   49.2%  30d   58.4%  pos  99%  p3bp  91%  ep  57d  slope  +0.0  net30   46.7%
+MAGMA          aster   ->bybit    APR90   47.3%  30d   55.4%  pos 100%  p3bp  93%  ep  91d  slope  +0.0  net30   45.0%
+MAGMA          aster   ->binance  APR90   47.0%  30d   52.0%  pos 100%  p3bp  92%  ep  91d  slope  -0.0  net30   44.8%
+CASHCAT        aster   ->bybit    APR90   43.3%  30d   41.8%  pos  79%  p3bp  75%  ep   7d  slope  +0.0  net30   41.0%
+龙虾             aster   ->bitget   APR90   42.2%  30d   94.9%  pos  76%  p3bp  63%  ep   4d  slope  -0.0  net30   39.8%
+ONDO           dydx    ->binance  APR90   39.9%  30d   45.7%  pos  93%  p3bp  65%  ep  14d  slope  -0.0  net30   37.4%
+ONDO           dydx    ->bybit    APR90   39.7%  30d   45.3%  pos  88%  p3bp  67%  ep  13d  slope  -0.0  net30   37.1%
+ONDO           dydx    ->aster    APR90   38.6%  30d   44.2%  pos  86%  p3bp  63%  ep   6d  slope  -0.0  net30   36.4%
+ONDO           dydx    ->bitget   APR90   38.7%  30d   44.4%  pos  88%  p3bp  63%  ep  13d  slope  -0.0  net30   36.0%
+POWER          aster   ->binance  APR90   38.1%  30d   43.6%  pos 100%  p3bp  88%  ep  91d  slope  +0.0  net30   36.0%
+POWER          aster   ->bitget   APR90   38.2%  30d   41.3%  pos  96%  p3bp  87%  ep  28d  slope  -0.0  net30   35.8%
+
+=== E1: ASTER HOURLY-COHORT SHORTS (163 pairs) ===
+龙虾             aster   ->binance  APR90   59.4%  30d  110.5%  pos 100%  p3bp  87%  ep  91d  slope  +0.0  net30   57.2%
+龙虾             aster   ->bitget   APR90   42.2%  30d   94.9%  pos  76%  p3bp  63%  ep   4d  slope  -0.0  net30   39.8%
+BTW            aster   ->bitget   APR90   84.9%  30d   86.6%  pos  97%  p3bp  94%  ep  20d  slope  +0.1  net30   82.5%
+BTW            aster   ->bybit    APR90   74.6%  30d   70.0%  pos  97%  p3bp  92%  ep  66d  slope  +0.1  net30   72.3%
+MAGMA          aster   ->bitget   APR90   49.2%  30d   58.4%  pos  99%  p3bp  91%  ep  57d  slope  +0.0  net30   46.7%
+MAGMA          aster   ->bybit    APR90   47.3%  30d   55.4%  pos 100%  p3bp  93%  ep  91d  slope  +0.0  net30   45.0%
+MAGMA          aster   ->binance  APR90   47.0%  30d   52.0%  pos 100%  p3bp  92%  ep  91d  slope  -0.0  net30   44.8%
+CYS            aster   ->bitget   APR90   37.1%  30d   49.9%  pos  95%  p3bp  84%  ep   6d  slope  +0.0  net30   34.6%
+UAI            aster   ->binance  APR90   27.1%  30d   48.7%  pos 100%  p3bp  56%  ep  91d  slope  +0.0  net30   24.9%
+UAI            aster   ->bitget   APR90   27.8%  30d   48.4%  pos 100%  p3bp  57%  ep  91d  slope  +0.0  net30   25.4%
+UAI            aster   ->bybit    APR90   26.3%  30d   48.1%  pos  98%  p3bp  54%  ep  64d  slope  +0.0  net30   24.0%
+CYS            aster   ->bybit    APR90   35.9%  30d   47.2%  pos  93%  p3bp  82%  ep  12d  slope  +0.0  net30   33.5%
+POWER          aster   ->bybit    APR90   37.6%  30d   45.1%  pos  99%  p3bp  82%  ep  89d  slope  +0.0  net30   35.3%
+CYS            aster   ->binance  APR90   34.6%  30d   44.1%  pos  95%  p3bp  84%  ep   6d  slope  +0.0  net30   32.4%
+POWER          aster   ->binance  APR90   38.1%  30d   43.6%  pos 100%  p3bp  88%  ep  91d  slope  +0.0  net30   36.0%
+CASHCAT        aster   ->bybit    APR90   43.3%  30d   41.8%  pos  79%  p3bp  75%  ep   7d  slope  +0.0  net30   41.0%
+POWER          aster   ->bitget   APR90   38.2%  30d   41.3%  pos  96%  p3bp  87%  ep  28d  slope  -0.0  net30   35.8%
+AEON           aster   ->okx      APR90   33.1%  30d   39.8%  pos  76%  p3bp  76%  ep   2d  slope  -0.0  net30   30.9%
+AEON           aster   ->bitget   APR90   27.2%  30d   35.2%  pos  76%  p3bp  73%  ep   2d  slope  -0.0  net30   24.7%
+RIVER          aster   ->bitget   APR90   24.6%  30d   32.2%  pos 100%  p3bp  62%  ep  91d  slope  -0.0  net30   22.2%
+
+E1 DISTRIBUTIONS (per-pair, % units):
+  apr_90d %: p10 -9.0  p25 -2.2  med 6.1  p75 12.5  p90 28.2
+  apr_30d %: p10 -13.2  p25 2.6  med 8.3  p75 13.1  p90 41.3
+  pos_day_frac %: p10 37.4  p25 61.5  med 83.9  p75 98.9  p90 100.0
+  persist>=3bps %: p10 0.0  p25 2.2  med 9.9  p75 46.5  p90 73.0
+  median episode days: p10 2.0  p25 3.0  med 7.0  p75 57.0  p90 91.0
+  episode slope APRpts/day: p10 -0.0  p25 -0.0  med 0.0  p75 0.0  p90 0.0
+
+Aster hourly floor stability (n=60 coins): median frac@floor 60%, coins >=90% at floor: 6, coins >=50%: 33
+
+=== E2: STOCK/RWA PERP CROSS-VENUE (300 pairs) ===
+BZ             bybit   ->bitget   APR90    2.4%  30d    6.1%  pos  47%  p3bp   9%  ep   2d  slope  -0.0  net30   -0.4%  ovl 90d  trend7   +0.0
+NATGAS         bitget  ->aster    APR90   -0.5%  30d    3.9%  pos  35%  p3bp   2%  ep   2d  slope  +0.0  net30   -3.0%  ovl 90d  trend7   +0.0
+NATGAS         bitget  ->binance  APR90   -0.7%  30d    3.8%  pos  38%  p3bp   2%  ep   2d  slope  +0.0  net30   -3.4%  ovl 90d  trend7   +0.0
+CL             aster   ->bitget   APR90    2.0%  30d    3.7%  pos  40%  p3bp  11%  ep   2d  slope  +0.0  net30   -0.4%  ovl 90d  trend7   -0.0
+SKHYNIX        bitget  ->bybit    APR90    5.4%  30d    2.5%  pos  53%  p3bp  29%  ep   2d  slope  -0.0  net30    2.6%  ovl 89d  trend7   +0.0
+XAG            bitget  ->dydx     APR90    1.4%  30d    1.4%  pos  67%  p3bp   0%  ep   3d  slope  +0.0  net30   -1.2%  ovl 42d  trend7   +0.0
+RKLB           bybit   ->aster    APR90    1.0%  30d    1.2%  pos  47%  p3bp   0%  ep   2d  slope  +0.0  net30   -1.3%  ovl 90d  trend7   +0.0
+MINIMAX        aster   ->bybit    APR90    2.0%  30d    1.2%  pos  58%  p3bp   6%  ep   1d  slope  +0.0  net30   -0.3%  ovl 35d  trend7   -0.0
+AAOI           bitget  ->bybit    APR90   -0.1%  30d    1.2%  pos  28%  p3bp   0%  ep   1d  slope  +0.0  net30   -2.9%  ovl 84d  trend7   +0.0
+MINIMAX        bitget  ->bybit    APR90    1.3%  30d    1.2%  pos  53%  p3bp   3%  ep   2d  slope  +0.0  net30   -1.5%  ovl 35d  trend7   -0.0
+XAU            bitget  ->aster    APR90    1.3%  30d    1.1%  pos  49%  p3bp   0%  ep   3d  slope  -0.0  net30   -1.2%  ovl 90d  trend7   -0.0
+PAXG           aster   ->binance  APR90    0.7%  30d    1.1%  pos  80%  p3bp   0%  ep   4d  slope  +0.0  net30   -1.5%  ovl 90d  trend7   +0.0
+CL             bybit   ->binance  APR90    2.5%  30d    1.0%  pos  65%  p3bp   8%  ep   3d  slope  -0.0  net30   -0.0%  ovl 90d  trend7   -0.0
+XAG            binance ->dydx     APR90    0.9%  30d    1.0%  pos  56%  p3bp   0%  ep   2d  slope  +0.0  net30   -1.6%  ovl 42d  trend7   +0.0
+BZ             aster   ->binance  APR90    1.0%  30d    1.0%  pos  60%  p3bp   1%  ep   3d  slope  +0.0  net30   -1.1%  ovl 90d  trend7   -0.0
+XAG            bybit   ->dydx     APR90    0.7%  30d    1.0%  pos  40%  p3bp   0%  ep   3d  slope  -0.0  net30   -1.9%  ovl 42d  trend7   +0.0
+MINIMAX        binance ->bybit    APR90    1.6%  30d    1.0%  pos  56%  p3bp   6%  ep   1d  slope  +0.0  net30   -0.9%  ovl 35d  trend7   -0.0
+AAOI           binance ->bybit    APR90    0.7%  30d    1.0%  pos  55%  p3bp   0%  ep   2d  slope  +0.0  net30   -1.8%  ovl 84d  trend7   -0.0
+CL             bybit   ->bitget   APR90    1.3%  30d    0.9%  pos  59%  p3bp   4%  ep   2d  slope  -0.0  net30   -1.5%  ovl 90d  trend7   -0.0
+SAMSUNG        bitget  ->aster    APR90   -1.7%  30d    0.8%  pos  40%  p3bp  10%  ep   1d  slope  +0.0  net30   -4.1%  ovl 90d  trend7   +0.0
+
+E2 DISTRIBUTIONS (per-pair, % units):
+  apr_full %: p10 -0.7  p25 -0.3  med 0.0  p75 0.4  p90 0.7
+  apr_30d %: p10 -0.8  p25 -0.4  med -0.1  p75 0.2  p90 0.7
+  overlap days: p10 49.7  p25 89.4  med 89.7  p75 89.7  p90 89.9
+  median episode days: p10 1.0  p25 1.0  med 1.0  p75 2.0  p90 2.0
+  trend7 APRpts/day: p10 -0.0  p25 -0.0  med -0.0  p75 0.0  p90 0.0

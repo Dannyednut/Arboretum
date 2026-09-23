@@ -1,0 +1,6 @@
+2026-06-19 07:20:56,882 INFO     YieldHarvester Starting Multi-Exchange Yield Harvester; dry_run=True
+2026-06-19 07:21:02,602 INFO     YieldHarvester Found Alpha Opportunity! futures_carry_OKX_BTC_2026-06-19T08:00:00+00:00 with 1122.67% Net APR
+2026-06-19 07:21:02,605 INFO     ExecutionRouter Router executing futures_carry_OKX_BTC_2026-06-19T08:00:00+00:00 legs concurrently...
+2026-06-19 07:21:02,607 INFO     CcxtAdapter [DRY RUN] Would execute buy on okx for BTC/USDT size 100.0 px 0.0
+2026-06-19 07:21:02,609 INFO     CcxtAdapter [DRY RUN] Would execute sell on okx for BTC/USDT-2026-06-19T08:00:00+00:00 size 100.0 px 0.0
+2026-06-19 07:21:02,613 INFO     YieldHarvester Successfully Harvested futures_carry_OKX_BTC_2026-06-19T08:00:00+00:00

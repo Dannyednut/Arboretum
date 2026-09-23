@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.kucoin.com",
+    "name": "Get Actual Fee - Futures - KUCOIN API",
+    "snippet": "Jan 23, 2026 — This interface is for the trading pair's actual futures fee rate . The fee rate of your sub-account is the same as that of the master account.",
+    "host_name": "www.kucoin.com",
+    "rank": 0,
+    "date": "Jan 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://python-kucoin.readthedocs.io",
+    "name": "Kucoin API — python-kucoin 0.2.0 documentation",
+    "snippet": "Nov 28, 2024 — Get the funding rate for a symbol . https://www.kucoin.com/docs/rest/futures-trading/funding-fees/get-current-funding-rate. Parameters: symbol ... Read more",
+    "host_name": "python-kucoin.readthedocs.io",
+    "rank": 1,
+    "date": "Nov 28, 2024",
+    "favicon": ""
+  }
+]

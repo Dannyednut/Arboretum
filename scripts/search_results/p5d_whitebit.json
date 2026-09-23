@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.whitebit.com",
+    "name": "Available futures markets list",
+    "snippet": "Each entry includes the predicted next funding rate , settlement timestamps, and maximum allowed position sizes per leverage level. The mark_price field reports ... Read more",
+    "host_name": "docs.whitebit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.coindesk.com",
+    "name": "Futures | Funding Rate Instrument Latest Tick",
+    "snippet": "This endpoint delivers real-time updates on funding rates for various cryptocurrency futures instruments across selected exchanges.",
+    "host_name": "developers.coindesk.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://help.whitebit.com",
+    "name": "Funding Rate calculation on WhiteBIT Futures market",
+    "snippet": "The funding rate is calculated based on several market indicators and is adjusted to ensure fairness and stability. Below you can find the calculation formula ... Read more",
+    "host_name": "help.whitebit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coinapi.io",
+    "name": "How to Access Historical Funding Rates Across Top Crypto",
+    "snippet": "Nov 6, 2025 — Quick Answer. You can access historical funding rate data through CoinAPI's Market Data REST API (via the metrics endpoint). Read more",
+    "host_name": "www.coinapi.io",
+    "rank": 3,
+    "date": "Nov 6, 2025",
+    "favicon": ""
+  }
+]

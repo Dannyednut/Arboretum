@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://api-docs.toobit.com",
+    "name": "Market Data Endpoints",
+    "snippet": "Jun 9, 2026 — The rateLimits field in the response will be removed in future iterations. A new endpoint will be provided to retrieve rate limit information. Read more",
+    "host_name": "api-docs.toobit.com",
+    "rank": 0,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.toobit.com",
+    "name": "How Funding Fees Are Calculated in Futures Trading",
+    "snippet": "Apr 1, 2026 — Learn the mechanics behind futures funding fees on Toobit , including calculation formulas, payment intervals, and their impact on positions.",
+    "host_name": "www.toobit.com",
+    "rank": 1,
+    "date": "Apr 1, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bitdegree.org",
+    "name": "Learn How to Use Toobit Futures, API, Convert, and DEX+",
+    "snippet": "May 26, 2026 — Don't forget to check the Toobit funding rate while your position is open. Depending on the rate at the time, you might pay a fee or receive one ... Read more",
+    "host_name": "www.bitdegree.org",
+    "rank": 2,
+    "date": "May 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "toobit-api-demo",
+    "snippet": "A comprehensive Python SDK for TooBit cryptocurrency exchange API , supporting both spot and futures trading. ⚠️ Disclaimer: This SDK is for reference only. Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

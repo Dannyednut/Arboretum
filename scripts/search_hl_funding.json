@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://arbitragescanner.io/blog/hyperliquid-binance-funding-rate-arbitrage",
+    "name": "Funding Rate Arbitrage: Hyperliquid vs Binance Guide",
+    "snippet": "Jun 13, 2026 · Hyperliquid has a 4% hourly cap, while Binance, Bybit and OKX and still others have a settlement cadence of eight hours. Timing is the entire ...",
+    "host_name": "arbitragescanner.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://eco.com/support/en/articles/15082536-hyperliquid-funding-rate-how-it-works-track-profit",
+    "name": "Hyperliquid Funding Rate: How It Works, Track, Profit | Support - Eco",
+    "snippet": "Jul 20, 2026 · This guide walks through what funding is, Hyperliquid uses an hourly funding cadence rather than the 8-hour cadence common on Binance and Bybit.",
+    "host_name": "eco.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dwellir.com/guides/hyperliquid-funding-rates",
+    "name": "Hyperliquid Funding Rates | Dwellir Guides",
+    "snippet": "A trader holding a $250,000 long BTC perp on Hyperliquid while funding sits at 0.0025% per hour pays about $150 per day to the shorts on the other side.",
+    "host_name": "www.dwellir.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperliquidguide.com/tools/funding-rates",
+    "name": "Hyperliquid Funding Rates - Live Perp Rates & Cross-Exchange",
+    "snippet": "Hyperliquid settles funding every hour. Rates shown are the most recent hourly rate. The “Predicted” column shows the estimated next funding settlement.",
+    "host_name": "hyperliquidguide.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperx.trade/hyperliquid/blog/hyperliquid-funding-rate-mechanics",
+    "name": "How Funding Rates Are Calculated on Hyperliquid - HyperX Trade",
+    "snippet": "Jun 1, 2025 · Hyperliquid settles funding every hour. Binance and Bybit settle every 8 hours. A 0.005% hourly rate equals a 0.04% 8-hour rate on Binance. . ...",
+    "host_name": "hyperx.trade",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.chainstack.com/docs/hyperliquid-funding-rate-arbitrage",
+    "name": "Implementing spot-perp funding rate arbitrage - Chainstack Docs",
+    "snippet": "Apr 12, 2026 · Funding rate arbitrage requires rates above 0.11%/hour (with maker orders) to overcome fees. The tactical approach—entering 10-15 minutes before ...",
+    "host_name": "docs.chainstack.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.hyperliquid.xyz/fundingComparison",
+    "name": "Funding Comparison - Hyperliquid",
+    "snippet": "Trade crypto, commodities, indices, and more on Hyperliquid: 300+ perpetual and spot markets, fully onchain, non-custodial, 24/7.",
+    "host_name": "app.hyperliquid.xyz",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/defi/comments/1m0c7ls/is_anyone_here_taking_advantage_of_funding_rate",
+    "name": "Is anyone here taking advantage of funding rate arbitrage between",
+    "snippet": "Jul 15, 2025 · The idea is simple: if the funding rate for the same token is significantly different between two platforms — say +0.02% on one and -0.03% on ...",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

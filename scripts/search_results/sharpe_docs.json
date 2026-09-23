@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.sharpe.ai",
+    "name": "Sharpe Terminal: AI-Driven Crypto Trading Intelligence",
+    "snippet": "docs REST API 44 versioned endpoints with one auth header, request IDs, and rate-limit headers on every response. Free endpoints need no key at all.",
+    "host_name": "www.sharpe.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sharpe.ai/docs/free-api",
+    "name": "Free API API Reference | Sharpe Terminal Docs",
+    "snippet": "Free API Sharpe Terminal exposes public REST endpoints at https://www.sharpe.ai/api/* that return JSON data with no API key required.",
+    "host_name": "www.sharpe.ai",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sharpe.ai/docs",
+    "name": "Sharpe API Documentation",
+    "snippet": "Sharpe API docs for crypto derivatives, DEX flow, funding, futures, arbitrage, heatmaps, correlations, and agent-ready market data.",
+    "host_name": "www.sharpe.ai",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sharpe.ai/docs/quickstart",
+    "name": "Quickstart API Reference | Sharpe Terminal Docs",
+    "snippet": "This guide will get you up and running with the Sharpe API . You will make your first request, understand the response envelope format, and learn how errors are ...",
+    "host_name": "www.sharpe.ai",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sharpe.ai/contact",
+    "name": "Contact Sharpe Terminal: Support, Partnerships & API",
+    "snippet": "Contact the Sharpe Terminal team for product support, API access, partnerships, or listings. Reach us on email, Telegram, X, or LinkedIn.",
+    "host_name": "www.sharpe.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://coinmarketcap.com/currencies/sharpe-ai",
+    "name": "Sharpe AI price today, SAI to USD live",
+    "snippet": "Aug 31, 2024 — The live Sharpe AI price today is $0.001032 USD with a 24-hour trading volume of $40530.37 USD. We update our SAI to USD price in real-time.",
+    "host_name": "coinmarketcap.com",
+    "rank": 5,
+    "date": "Aug 31, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sharpe.ai/docs/cli",
+    "name": "CLI API Reference | Sharpe Terminal Docs",
+    "snippet": "Install and use the Sharpe CLI to query crypto derivatives, funding rates, arbitrage opportunities, and market data from your terminal.",
+    "host_name": "www.sharpe.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.coingecko.com/en/coins/sharpe-ai",
+    "name": "Sharpe AI Price Chart (SAI)",
+    "snippet": "Price of Sharpe AI (SAI) today is $0.001032 with a 24-hour trading volume of $47816.37. Track Sharpe AI's live price, market cap, news, and more on ...",
+    "host_name": "www.coingecko.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

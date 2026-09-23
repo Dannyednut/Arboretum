@@ -1,0 +1,1003 @@
+
+===== tick 1 2026-09-04T10:22:28Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.315, "mid_long": 555.795, "dev_pct": 2.245, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2464, "median60d_apr": 0.3384, "frac_of_median": -0.728, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 428.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.448355, "mid_long": 0.4491605, "dev_pct": 0.179, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2073, "median60d_apr": 0.6496, "frac_of_median": 0.319, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9565, "mid_long": 11.9475, "dev_pct": 0.075, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1029, "median60d_apr": 0.0332, "frac_of_median": 3.103, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 27.7s active=2]
+
+===== tick 2 2026-09-04T10:23:15Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.355, "mid_long": 555.09, "dev_pct": 2.114, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2492, "median60d_apr": 0.3384, "frac_of_median": -0.736, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 91.0, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 76
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.448355, "mid_long": 0.4490885, "dev_pct": 0.163, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2006, "median60d_apr": 0.6496, "frac_of_median": 0.309, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9505, "mid_long": 11.9435, "dev_pct": 0.059, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1039, "median60d_apr": 0.0332, "frac_of_median": 3.133, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.9s active=2]
+
+===== tick 3 2026-09-04T10:24:02Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.35, "mid_long": 557.075, "dev_pct": 2.464, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2652, "median60d_apr": 0.3384, "frac_of_median": -0.784, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 64.2, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 53
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.449345, "mid_long": 0.450033, "dev_pct": 0.153, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1998, "median60d_apr": 0.6496, "frac_of_median": 0.308, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9415, "mid_long": 11.9365, "dev_pct": 0.042, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1062, "median60d_apr": 0.0332, "frac_of_median": 3.2, "gate_frac": 0.4, "model": "sharpe_ffill_
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.2, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.4s active=2]
+
+===== tick 4 2026-09-04T10:24:48Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 558.73, "dev_pct": 2.755, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2652, "median60d_apr": 0.3384, "frac_of_median": -0.784, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 126.7, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.449805, "mid_long": 0.4505645, "dev_pct": 0.169, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1962, "median60d_apr": 0.6496, "frac_of_median": 0.302, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.4, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9435, "mid_long": 11.9365, "dev_pct": 0.059, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1062, "median60d_apr": 0.0332, "frac_of_median": 3.2, "gate_frac": 0.4, "model": "sharpe_ffill_
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.9s active=2]
+
+===== tick 5 2026-09-04T10:25:34Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 558.275, "dev_pct": 2.676, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2652, "median60d_apr": 0.3384, "frac_of_median": -0.784, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 130.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450165, "mid_long": 0.4510985, "dev_pct": 0.207, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1962, "median60d_apr": 0.6496, "frac_of_median": 0.302, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 8.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 2.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.953, "mid_long": 11.9515, "dev_pct": 0.013, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1057, "median60d_apr": 0.0332, "frac_of_median": 3.187, "gate_frac": 0.4, "model": "sharpe_ffil
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 2.0, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.8
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.0s active=2]
+
+===== tick 6 2026-09-04T10:26:20Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 557.8, "dev_pct": 2.593, "margining": ["linear_usd", "linear_usdt"], "gate_
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.283, "median60d_apr": 0.3384, "frac_of_median": -0.837, "gate_frac": 0.4, "model": "sharpe_ffi
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 123.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45027, "mid_long": 0.451063, "dev_pct": 0.176, "margining": ["linear_usdt", "linear_usdt"], "g
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1953, "median60d_apr": 0.6496, "frac_of_median": 0.301, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.4, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 5.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9465, "mid_long": 11.9385, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1063, "median60d_apr": 0.0332, "frac_of_median": 3.206, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.6s active=2]
+
+===== tick 7 2026-09-04T10:27:06Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.35, "mid_long": 558.94, "dev_pct": 2.789, "margining": ["linear_usd", "linear_usdt"], "gate_
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2904, "median60d_apr": 0.3384, "frac_of_median": -0.858, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 122.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.44981, "mid_long": 0.4504015, "dev_pct": 0.131, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2031, "median60d_apr": 0.6496, "frac_of_median": 0.313, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 8.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9495, "mid_long": 11.9415, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1055, "median60d_apr": 0.0332, "frac_of_median": 3.181, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.5, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.9s active=2]
+
+===== tick 8 2026-09-04T10:27:52Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.37, "mid_long": 559.045, "dev_pct": 2.804, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2904, "median60d_apr": 0.3384, "frac_of_median": -0.858, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 150.4, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450115, "mid_long": 0.4510865, "dev_pct": 0.215, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2042, "median60d_apr": 0.6496, "frac_of_median": 0.314, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 12.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9575, "mid_long": 11.9505, "dev_pct": 0.059, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1047, "median60d_apr": 0.0332, "frac_of_median": 3.156, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.6s active=2]
+
+===== tick 9 2026-09-04T10:28:39Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 558.955, "dev_pct": 2.795, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.2904, "median60d_apr": 0.3384, "frac_of_median": -0.858, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 414.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.449785, "mid_long": 0.450546, "dev_pct": 0.169, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2042, "median60d_apr": 0.6496, "frac_of_median": 0.314, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.6, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 9.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.961, "mid_long": 11.9555, "dev_pct": 0.046, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1047, "median60d_apr": 0.0332, "frac_of_median": 3.156, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.5, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.5s active=2]
+
+===== tick 10 2026-09-04T10:29:24Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 559.265, "dev_pct": 2.847, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3028, "median60d_apr": 0.3384, "frac_of_median": -0.895, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 180.6, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.448865, "mid_long": 0.4496045, "dev_pct": 0.164, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.2025, "median60d_apr": 0.6496, "frac_of_median": 0.312, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 8.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 8.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9715, "mid_long": 11.9635, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1044, "median60d_apr": 0.0332, "frac_of_median": 3.146, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.8, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.4s active=2]
+
+===== tick 11 2026-09-04T10:30:11Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 559.72, "dev_pct": 2.926, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3122, "median60d_apr": 0.3384, "frac_of_median": -0.923, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 180.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.44924, "mid_long": 0.4498995, "dev_pct": 0.147, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1891, "median60d_apr": 0.6496, "frac_of_median": 0.291, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 10.1, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9635, "mid_long": 11.9575, "dev_pct": 0.05, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1022, "median60d_apr": 0.0332, "frac_of_median": 3.08, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.6s active=2]
+
+===== tick 12 2026-09-04T10:30:56Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 560.615, "dev_pct": 3.081, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.351, "median60d_apr": 0.3384, "frac_of_median": -1.037, "gate_frac": 0.4, "model": "sharpe_ffi
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 180.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.451255, "mid_long": 0.452282, "dev_pct": 0.227, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1739, "median60d_apr": 0.6496, "frac_of_median": 0.268, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 14.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 1
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9595, "mid_long": 11.9525, "dev_pct": 0.059, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1022, "median60d_apr": 0.0332, "frac_of_median": 3.08, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.2s active=2]
+
+===== tick 13 2026-09-04T10:31:42Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 560.33, "dev_pct": 3.033, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.351, "median60d_apr": 0.3384, "frac_of_median": -1.037, "gate_frac": 0.4, "model": "sharpe_ffi
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 319.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45039, "mid_long": 0.4513165, "dev_pct": 0.205, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1739, "median60d_apr": 0.6496, "frac_of_median": 0.268, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 5.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9775, "mid_long": 11.9715, "dev_pct": 0.05, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1016, "median60d_apr": 0.0332, "frac_of_median": 3.061, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.6s active=2]
+
+===== tick 14 2026-09-04T10:32:29Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 559.52, "dev_pct": 2.893, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3502, "median60d_apr": 0.3384, "frac_of_median": -1.035, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 388.7, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 1
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450555, "mid_long": 0.4516055, "dev_pct": 0.233, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1679, "median60d_apr": 0.6496, "frac_of_median": 0.258, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 10.1, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 9
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9935, "mid_long": 11.9855, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1009, "median60d_apr": 0.0332, "frac_of_median": 3.043, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.2, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 27.1s active=2]
+
+===== tick 15 2026-09-04T10:33:16Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 557.415, "dev_pct": 2.524, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3567, "median60d_apr": 0.3384, "frac_of_median": -1.054, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 388.7, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 1
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.449805, "mid_long": 0.4506365, "dev_pct": 0.185, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1592, "median60d_apr": 0.6496, "frac_of_median": 0.245, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9915, "mid_long": 11.9855, "dev_pct": 0.05, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1007, "median60d_apr": 0.0332, "frac_of_median": 3.036, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 27.0s active=2]
+
+===== tick 16 2026-09-04T10:34:03Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 557.785, "dev_pct": 2.589, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3556, "median60d_apr": 0.3384, "frac_of_median": -1.051, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 130.6, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45002, "mid_long": 0.450895, "dev_pct": 0.194, "margining": ["linear_usdt", "linear_usdt"], "g
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1519, "median60d_apr": 0.6496, "frac_of_median": 0.234, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 8.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 8.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9835, "mid_long": 11.9755, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1002, "median60d_apr": 0.0332, "frac_of_median": 3.02, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.7s active=2]
+
+===== tick 17 2026-09-04T10:34:49Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.36, "mid_long": 557.245, "dev_pct": 2.492, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3549, "median60d_apr": 0.3384, "frac_of_median": -1.049, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 319.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450615, "mid_long": 0.451708, "dev_pct": 0.242, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1465, "median60d_apr": 0.6496, "frac_of_median": 0.226, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.4, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 5.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9835, "mid_long": 11.9785, "dev_pct": 0.042, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1002, "median60d_apr": 0.0332, "frac_of_median": 3.02, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 27.1s active=2]
+
+===== tick 18 2026-09-04T10:35:36Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.35, "mid_long": 556.855, "dev_pct": 2.425, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3549, "median60d_apr": 0.3384, "frac_of_median": -1.049, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 145.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.44945, "mid_long": 0.450355, "dev_pct": 0.201, "margining": ["linear_usdt", "linear_usdt"], "g
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1465, "median60d_apr": 0.6496, "frac_of_median": 0.226, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 8.5, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 8.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9955, "mid_long": 11.9895, "dev_pct": 0.05, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0998, "median60d_apr": 0.0332, "frac_of_median": 3.01, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 28.2s active=2]
+
+===== tick 19 2026-09-04T10:36:24Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.34, "mid_long": 554.545, "dev_pct": 2.021, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3604, "median60d_apr": 0.3384, "frac_of_median": -1.065, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 104.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.449085, "mid_long": 0.4499765, "dev_pct": 0.198, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.152, "median60d_apr": 0.6496, "frac_of_median": 0.234, "gate_frac": 0.4, "model": "sharpe_ffill
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 11.9985, "mid_long": 11.9915, "dev_pct": 0.058, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0996, "median60d_apr": 0.0332, "frac_of_median": 3.002, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.2, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.6s active=2]
+
+===== tick 20 2026-09-04T10:37:11Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.34, "mid_long": 554.98, "dev_pct": 2.097, "margining": ["linear_usd", "linear_usdt"], "gate_
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3628, "median60d_apr": 0.3384, "frac_of_median": -1.072, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 105.6, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.4493, "mid_long": 0.450197, "dev_pct": 0.199, "margining": ["linear_usdt", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1531, "median60d_apr": 0.6496, "frac_of_median": 0.236, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.0, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0205, "mid_long": 12.0135, "dev_pct": 0.058, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0996, "median60d_apr": 0.0332, "frac_of_median": 3.002, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.5, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 27.2s active=2]
+
+===== tick 21 2026-09-04T10:37:58Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.335, "mid_long": 554.785, "dev_pct": 2.064, "margining": ["linear_usd", "linear_usdt"], "gat
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3724, "median60d_apr": 0.3384, "frac_of_median": -1.1, "gate_frac": 0.4, "model": "sharpe_ffil
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 299.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45, "mid_long": 0.450726, "dev_pct": 0.161, "margining": ["linear_usdt", "linear_usdt"], "gate
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1352, "median60d_apr": 0.6496, "frac_of_median": 0.208, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0265, "mid_long": 12.0195, "dev_pct": 0.058, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0995, "median60d_apr": 0.0332, "frac_of_median": 2.999, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.6s active=2]
+
+===== tick 22 2026-09-04T10:38:44Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.355, "mid_long": 554.66, "dev_pct": 2.038, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3724, "median60d_apr": 0.3384, "frac_of_median": -1.1, "gate_frac": 0.4, "model": "sharpe_ffil
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 319.0, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450145, "mid_long": 0.451315, "dev_pct": 0.259, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1352, "median60d_apr": 0.6496, "frac_of_median": 0.208, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 10.8, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 5
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.016, "mid_long": 12.0105, "dev_pct": 0.046, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0995, "median60d_apr": 0.0332, "frac_of_median": 2.999, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.3s active=2]
+
+===== tick 23 2026-09-04T10:39:30Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.345, "mid_long": 555.24, "dev_pct": 2.142, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3718, "median60d_apr": 0.3384, "frac_of_median": -1.099, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 300.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450575, "mid_long": 0.4516725, "dev_pct": 0.243, "margining": ["linear_usdt", "linear_usdt"], 
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1244, "median60d_apr": 0.6496, "frac_of_median": 0.191, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 5.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0295, "mid_long": 12.0225, "dev_pct": 0.058, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0992, "median60d_apr": 0.0332, "frac_of_median": 2.991, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.4, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.1s active=2]
+
+===== tick 24 2026-09-04T10:40:16Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.34, "mid_long": 555.265, "dev_pct": 2.148, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3781, "median60d_apr": 0.3384, "frac_of_median": -1.118, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 111.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45179, "mid_long": 0.452861, "dev_pct": 0.236, "margining": ["linear_usdt", "linear_usdt"], "g
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1069, "median60d_apr": 0.6496, "frac_of_median": 0.165, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 7.7, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 7.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0335, "mid_long": 12.0255, "dev_pct": 0.067, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.0994, "median60d_apr": 0.0332, "frac_of_median": 2.997, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.6, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.1s active=2]
+
+===== tick 25 2026-09-04T10:41:01Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.34, "mid_long": 556.855, "dev_pct": 2.427, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3888, "median60d_apr": 0.3384, "frac_of_median": -1.149, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 115.9, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 7
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.450555, "mid_long": 0.451476, "dev_pct": 0.204, "margining": ["linear_usdt", "linear_usdt"], "
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1101, "median60d_apr": 0.6496, "frac_of_median": 0.169, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.0, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0275, "mid_long": 12.0215, "dev_pct": 0.05, "margining": ["linear_usdc", "linear_usdt"], "gat
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1006, "median60d_apr": 0.0332, "frac_of_median": 3.034, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 1.8, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 26.8s active=2]
+
+===== tick 26 2026-09-04T10:41:48Z =====
+nado perp symbols: 79
+
+== ENTRY CHECK XMR dydx->binance $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 543.34, "mid_long": 553.905, "dev_pct": 1.907, "margining": ["linear_usd", "linear_usdt"], "gate
+  [PASS] TW2_persistence: {"pos_day_frac": 0.9767, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"dydx": {"live_interval
+  [FAIL] TW3_live_spread: {"live_apr": -0.3888, "median60d_apr": 0.3384, "frac_of_median": -1.149, "gate_frac": 0.4, "model": "sharpe_ff
+  [FAIL] TW4_depth_rewalk: {"worst_slip_bps": 97.0, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"dydx_short": {"entry_slip_bps": 76
+  [PASS] TW5_floor_monitor: {"venues": {"binance": {"params": {"cap": null, "floor": null, "fundingIntervalHours": 8}, "unchanged": true},
+  [PASS] TW6_counterparty: {"binance": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "dydx": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "pass", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK BTW aster->bitget $400/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 0.45089, "mid_long": 0.451777, "dev_pct": 0.196, "margining": ["linear_usdt", "linear_usdt"], "g
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.9667, "model": "native_event", "gate_pos_frac": 0.95, "intervals": {"aster": {"live_interva
+  [FAIL] TW3_live_spread: {"live_apr": 0.1036, "median60d_apr": 0.6496, "frac_of_median": 0.159, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 9.3, "gate_slip_bps": 25.0, "size_usd": 400, "walks": {"aster_short": {"entry_slip_bps": 6.
+  [PASS] TW5_floor_monitor: {"venues": {"aster": {"params": {"fundingFeeCap": 0.02, "fundingFeeFloor": -0.02, "fundingIntervalHours": 1.0,
+  [PASS] TW6_counterparty: {"aster": {"cap_usd": 20000.0, "exposure_now_usd": 400.0, "projected_usd": 800.0, "tier": 1}, "bitget": {"cap_
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "fail", "TW4_depth_rewalk
+nado perp symbols: 79
+
+== ENTRY CHECK LINK nado->okx $250/leg seq=sm_lt
+nado perp symbols: 79
+  [PASS] TW1_identity: {"mid_short": 12.0475, "mid_long": 12.0395, "dev_pct": 0.066, "margining": ["linear_usdc", "linear_usdt"], "ga
+  [FAIL] TW2_persistence: {"pos_day_frac": 0.932, "model": "sharpe_ffill", "gate_pos_frac": 0.95, "intervals": {"nado": {"live_interval_
+  [PASS] TW3_live_spread: {"live_apr": 0.1006, "median60d_apr": 0.0332, "frac_of_median": 3.034, "gate_frac": 0.4, "model": "sharpe_ffil
+  [PASS] TW4_depth_rewalk: {"worst_slip_bps": 0.5, "gate_slip_bps": 25.0, "size_usd": 250, "walks": {"nado_short": {"entry_slip_bps": 0.4
+  [PASS] TW5_floor_monitor: {"venues": {"okx": {"note": "no native funding-param endpoint (rate/interval watched via TW2)"}, "nado": {"not
+  [PASS] TW6_counterparty: {"okx": {"cap_usd": 20000.0, "exposure_now_usd": 250.0, "projected_usd": 500.0, "tier": 1}, "nado": {"cap_usd"
+  [FAIL] CHAIN: {"tripwires": {"TW1_identity": "pass", "TW2_persistence": "fail", "TW3_live_spread": "pass", "TW4_depth_rewalk
+nado perp symbols: 79
+
+[tick done 25.8s active=2]
+
+===== run window ended =====
+engine heartbeat: 2026-09-04T10:42:14Z
+
+positions:
+  #1 INJ bingx->okx         open       stage=init               entry=0.131% open=2026-09-03T10:26:23Z 
+  #2 UAI aster->binance     open       stage=long_taker         entry=0.082% open=2026-09-03T21:03:29Z 
+
+resting orders:
+
+recent fills:
+  2026-09-03T21:07:04Z UAI aster->binance   long /binance  buy  taker qty=1162.93 px=0.343959 slip=3.17 fee=5.0
+  2026-09-03T21:07:04Z UAI aster->binance   short/aster    sell maker qty=1159.76 px=0.3434 slip=0.0 fee=0.0
+  2026-09-03T10:26:23Z INJ bingx->okx       long /okx      buy  taker qty=51.5358 px=4.851 slip=2.06 fee=5.0
+  2026-09-03T10:26:23Z INJ bingx->okx       short/bingx    sell taker qty=51.5358 px=4.851 slip=1.03 fee=5.0

@@ -1,0 +1,71 @@
+=== 0. current book (5 asset_class slices)
+  current[crypto]: 5000 new rows (cum 5000)
+  current[equity]: 3160 new rows (cum 8160)
+  current[commodity]: 225 new rows (cum 8385)
+  current[fx]: 82 new rows (cum 8467)
+  current[index]: 78 new rows (cum 8545)
+  venues: 33 total, 25 new-to-us
+=== 1. candidate selection
+  short-cand venues: 19 | long-collect venues: 25 | unique coins: 202
+  capped to 170 coins
+=== 2. history pulls (2-slice strategy, checkpointed)
+  resume: 183 coins already in checkpoint
+=== 3. leg metrics
+  new-venue legs with metrics: 1882
+=== 4. pair construction (counter = direct venues)
+  pairs built: 1822
+=== 5. cross-validation: Sharpe vs our cache (3 cached coins)
+  HYPE Aster: 129h overlap, exact 79.8%, near 98.4%
+  HYPE Binance: 129h overlap, exact 69.8%, near 99.2%
+  HYPE Hyperliquid: 517h overlap, exact 76.0%, near 86.8%
+=== 6. reachability probes for candidate venues
+  ApeX           blocked    (guess)
+  Backpack       reachable  (guess)
+  BingX          reachable  (known)
+  BitMEX         reachable  (known)
+  Bitfinex       untested   ()
+  Bitunix        blocked    (guess)
+  CoinEx         blocked    (guess)
+  Coinbase       blocked    (guess)
+  Crypto.com     reachable  (known)
+  Deribit        untested   ()
+  Extended       blocked    (guess)
+  GRVT           blocked    (guess)
+  HTX            reachable  (known)
+  Kraken         reachable  (known)
+  KuCoin         reachable  (known)
+  LBank          blocked    (guess)
+  Lighter        blocked    (guess)
+  MEXC           blocked    (known)
+  Nado           reachable  (guess)
+  Orderly        reachable  (guess)
+  Pacifica       blocked    (guess)
+  Variational    blocked    (guess)
+  WhiteBIT       reachable  (guess)
+  edgeX          blocked    (guess)
+  tradeXYZ       blocked    (guess)
+
+WROTE /home/z/my-project/download/data/sharpe_newvenue_legs.csv (1882 rows)
+WROTE /home/z/my-project/download/data/sharpe_newvenue_pairs.csv (1822 rows)
+
+=== TOP 20 pairs by median spread APR ===
+  CASHCAT    hl         ->Crypto.com med   603.5% pos 80% days  49.8 net30   598.8% [untested]
+  COTI       bitget     ->Variational med   344.9% pos 64% days  33.3 net30   339.8% [untested]
+  COTI       bitget     ->Crypto.com med   316.5% pos 74% days  59.7 net30   311.4% [untested]
+  CELR       bitget     ->Crypto.com med   294.2% pos 82% days  59.7 net30   289.0% [untested]
+  COTI       bitget     ->Kraken   med   239.0% pos 82% days  59.7 net30   233.9% [untested]
+  XAG        bybit      ->Bitfinex med   234.6% pos 74% days   7.0 net30   229.6% [untested]
+  INJ        dydx       ->Extended med   201.5% pos 79% days  41.7 net30   196.6% [untested]
+  KAITO      binance    ->Kraken   med   197.5% pos 87% days  59.9 net30   192.6% [untested]
+  BIO        binance    ->Kraken   med   182.5% pos 83% days  59.9 net30   177.6% [untested]
+  AIXBT      binance    ->Kraken   med   177.2% pos 90% days  59.9 net30   172.3% [untested]
+  DATAIP     binance    ->Crypto.com med   153.6% pos 84% days  55.7 net30   148.7% [untested]
+  MSTR       bybit      ->Kraken   med   148.9% pos 70% days  59.0 net30   143.9% [untested]
+  MEW        binance    ->Kraken   med   147.5% pos 90% days  59.9 net30   142.7% [untested]
+  LINEA      okx        ->Crypto.com med   146.3% pos 82% days  59.9 net30   141.5% [untested]
+  APE        bitget     ->Extended med   143.2% pos 76% days  42.4 net30   138.1% [untested]
+  CELR       bitget     ->Kraken   med   138.4% pos 90% days  59.7 net30   133.3% [untested]
+  AAVE       hl         ->HTX      med   136.8% pos 94% days  59.1 net30   132.1% [untested]
+  LIT        dydx       ->Coinbase med   132.7% pos 98% days   7.4 net30   127.8% [untested]
+  COTI       bitget     ->KuCoin   med   132.7% pos 60% days  35.7 net30   127.6% [untested]
+  CRV        hl         ->Crypto.com med   132.0% pos 90% days  59.4 net30   127.3% [untested]

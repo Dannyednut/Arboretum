@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://app.hyperliquid.xyz",
+    "name": "Hyperliquid",
+    "snippet": "Trade crypto, commodities, indices, and more on Hyperliquid : 300+ perpetual and spot markets , fully onchain, non-custodial, 24/7.",
+    "host_name": "app.hyperliquid.xyz",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/defi/comments/1tp2o8m/hyperliquid_is_adding_prediction_markets_preipo",
+    "name": "hyperliquid is adding prediction markets, pre-IPO stocks",
+    "snippet": "genuine question not trying to hate. hyperliquid is on an insane run right now. HYPE at all time highs, bitwise ETF launched, prediction markets live, ...",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://goodcrypto.app/hyperliquid-dex-overview-the-best-trading-platform-of-2026",
+    "name": "Hyperliquid review: what you should know in 2026",
+    "snippet": "Jun 4, 2026 — Read a detailed Hyperliquid crypto project overview . Discover what it is, how to trade on it, and why it stands out as one of the best ...",
+    "host_name": "goodcrypto.app",
+    "rank": 2,
+    "date": "Jun 4, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/hyperps",
+    "name": "Hyperps - Hyperliquid Docs - GitBook",
+    "snippet": "Aug 17, 2026 — Hyperps with external prelaunch perp listings have mark price capped to 1.5x the median external perp price (the third component of the mark ...",
+    "host_name": "hyperliquid.gitbook.io",
+    "rank": 3,
+    "date": "Aug 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://panteracapital.com/rise-of-perps-and-hyperliquid",
+    "name": "Housing All of Finance: The Rise of Perps and Hyperliquid",
+    "snippet": "Jun 2, 2026 — Perpetual futures, or “ perps ”, are on a path to becoming one of the dominant trading instruments in global financial markets .",
+    "host_name": "panteracapital.com",
+    "rank": 4,
+    "date": "Jun 2, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://eco.com/support/en/articles/15039714-hyperliquid-spot-vs-perps",
+    "name": "Hyperliquid Spot Vs Perps | Support - Eco",
+    "snippet": "May 26, 2026 — Use perps if you want leverage, want to short, or care about capital efficiency for directional bets. Use spot if you want to actually own a ...",
+    "host_name": "eco.com",
+    "rank": 5,
+    "date": "May 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pluspower.com/hyperliquid-crypto-trading-spot-vs-perp-markets-compared",
+    "name": "Hyperliquid Crypto Trading Spot vs Perp Markets Compared",
+    "snippet": "Arbitrage bots thrive here: the on-chain order book updates in milliseconds, and trades settle in a single block. Interoperability with HyperEVM unlocks unique ...",
+    "host_name": "www.pluspower.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gate.com/learn/articles/prediction-market-perps-on-hyperliquid/11314",
+    "name": "Prediction Market Perps on Hyperliquid",
+    "snippet": "Mar 29, 2026 — Learn how HIP-3 transforms prediction markets into leveraged perpetual futures on Hyperliquid . Explore binary vs scalar markets , ...",
+    "host_name": "www.gate.com",
+    "rank": 7,
+    "date": "Mar 29, 2026",
+    "favicon": ""
+  }
+]

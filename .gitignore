@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+scripts/*.log
+scripts/*_cache*.json
+scripts/funding_history_cache*.json
+scripts/live_funding_snapshot.json
+scripts/snapshot_v*.json
+scripts/sharpe_*.json
+scripts/search_*.json
+scripts/_test_exec_kill.json
+download/data/*.db
+download/data/*.db-journal
+*.log
+tool-results/
+skills/
+agent-ctx/
+download/data/
+upload/
+
+# secrets: never commit real API keys
+.env
+.env.*
+!.env.example

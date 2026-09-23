@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://blofin.com",
+    "name": "BloFin to Update Perpetual Contract Funding Rate",
+    "snippet": "Dec 9, 2025 — BloFin Futures will officially introduce automated adjustments to the funding rate settlement frequency starting from 02:30 (UTC) on Dec 9, ...",
+    "host_name": "blofin.com",
+    "rank": 0,
+    "date": "Dec 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to",
+    "name": "Unlock the Full Potential of Your Trading with BloFin API",
+    "snippet": "Sep 3, 2025 — Apply the principle of least privilege; Regularly check active API keys and permissions ; Set up IP whitelisting; Rotate API keys periodically. Read more",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "Sep 3, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scribd.com",
+    "name": "BloFin API Documentation Overview | PDF",
+    "snippet": "Rate limits of trading-related APIs at 30 requests every 10 seconds. RATE Retrieve funding rate . Retrieve funding rate history. Retrieve the funding rate data ...",
+    "host_name": "www.scribd.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

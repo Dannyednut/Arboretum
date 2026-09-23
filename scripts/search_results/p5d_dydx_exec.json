@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://nautilustrader.io",
+    "name": "dYdX",
+    "snippet": "A dYdX v4 trading account (sub-account 0) is created only after the wallet's first deposit or trade . Until then, gRPC and Indexer account queries return not- ...",
+    "host_name": "nautilustrader.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.dydx.xyz",
+    "name": "Onboarding",
+    "snippet": "Mar 25, 2026 — The v4 - client -js library provides a function that deterministically generates the dYdX chain address (see accounts) and keys from the signed ...",
+    "host_name": "docs.dydx.xyz",
+    "rank": 1,
+    "date": "Mar 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.dydx.exchange",
+    "name": "Validator Client · dYdX · v4",
+    "snippet": "Getting Started · Initializing the Client · Configuring a Network · Creating a LocalWallet · Simulate, Sign and Send Transactions · Get Account Balances · Transfers, ...",
+    "host_name": "docs.dydx.exchange",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "dydxprotocol/v4-chain: dydx v4 protocol",
+    "snippet": "The dYdX v4 software (the ” dYdX Chain”) is a sovereign blockchain software built using Cosmos SDK and CometBFT. It powers a robust decentralized perpetual ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]

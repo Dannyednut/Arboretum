@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://docs.paradex.trade",
+    "name": "General Information | Paradex | Documentation",
+    "snippet": "Here you'll find all the documentation you need to get up and running with the Paradex API . Server Location · Server URLs · Quick Start · Authentication . Read more",
+    "host_name": "docs.paradex.trade",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "api-authentication.mdx - tradeparadex/paradex-docs",
+    "snippet": "API keys allow you to interact with the Paradex trading system programmatically without using the web interface. This guide covers how to generate and manage ... Read more",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tradeparadex.github.io",
+    "name": "Paradex Python SDK",
+    "snippet": "Create a new authentication token (JWT or API key ). Private endpoint requires authorization. Parameters: Name, Type, Description, Default. payload, dict. Read more",
+    "host_name": "tradeparadex.github.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketexpertstrading.com",
+    "name": "Paradex API Setup Guide",
+    "snippet": "Paradex's /v1/auth endpoint expects the signer's public key embedded in the URL path ( /v1/auth/<pub_key> ) so the server can verify against the correct ... Read more",
+    "host_name": "marketexpertstrading.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  }
+]
