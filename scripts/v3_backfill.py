@@ -12,6 +12,7 @@ stored per row. Venue names normalized to lowercase canonical.
 """
 import asyncio
 import json
+import os
 import sys
 import time
 
@@ -55,23 +56,28 @@ def main_load():
     print(f"native_hist (Part-4 cache): {len(rows):,} rows offered, "
           f"{after - before:,} inserted (dedup skipped {len(rows)-(after-before):,})")
 
-    c10 = json.load(open(P10))
-    rows = []
-    for coin, venues in c10.items():
-        for v, ev in venues.items():
-            if not ev:
-                continue
-            vv = norm_venue(v)
-            # checkpoint cache stored only [ts, rate]: interval metadata
-            # was dropped by the original cache writer -> stamp 0 (unknown)
-            # and let the scanner reconstruct per-row intervals.
-            for t, r in ev:
-                rows.append((vv, coin, int(t), float(r), 0.0, "sharpe_hist"))
-    before = after
-    st.insert_funding(con, rows)
-    after = con.execute("SELECT COUNT(*) FROM funding_obs").fetchone()[0]
-    print(f"sharpe_hist (Part-10 cache): {len(rows):,} rows offered, "
-          f"{after - before:,} inserted (dedup skipped {len(rows)-(after-before):,})")
+    p10 = os.path.exists(P10)
+    if not p10:
+        print(f"sharpe_hist: {P10} missing -> skip layer "
+              f"(rebuild via: python3 v3_backfill.py fetch-coins <COINS>)")
+    if p10:
+        c10 = json.load(open(P10))
+        rows = []
+        for coin, venues in c10.items():
+            for v, ev in venues.items():
+                if not ev:
+                    continue
+                vv = norm_venue(v)
+                # checkpoint cache stored only [ts, rate]: interval metadata
+                # was dropped by the original cache writer -> stamp 0 (unknown)
+                # and let the scanner reconstruct per-row intervals.
+                for t, r in ev:
+                    rows.append((vv, coin, int(t), float(r), 0.0, "sharpe_hist"))
+        before = after
+        st.insert_funding(con, rows)
+        after = con.execute("SELECT COUNT(*) FROM funding_obs").fetchone()[0]
+        print(f"sharpe_hist (Part-10 cache): {len(rows):,} rows offered, "
+              f"{after - before:,} inserted (dedup skipped {len(rows)-(after-before):,})")
 
     print("\nDB summary:")
     for r in con.execute("SELECT source, COUNT(*), COUNT(DISTINCT venue||'|'||base) "

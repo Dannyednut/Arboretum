@@ -858,3 +858,21 @@ Stage Summary:
 - github.com/Dannyednut/Arboretum LIVE: codebase published (paper/DRY_RUN system, key-free read surface)
 - GitHub history starts at f7c758b; full local history retained; DB blob bloat can never recur (.gitignore guards download/data/)
 - If full history ever wanted on GitHub: needs blob rewrite (filter-repo) on a bigger machine - logged, not planned
+
+---
+Task ID: 46
+Agent: Super Z (main agent)
+Task: "resume" - open Wave-0 items: funding_obs 90d re-backfill (rollback #5 loss) + pending-venue probe retries.
+
+Work Log:
+- ROLLBACK #6 at session start: v3.db/paper_v3.db 0-byte shells again (untracked revert). RESTORED from git-tracked dumps 20260922T1112: pos5 INJ bingx->okx open, 22 fills, tripwire 2753, kv 93. Gotcha on record: db_backup.restore() refuses existing paths (assert) -> rm shells first. Table names: exec_positions/paper_fills (not positions/fills)
+- History rebuild: funding_history_scan_v2.py re-run (fresh 90d, 158 coins, 7 native venues) -> cache 12.8MB. LESSON: nohup background dies with tool session; script checkpoint-writes cache -> foreground re-run resumes. Loaded native_hist 488,767 obs / 750 series (= original ~493k scale)
+- v3_backfill.py PATCHED: main_load tolerates missing P10 cache (skip + hint fetch-coins path) - P10 cache writer lost pre-rollback; added import os
+- Sharpe layer via fetch-coins (60d+8d two-slice): 155/158 coins covered in paced chunks (~35 coins/window; Sharpe free API throttles to non-JSON ~"Expecting value" - recoverable by pause+retry, NOT symbol-specific except MARSCOIN/MINIMAX/牛来 = 0 rows genuine gaps). sharpe_hist 1,020,445 obs / 3,489 series (= original ~1.07M scale). restamp: 897k rows verified vs live book (12,971 rows, 12,844 keys); 334 series kept inferred
+- Probe retries (probe_p5d_retry.py NEW): mexc BTC +4.7%/SOL +8.3% APR 8h NOW VIA SHARPE (was WAF); lighter BTC +10.5% 1h; extended BTC +11.4% 1h; paradex funding still Sharpe-pending (books live: BTC 1.07bps, SOL top thin 313bps); bitmex native still no active USDT perp BTC/ETH (underscore-migration limbo; Sharpe 8h +11%); blofin BTC not in Sharpe book
+- FINAL: funding_obs 1,509,212 obs; desk scan e2e green (feed 1076, kept 3, top ONE bitget->okx 28.8% net30 OI $1.57M); fresh dumps v3/paper_state_20260923T0445 (89.0/3.7 KB)
+
+Stage Summary:
+- Rollback #6 fully recovered in one session: book + BOTH history layers rebuilt (fresher than lost data); re-backfill playbook now documented (foreground chunks, throttle pacing, restamp)
+- Scanner effective coverage WIDER than Task 44: mexc/lighter/extended funding live via Sharpe fallback
+- OPEN: paradex funding coverage (Sharpe), bitmex listings, edgeX stake decision (user), MARSCOIN/MINIMAX/牛来 Sharpe gaps (micro-caps, acceptable)
