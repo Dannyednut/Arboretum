@@ -843,3 +843,18 @@ Work Log:
 
 Stage Summary:
 - Push pipeline armed: git push -u origin main next; upstream tracking set so future commit/push/pull is one command
+
+---
+Task ID: 45-c
+Agent: Super Z (main agent)
+Task: Push execution + repo publication.
+
+Work Log:
+- First push attempt (full history) FAILED: pack-objects OOM (signal 9) - history carries 7+ x 175MB download/data/v3.db blobs from pre-repo-slim era; sandbox RAM 4GB insufficient
+- RESOLUTION: full history preserved locally on branch backup-full-history (never push); main squashed to fresh initial commit f7c758b (current tree = 19MB / 298 files: engine + docs + worklog + .env.example, secrets/DBs excluded by .gitignore)
+- PUSHED: origin/main created, upstream tracking set. Ongoing flow = normal commit + git push (one command)
+
+Stage Summary:
+- github.com/Dannyednut/Arboretum LIVE: codebase published (paper/DRY_RUN system, key-free read surface)
+- GitHub history starts at f7c758b; full local history retained; DB blob bloat can never recur (.gitignore guards download/data/)
+- If full history ever wanted on GitHub: needs blob rewrite (filter-repo) on a bigger machine - logged, not planned
