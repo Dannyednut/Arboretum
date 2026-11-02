@@ -876,3 +876,20 @@ Stage Summary:
 - Rollback #6 fully recovered in one session: book + BOTH history layers rebuilt (fresher than lost data); re-backfill playbook now documented (foreground chunks, throttle pacing, restamp)
 - Scanner effective coverage WIDER than Task 44: mexc/lighter/extended funding live via Sharpe fallback
 - OPEN: paradex funding coverage (Sharpe), bitmex listings, edgeX stake decision (user), MARSCOIN/MINIMAX/牛来 Sharpe gaps (micro-caps, acceptable)
+
+---
+Task ID: 47
+Agent: Super Z (main agent)
+Task: "resume" - ops engine window (8-min paper) on restored state; incident + reconciliation followed.
+
+Work Log:
+- ROLLBACK #7 (new variant): sandbox reverted v3.db between sessions to the ORIGINAL pre-rollback-#5 file (funding_obs 1.58M Sep-14 vintage, kv 87, tripwire 2753, positions 1-4 ONLY) - NOT a 0-byte shell this time. Sep-23 lineage (Task-46 re-backfill + reconstructed pos5/pos6 + 22 fills) survived ONLY in git-tracked dumps 0445
+- Engine behaved CORRECTLY on its view: freeze expiries cleaned (aster/bitget), nado->okx candidate REFUSED by gates (TW2 pos_day_frac 0.932 < 0.95 + TW3 live_apr -10.3% vs median +3.3%), then opened INJ bingx->okx $250/leg @7.237 taker both, entry RT 0.114%, slips 0.69bps - ALL TW passed on original history. EXEC_OPEN "pos 5" (id 5 via fresh AUTOINCREMENT - fingerprint that exposed the revert)
+- LEDGER RECONCILED (scripts/reconcile_r7.py, idempotent, from 0445 dump): old pos5 (Sep-16, reconstructed T40) -> pos_id 8 status=archived (flags explain; engine active-filter excludes), old pos6 (closed -$0.43) -> pos_id 7 + its 4 fills re-noted pos:7, old pos5's 2 reconstructed entry fills re-attached pos:8 (fingerprint widened to ts+notes+venue+side; ts_archived DB-fallback for idempotent reruns). BUG in first draft: up() compared col index vs len(value-string) -> None fields; caught by qty=None/status=None print, purged + fixed
+- History refresh: fetch-coins x28 (INJ+majors+E1 cohort+desk candidates) -> +193,519 rows asof 2026-11-02 = 6-week funding_obs gap CLOSED for active universe. Total 1,776,207 obs
+- FINAL: 7 positions (1 open = fresh pos5; 7 closed; 8 archived), 24 fills, tripwire 2759, dumps 20261102T1411 (88.5/3.7 KB)
+
+Stage Summary:
+- Rollback #7 fully reconciled; ledger now = original lineage + fresh pos5 + Sep-23 history preserved (archived/closed rows). No engine changes needed - gates + AUTOINCREMENT fingerprint worked as designed
+- PLAYBOOK hardened: reconcile_r7.py pattern (dump-parse + id-remap + fingerprint dedup) reusable for future reverts; rollback variants now 2 (0-byte shell / vintage file swap) - both recoverable from git-tracked dumps alone
+- Desk scan top candidate ONE bitget->okx 28.8% net30 (T46) remains on watch; pos5 fresh entry @7.237 monitoring live
